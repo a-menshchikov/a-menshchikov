@@ -19,12 +19,12 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (1 day ago)
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (today)
 - [certificationy/symfony-pack](https://github.com/certificationy/symfony-pack) - A series of questions to prepare for the Symfony certification (1 day ago)
-- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (3 days ago)
-- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) (1 week ago)
-- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) (1 week ago)
+- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (1 day ago)
 - [nbgrp/singleid](https://github.com/nbgrp/singleid) (1 week ago)
+- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) (1 week ago)
+- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) (1 week ago)
 - [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (1 week ago)
 - [nbgrp/singleid-nginx-lua](https://github.com/nbgrp/singleid-nginx-lua) (2 weeks ago)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) (3 weeks ago)
@@ -34,8 +34,8 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v1.0.1](https://github.com/nbgrp/env-bundle/releases/tag/v1.0.1), today)
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.4.2](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.4.2), 1 day ago) - OneLogin SAML Bundle for Symfony
-- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v1.0](https://github.com/nbgrp/env-bundle/releases/tag/v1.0), 2 days ago)
 - [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) ([v0.0.4](https://github.com/nbgrp/singleid-jwt/releases/tag/v0.0.4), 1 week ago)
 - [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) ([v0.0.4](https://github.com/nbgrp/singleid-redis/releases/tag/v0.0.4), 1 week ago)
 - [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) ([v0.0.4](https://github.com/nbgrp/singleid-contracts/releases/tag/v0.0.4), 1 week ago)
