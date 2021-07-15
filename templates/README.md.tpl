@@ -15,8 +15,6 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 [comment]: <> (![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=a-menshchikov&theme=calm&hide_title=true&layout=compact&count_private=true&include_all_commits=true&langs_count=6&#41;)
 
-![](https://hit.yhype.me/github/profile?user_id=2580489)
-
 ---
 
 ### 👷 Check out what I'm currently working on
@@ -51,3 +49,4 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 - Email: [amenshchikov@gmail.com](mailto://amenshchikov@gmail.com)
 - Telegram: [@amenshchikov](https://t.me/amenshchikov)
+![](https://hit.yhype.me/github/profile?user_id=2580489)
