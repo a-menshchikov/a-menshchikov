@@ -19,8 +19,8 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) (today)
 - [nbgrp/singleid](https://github.com/nbgrp/singleid) (today)
+- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) (today)
 - [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) (today)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 day ago)
 - [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (1 day ago)
