@@ -34,7 +34,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
-- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) ([v0.0.5](https://github.com/nbgrp/singleid-redis/releases/tag/v0.0.5), 1 day ago)
+- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) ([v0.0.5](https://github.com/nbgrp/singleid-redis/releases/tag/v0.0.5), today)
 - [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) ([v0.0.5](https://github.com/nbgrp/singleid-jwt/releases/tag/v0.0.5), 1 day ago)
 - [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) ([v0.0.5](https://github.com/nbgrp/singleid-contracts/releases/tag/v0.0.5), 1 day ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v1.0.1](https://github.com/nbgrp/env-bundle/releases/tag/v1.0.1), 5 days ago)
