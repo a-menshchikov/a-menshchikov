@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (5 days ago)
+- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (today)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) (5 days ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (5 days ago)
 - [nbgrp/singleid-nginx-lua](https://github.com/nbgrp/singleid-nginx-lua) (6 days ago)
@@ -28,13 +28,13 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 - [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) (1 week ago)
 - [certificationy/symfony-pack](https://github.com/certificationy/symfony-pack) - A series of questions to prepare for the Symfony certification (1 week ago)
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (1 week ago)
-- [php/doc-ru](https://github.com/php/doc-ru) - Russian translation of the PHP documentation (1 month ago)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 month ago)
 
 ---
 
 ### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.4](https://github.com/symfony/symfony/releases/tag/v5.3.4), 1 day ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.5](https://github.com/symfony/symfony/releases/tag/v5.3.5), today) - The Symfony PHP framework
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v1.0.2](https://github.com/nbgrp/env-bundle/releases/tag/v1.0.2), 5 days ago)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.0.2](https://github.com/nbgrp/auditor/releases/tag/v0.0.2), 5 days ago)
 - [phpmd/phpmd](https://github.com/phpmd/phpmd) ([2.10.2](https://github.com/phpmd/phpmd/releases/tag/2.10.2), 5 days ago) - PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD. PHPMD can be seen as an user friendly frontend application for the raw metrics stream measured by PHP Depend.
