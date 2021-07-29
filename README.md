@@ -19,13 +19,13 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (1 day ago)
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) (6 days ago)
-- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (6 days ago)
+- [nbgrp/singleid](https://github.com/nbgrp/singleid) (1 day ago)
+- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) (1 day ago)
+- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) (1 day ago)
+- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (2 days ago)
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (3 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) (1 week ago)
 - [nbgrp/singleid-nginx-lua](https://github.com/nbgrp/singleid-nginx-lua) (1 week ago)
-- [nbgrp/singleid](https://github.com/nbgrp/singleid) (1 week ago)
-- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) (1 week ago)
-- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) (1 week ago)
 - [certificationy/symfony-pack](https://github.com/certificationy/symfony-pack) - A series of questions to prepare for the Symfony certification (2 weeks ago)
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (2 weeks ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 month ago)
@@ -34,13 +34,13 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.5](https://github.com/symfony/symfony/releases/tag/v5.3.5), 1 day ago) - The Symfony PHP framework
-- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v1.0.2](https://github.com/nbgrp/env-bundle/releases/tag/v1.0.2), 6 days ago)
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.0.2](https://github.com/nbgrp/auditor/releases/tag/v0.0.2), 6 days ago)
-- [phpmd/phpmd](https://github.com/phpmd/phpmd) ([2.10.2](https://github.com/phpmd/phpmd/releases/tag/2.10.2), 6 days ago) - PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD. PHPMD can be seen as an user friendly frontend application for the raw metrics stream measured by PHP Depend.
-- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) ([v0.0.5](https://github.com/nbgrp/singleid-redis/releases/tag/v0.0.5), 1 week ago)
-- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) ([v0.0.5](https://github.com/nbgrp/singleid-jwt/releases/tag/v0.0.5), 1 week ago)
-- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) ([v0.0.5](https://github.com/nbgrp/singleid-contracts/releases/tag/v0.0.5), 1 week ago)
+- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) ([v0.0.6](https://github.com/nbgrp/singleid-jwt/releases/tag/v0.0.6), 1 day ago)
+- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) ([v0.0.6](https://github.com/nbgrp/singleid-redis/releases/tag/v0.0.6), 1 day ago)
+- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) ([v0.0.6](https://github.com/nbgrp/singleid-contracts/releases/tag/v0.0.6), 1 day ago)
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.5](https://github.com/symfony/symfony/releases/tag/v5.3.5), 2 days ago) - The Symfony PHP framework
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v1.0.2](https://github.com/nbgrp/env-bundle/releases/tag/v1.0.2), 1 week ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.0.2](https://github.com/nbgrp/auditor/releases/tag/v0.0.2), 1 week ago)
+- [phpmd/phpmd](https://github.com/phpmd/phpmd) ([2.10.2](https://github.com/phpmd/phpmd/releases/tag/2.10.2), 1 week ago) - PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD. PHPMD can be seen as an user friendly frontend application for the raw metrics stream measured by PHP Depend.
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.4.2](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.4.2), 2 weeks ago) - OneLogin SAML Bundle for Symfony
 - [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) ([3.3.0](https://github.com/maglnet/ComposerRequireChecker/releases/tag/3.3.0), 1 month ago) - A CLI tool to check whether a specific composer package uses imported symbols that aren&#39;t part of its direct composer dependencies
 - [FriendsOfSymfony/FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle) ([3.0.5](https://github.com/FriendsOfSymfony/FOSRestBundle/releases/tag/3.0.5), 5 months ago) - This Bundle provides various tools to rapidly develop RESTful API&#39;s with Symfony
