@@ -19,11 +19,11 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
+- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (today)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 day ago)
 - [nbgrp/singleid](https://github.com/nbgrp/singleid) (2 days ago)
 - [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) (2 days ago)
 - [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) (2 days ago)
-- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (3 days ago)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) (1 week ago)
 - [nbgrp/singleid-nginx-lua](https://github.com/nbgrp/singleid-nginx-lua) (1 week ago)
 - [certificationy/symfony-pack](https://github.com/certificationy/symfony-pack) - A series of questions to prepare for the Symfony certification (2 weeks ago)
