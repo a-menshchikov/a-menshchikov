@@ -19,11 +19,11 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (1 day ago)
-- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (2 days ago)
-- [nbgrp/singleid](https://github.com/nbgrp/singleid) (3 days ago)
-- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) (3 days ago)
-- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) (3 days ago)
+- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (2 days ago)
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (3 days ago)
+- [nbgrp/singleid](https://github.com/nbgrp/singleid) (4 days ago)
+- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) (4 days ago)
+- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) (4 days ago)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) (1 week ago)
 - [nbgrp/singleid-nginx-lua](https://github.com/nbgrp/singleid-nginx-lua) (1 week ago)
 - [certificationy/symfony-pack](https://github.com/certificationy/symfony-pack) - A series of questions to prepare for the Symfony certification (2 weeks ago)
@@ -34,10 +34,10 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), 2 days ago) - The Symfony PHP framework
-- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) ([v0.0.6](https://github.com/nbgrp/singleid-jwt/releases/tag/v0.0.6), 3 days ago)
-- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) ([v0.0.6](https://github.com/nbgrp/singleid-redis/releases/tag/v0.0.6), 3 days ago)
-- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) ([v0.0.6](https://github.com/nbgrp/singleid-contracts/releases/tag/v0.0.6), 3 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), 3 days ago) - The Symfony PHP framework
+- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) ([v0.0.6](https://github.com/nbgrp/singleid-jwt/releases/tag/v0.0.6), 4 days ago)
+- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) ([v0.0.6](https://github.com/nbgrp/singleid-redis/releases/tag/v0.0.6), 4 days ago)
+- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) ([v0.0.6](https://github.com/nbgrp/singleid-contracts/releases/tag/v0.0.6), 4 days ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v1.0.2](https://github.com/nbgrp/env-bundle/releases/tag/v1.0.2), 1 week ago)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.0.2](https://github.com/nbgrp/auditor/releases/tag/v0.0.2), 1 week ago)
 - [phpmd/phpmd](https://github.com/phpmd/phpmd) ([2.10.2](https://github.com/phpmd/phpmd/releases/tag/2.10.2), 1 week ago) - PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD. PHPMD can be seen as an user friendly frontend application for the raw metrics stream measured by PHP Depend.
