@@ -19,9 +19,9 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories (3 days ago)
-- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (3 days ago)
-- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (6 days ago)
+- [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories (4 days ago)
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (4 days ago)
+- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (1 week ago)
 - [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) (1 week ago)
 - [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) (1 week ago)
 - [nbgrp/singleid](https://github.com/nbgrp/singleid) (1 week ago)
@@ -34,7 +34,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
-- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v1.0.3](https://github.com/nbgrp/env-bundle/releases/tag/v1.0.3), 3 days ago)
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v1.0.3](https://github.com/nbgrp/env-bundle/releases/tag/v1.0.3), 4 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), 1 week ago) - The Symfony PHP framework
 - [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) ([v0.0.6](https://github.com/nbgrp/singleid-jwt/releases/tag/v0.0.6), 1 week ago)
 - [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) ([v0.0.6](https://github.com/nbgrp/singleid-redis/releases/tag/v0.0.6), 1 week ago)
