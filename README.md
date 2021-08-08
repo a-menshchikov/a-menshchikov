@@ -19,8 +19,8 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories (5 days ago)
-- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (5 days ago)
+- [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories (6 days ago)
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (6 days ago)
 - [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (1 week ago)
 - [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) (1 week ago)
 - [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) (1 week ago)
@@ -34,7 +34,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
-- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v1.0.3](https://github.com/nbgrp/env-bundle/releases/tag/v1.0.3), 5 days ago)
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v1.0.3](https://github.com/nbgrp/env-bundle/releases/tag/v1.0.3), 6 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), 1 week ago) - The Symfony PHP framework
 - [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) ([v0.0.6](https://github.com/nbgrp/singleid-jwt/releases/tag/v0.0.6), 1 week ago)
 - [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) ([v0.0.6](https://github.com/nbgrp/singleid-redis/releases/tag/v0.0.6), 1 week ago)
@@ -42,7 +42,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.0.2](https://github.com/nbgrp/auditor/releases/tag/v0.0.2), 2 weeks ago)
 - [phpmd/phpmd](https://github.com/phpmd/phpmd) ([2.10.2](https://github.com/phpmd/phpmd/releases/tag/2.10.2), 2 weeks ago) - PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD. PHPMD can be seen as an user friendly frontend application for the raw metrics stream measured by PHP Depend.
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.4.2](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.4.2), 3 weeks ago) - OneLogin SAML Bundle for Symfony
-- [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) ([3.3.0](https://github.com/maglnet/ComposerRequireChecker/releases/tag/3.3.0), 1 month ago) - A CLI tool to check whether a specific composer package uses imported symbols that aren&#39;t part of its direct composer dependencies
+- [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) ([3.3.0](https://github.com/maglnet/ComposerRequireChecker/releases/tag/3.3.0), 2 months ago) - A CLI tool to check whether a specific composer package uses imported symbols that aren&#39;t part of its direct composer dependencies
 - [FriendsOfSymfony/FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle) ([3.0.5](https://github.com/FriendsOfSymfony/FOSRestBundle/releases/tag/3.0.5), 6 months ago) - This Bundle provides various tools to rapidly develop RESTful API&#39;s with Symfony
 
 ---
@@ -53,7 +53,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 - [Fix user persist](https://github.com/hslavich/OneloginSamlBundle/pull/179) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (3 weeks ago)
 - [Add nbgrp/env-bundle 1.0](https://github.com/symfony/recipes-contrib/pull/1177) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (3 weeks ago)
 - [1.x fixes](https://github.com/hslavich/OneloginSamlBundle/pull/177) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (1 month ago)
-- [Update security.yml](https://github.com/certificationy/symfony-pack/pull/91) on [certificationy/symfony-pack](https://github.com/certificationy/symfony-pack) (1 month ago)
+- [Update security.yml](https://github.com/certificationy/symfony-pack/pull/91) on [certificationy/symfony-pack](https://github.com/certificationy/symfony-pack) (2 months ago)
 - [Missed default &#34;persist_user&#34;](https://github.com/hslavich/OneloginSamlBundle/pull/174) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (2 months ago)
 - [[Configuration] Using MicroKernelTrait::getBundlesPath with Multiple Kernels](https://github.com/symfony/symfony-docs/pull/15423) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (2 months ago)
 - [Event-based user persistence (2.x)](https://github.com/hslavich/OneloginSamlBundle/pull/172) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (2 months ago)
