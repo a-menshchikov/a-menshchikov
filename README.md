@@ -22,13 +22,13 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 - [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories (1 week ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 week ago)
 - [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (1 week ago)
-- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) (1 week ago)
-- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) (1 week ago)
-- [nbgrp/singleid](https://github.com/nbgrp/singleid) (1 week ago)
+- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) (2 weeks ago)
+- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) (2 weeks ago)
+- [nbgrp/singleid](https://github.com/nbgrp/singleid) (2 weeks ago)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) (2 weeks ago)
-- [nbgrp/singleid-nginx-lua](https://github.com/nbgrp/singleid-nginx-lua) (2 weeks ago)
-- [certificationy/symfony-pack](https://github.com/certificationy/symfony-pack) - A series of questions to prepare for the Symfony certification (3 weeks ago)
-- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (3 weeks ago)
+- [nbgrp/singleid-nginx-lua](https://github.com/nbgrp/singleid-nginx-lua) (3 weeks ago)
+- [certificationy/symfony-pack](https://github.com/certificationy/symfony-pack) - A series of questions to prepare for the Symfony certification (4 weeks ago)
+- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (4 weeks ago)
 
 ---
 
@@ -36,12 +36,12 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v1.0.3](https://github.com/nbgrp/env-bundle/releases/tag/v1.0.3), 1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), 1 week ago) - The Symfony PHP framework
-- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) ([v0.0.6](https://github.com/nbgrp/singleid-jwt/releases/tag/v0.0.6), 1 week ago)
-- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) ([v0.0.6](https://github.com/nbgrp/singleid-redis/releases/tag/v0.0.6), 1 week ago)
-- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) ([v0.0.6](https://github.com/nbgrp/singleid-contracts/releases/tag/v0.0.6), 1 week ago)
+- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) ([v0.0.6](https://github.com/nbgrp/singleid-jwt/releases/tag/v0.0.6), 2 weeks ago)
+- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) ([v0.0.6](https://github.com/nbgrp/singleid-redis/releases/tag/v0.0.6), 2 weeks ago)
+- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) ([v0.0.6](https://github.com/nbgrp/singleid-contracts/releases/tag/v0.0.6), 2 weeks ago)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.0.2](https://github.com/nbgrp/auditor/releases/tag/v0.0.2), 2 weeks ago)
 - [phpmd/phpmd](https://github.com/phpmd/phpmd) ([2.10.2](https://github.com/phpmd/phpmd/releases/tag/2.10.2), 2 weeks ago) - PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD. PHPMD can be seen as an user friendly frontend application for the raw metrics stream measured by PHP Depend.
-- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.4.2](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.4.2), 3 weeks ago) - OneLogin SAML Bundle for Symfony
+- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.4.2](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.4.2), 4 weeks ago) - OneLogin SAML Bundle for Symfony
 - [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) ([3.3.0](https://github.com/maglnet/ComposerRequireChecker/releases/tag/3.3.0), 2 months ago) - A CLI tool to check whether a specific composer package uses imported symbols that aren&#39;t part of its direct composer dependencies
 - [FriendsOfSymfony/FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle) ([3.0.5](https://github.com/FriendsOfSymfony/FOSRestBundle/releases/tag/3.0.5), 6 months ago) - This Bundle provides various tools to rapidly develop RESTful API&#39;s with Symfony
 
@@ -49,8 +49,8 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔨 My recent Pull Requests
 
-- [Fix user persist](https://github.com/hslavich/OneloginSamlBundle/pull/180) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (3 weeks ago)
-- [Fix user persist](https://github.com/hslavich/OneloginSamlBundle/pull/179) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (3 weeks ago)
+- [Fix user persist](https://github.com/hslavich/OneloginSamlBundle/pull/180) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (4 weeks ago)
+- [Fix user persist](https://github.com/hslavich/OneloginSamlBundle/pull/179) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (4 weeks ago)
 - [Add nbgrp/env-bundle 1.0](https://github.com/symfony/recipes-contrib/pull/1177) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (4 weeks ago)
 - [1.x fixes](https://github.com/hslavich/OneloginSamlBundle/pull/177) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (1 month ago)
 - [Update security.yml](https://github.com/certificationy/symfony-pack/pull/91) on [certificationy/symfony-pack](https://github.com/certificationy/symfony-pack) (2 months ago)
