@@ -19,9 +19,9 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) (1 day ago)
-- [nbgrp/singleid](https://github.com/nbgrp/singleid) (1 day ago)
-- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) (1 day ago)
+- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) (2 days ago)
+- [nbgrp/singleid](https://github.com/nbgrp/singleid) (2 days ago)
+- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) (2 days ago)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) (1 week ago)
 - [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (1 week ago)
 - [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories (1 month ago)
@@ -34,7 +34,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.7](https://github.com/symfony/symfony/releases/tag/v5.3.7), 2 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.7](https://github.com/symfony/symfony/releases/tag/v5.3.7), 3 days ago) - The Symfony PHP framework
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.1.0](https://github.com/nbgrp/auditor/releases/tag/v0.1.0), 1 week ago)
 - [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) ([v0.1.0](https://github.com/nbgrp/singleid-jwt/releases/tag/v0.1.0), 1 week ago)
 - [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) ([v0.1.0](https://github.com/nbgrp/singleid-contracts/releases/tag/v0.1.0), 1 week ago)
