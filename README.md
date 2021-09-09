@@ -19,11 +19,11 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) (6 days ago)
-- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (6 days ago)
-- [nbgrp/singleid](https://github.com/nbgrp/singleid) (6 days ago)
-- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) (6 days ago)
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) (6 days ago)
+- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) (1 week ago)
+- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (1 week ago)
+- [nbgrp/singleid](https://github.com/nbgrp/singleid) (1 week ago)
+- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) (1 week ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) (1 week ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 month ago)
 - [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories (1 month ago)
 - [nbgrp/singleid-nginx-lua](https://github.com/nbgrp/singleid-nginx-lua) (1 month ago)
@@ -34,9 +34,9 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
-- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) ([v0.1.2](https://github.com/nbgrp/singleid-jwt/releases/tag/v0.1.2), 6 days ago)
-- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) ([v0.1.1](https://github.com/nbgrp/singleid-redis/releases/tag/v0.1.1), 6 days ago)
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.1.1](https://github.com/nbgrp/auditor/releases/tag/v0.1.1), 6 days ago)
+- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) ([v0.1.2](https://github.com/nbgrp/singleid-jwt/releases/tag/v0.1.2), 1 week ago)
+- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) ([v0.1.1](https://github.com/nbgrp/singleid-redis/releases/tag/v0.1.1), 1 week ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.1.1](https://github.com/nbgrp/auditor/releases/tag/v0.1.1), 1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.7](https://github.com/symfony/symfony/releases/tag/v5.3.7), 1 week ago) - The Symfony PHP framework
 - [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) ([v0.1.0](https://github.com/nbgrp/singleid-contracts/releases/tag/v0.1.0), 2 weeks ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v1.0.3](https://github.com/nbgrp/env-bundle/releases/tag/v1.0.3), 1 month ago)
