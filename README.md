@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [a-menshchikov/writing-javascript-actions](https://github.com/a-menshchikov/writing-javascript-actions) (today)
+- [a-menshchikov/writing-javascript-actions](https://github.com/a-menshchikov/writing-javascript-actions) (1 day ago)
 - [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) (1 week ago)
 - [nbgrp/singleid](https://github.com/nbgrp/singleid) (1 week ago)
 - [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) (1 week ago)
