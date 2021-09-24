@@ -48,7 +48,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔨 My recent Pull Requests
 
-- [Create a workflow](https://github.com/a-menshchikov/writing-javascript-actions/pull/2) on [a-menshchikov/writing-javascript-actions](https://github.com/a-menshchikov/writing-javascript-actions) (4 weeks ago)
+- [Create a workflow](https://github.com/a-menshchikov/writing-javascript-actions/pull/2) on [a-menshchikov/writing-javascript-actions](https://github.com/a-menshchikov/writing-javascript-actions) (1 month ago)
 - [Fix user persist](https://github.com/hslavich/OneloginSamlBundle/pull/180) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (2 months ago)
 - [Fix user persist](https://github.com/hslavich/OneloginSamlBundle/pull/179) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (2 months ago)
 - [Add nbgrp/env-bundle 1.0](https://github.com/symfony/recipes-contrib/pull/1177) on [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) (2 months ago)
