@@ -34,7 +34,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), 1 day ago) - The Symfony PHP framework
 - [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) ([v0.1.2](https://github.com/nbgrp/singleid-jwt/releases/tag/v0.1.2), 3 weeks ago)
 - [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) ([v0.1.1](https://github.com/nbgrp/singleid-redis/releases/tag/v0.1.1), 3 weeks ago)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.1.1](https://github.com/nbgrp/auditor/releases/tag/v0.1.1), 3 weeks ago)
