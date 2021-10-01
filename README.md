@@ -19,12 +19,12 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
+- [a-menshchikov/writing-javascript-actions](https://github.com/a-menshchikov/writing-javascript-actions) (today)
 - [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (1 day ago)
 - [nbgrp/singleid-nginx-lua](https://github.com/nbgrp/singleid-nginx-lua) (1 day ago)
-- [a-menshchikov/writing-javascript-actions](https://github.com/a-menshchikov/writing-javascript-actions) (3 weeks ago)
-- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) (4 weeks ago)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) (4 weeks ago)
 - [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) (4 weeks ago)
+- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) (4 weeks ago)
 - [nbgrp/singleid](https://github.com/nbgrp/singleid) (4 weeks ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (2 months ago)
 - [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories (2 months ago)
@@ -48,6 +48,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔨 My recent Pull Requests
 
+- [External APIs](https://github.com/a-menshchikov/writing-javascript-actions/pull/6) on [a-menshchikov/writing-javascript-actions](https://github.com/a-menshchikov/writing-javascript-actions) (today)
 - [Create a workflow](https://github.com/a-menshchikov/writing-javascript-actions/pull/2) on [a-menshchikov/writing-javascript-actions](https://github.com/a-menshchikov/writing-javascript-actions) (1 month ago)
 - [Fix user persist](https://github.com/hslavich/OneloginSamlBundle/pull/180) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (2 months ago)
 - [Fix user persist](https://github.com/hslavich/OneloginSamlBundle/pull/179) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (2 months ago)
@@ -57,7 +58,6 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 - [Missed default &#34;persist_user&#34;](https://github.com/hslavich/OneloginSamlBundle/pull/174) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (3 months ago)
 - [[Configuration] Using MicroKernelTrait::getBundlesPath with Multiple Kernels](https://github.com/symfony/symfony-docs/pull/15423) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (3 months ago)
 - [Event-based user persistence (2.x)](https://github.com/hslavich/OneloginSamlBundle/pull/172) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (3 months ago)
-- [Event-based user persistence (1.x)](https://github.com/hslavich/OneloginSamlBundle/pull/171) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (3 months ago)
 
 ---
 
