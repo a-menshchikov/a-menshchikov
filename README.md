@@ -19,9 +19,9 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [a-menshchikov/writing-javascript-actions](https://github.com/a-menshchikov/writing-javascript-actions) (3 days ago)
-- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (4 days ago)
-- [nbgrp/singleid-nginx-lua](https://github.com/nbgrp/singleid-nginx-lua) (4 days ago)
+- [a-menshchikov/writing-javascript-actions](https://github.com/a-menshchikov/writing-javascript-actions) (4 days ago)
+- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (5 days ago)
+- [nbgrp/singleid-nginx-lua](https://github.com/nbgrp/singleid-nginx-lua) (5 days ago)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) (1 month ago)
 - [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) (1 month ago)
 - [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) (1 month ago)
@@ -34,7 +34,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), 6 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), 1 week ago) - The Symfony PHP framework
 - [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) ([v0.1.2](https://github.com/nbgrp/singleid-jwt/releases/tag/v0.1.2), 1 month ago)
 - [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) ([v0.1.1](https://github.com/nbgrp/singleid-redis/releases/tag/v0.1.1), 1 month ago)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.1.1](https://github.com/nbgrp/auditor/releases/tag/v0.1.1), 1 month ago)
@@ -48,7 +48,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔨 My recent Pull Requests
 
-- [External APIs](https://github.com/a-menshchikov/writing-javascript-actions/pull/6) on [a-menshchikov/writing-javascript-actions](https://github.com/a-menshchikov/writing-javascript-actions) (3 days ago)
+- [External APIs](https://github.com/a-menshchikov/writing-javascript-actions/pull/6) on [a-menshchikov/writing-javascript-actions](https://github.com/a-menshchikov/writing-javascript-actions) (4 days ago)
 - [Create a workflow](https://github.com/a-menshchikov/writing-javascript-actions/pull/2) on [a-menshchikov/writing-javascript-actions](https://github.com/a-menshchikov/writing-javascript-actions) (1 month ago)
 - [Fix user persist](https://github.com/hslavich/OneloginSamlBundle/pull/180) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (2 months ago)
 - [Fix user persist](https://github.com/hslavich/OneloginSamlBundle/pull/179) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (2 months ago)
