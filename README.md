@@ -20,10 +20,10 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 ### 👷 Check out what I'm currently working on
 
 - [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) (today)
+- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (today)
 - [nbgrp/singleid](https://github.com/nbgrp/singleid) (today)
-- [nbgrp/singleid-payload](https://github.com/nbgrp/singleid-payload) (1 day ago)
-- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (1 day ago)
-- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) (1 day ago)
+- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) (today)
+- [nbgrp/singleid-payload](https://github.com/nbgrp/singleid-payload) (today)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 day ago)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) (5 days ago)
 - [nbgrp/singleid-nginx-lua](https://github.com/nbgrp/singleid-nginx-lua) (1 week ago)
@@ -34,10 +34,10 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
-- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) ([v0.2.1](https://github.com/nbgrp/singleid-jwt/releases/tag/v0.2.1), 1 day ago)
-- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) ([v0.2.1](https://github.com/nbgrp/singleid-contracts/releases/tag/v0.2.1), 1 day ago)
-- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) ([v0.2.0](https://github.com/nbgrp/singleid-redis/releases/tag/v0.2.0), 1 day ago)
-- [nbgrp/singleid-payload](https://github.com/nbgrp/singleid-payload) ([v0.2.0](https://github.com/nbgrp/singleid-payload/releases/tag/v0.2.0), 1 day ago)
+- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) ([v0.3.0](https://github.com/nbgrp/singleid-redis/releases/tag/v0.3.0), today)
+- [nbgrp/singleid-payload](https://github.com/nbgrp/singleid-payload) ([v0.3.0](https://github.com/nbgrp/singleid-payload/releases/tag/v0.3.0), today)
+- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) ([v0.3.0](https://github.com/nbgrp/singleid-jwt/releases/tag/v0.3.0), today)
+- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) ([v0.3.0](https://github.com/nbgrp/singleid-contracts/releases/tag/v0.3.0), today)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.2.0](https://github.com/nbgrp/auditor/releases/tag/v0.2.0), 1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), 1 week ago) - The Symfony PHP framework
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v1.0.3](https://github.com/nbgrp/env-bundle/releases/tag/v1.0.3), 2 months ago)
