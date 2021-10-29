@@ -34,12 +34,12 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.10](https://github.com/symfony/symfony/releases/tag/v5.3.10), today) - The Symfony PHP framework
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.2.1](https://github.com/nbgrp/auditor/releases/tag/v0.2.1), 4 days ago)
 - [nbgrp/singleid-payload](https://github.com/nbgrp/singleid-payload) ([v0.3.1](https://github.com/nbgrp/singleid-payload/releases/tag/v0.3.1), 2 weeks ago)
 - [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) ([v0.3.0](https://github.com/nbgrp/singleid-redis/releases/tag/v0.3.0), 2 weeks ago)
 - [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) ([v0.3.0](https://github.com/nbgrp/singleid-jwt/releases/tag/v0.3.0), 2 weeks ago)
 - [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) ([v0.3.0](https://github.com/nbgrp/singleid-contracts/releases/tag/v0.3.0), 2 weeks ago)
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), 1 month ago) - The Symfony PHP framework
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v1.0.3](https://github.com/nbgrp/env-bundle/releases/tag/v1.0.3), 2 months ago)
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.4.2](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.4.2), 3 months ago) - OneLogin SAML Bundle for Symfony
 - [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) ([3.3.0](https://github.com/maglnet/ComposerRequireChecker/releases/tag/3.3.0), 4 months ago) - A CLI tool to check whether a specific composer package uses imported symbols that aren&#39;t part of its direct composer dependencies
