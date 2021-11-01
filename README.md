@@ -19,9 +19,9 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/singleid-example](https://github.com/nbgrp/singleid-example) (5 days ago)
-- [nbgrp/singleid-nginx-lua](https://github.com/nbgrp/singleid-nginx-lua) (5 days ago)
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) (6 days ago)
+- [nbgrp/singleid-example](https://github.com/nbgrp/singleid-example) (6 days ago)
+- [nbgrp/singleid-nginx-lua](https://github.com/nbgrp/singleid-nginx-lua) (6 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) (1 week ago)
 - [nbgrp/singleid](https://github.com/nbgrp/singleid) (1 week ago)
 - [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (3 weeks ago)
 - [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) (3 weeks ago)
@@ -34,8 +34,8 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.10](https://github.com/symfony/symfony/releases/tag/v5.3.10), 2 days ago) - The Symfony PHP framework
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.2.1](https://github.com/nbgrp/auditor/releases/tag/v0.2.1), 6 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.10](https://github.com/symfony/symfony/releases/tag/v5.3.10), 3 days ago) - The Symfony PHP framework
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.2.1](https://github.com/nbgrp/auditor/releases/tag/v0.2.1), 1 week ago)
 - [nbgrp/singleid-payload](https://github.com/nbgrp/singleid-payload) ([v0.3.1](https://github.com/nbgrp/singleid-payload/releases/tag/v0.3.1), 3 weeks ago)
 - [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) ([v0.3.0](https://github.com/nbgrp/singleid-redis/releases/tag/v0.3.0), 3 weeks ago)
 - [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) ([v0.3.0](https://github.com/nbgrp/singleid-jwt/releases/tag/v0.3.0), 3 weeks ago)
