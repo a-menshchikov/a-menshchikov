@@ -19,28 +19,28 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/singleid-payload](https://github.com/nbgrp/singleid-payload) (today)
-- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) (today)
-- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (today)
-- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (today)
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) (today)
-- [nbgrp/singleid-example](https://github.com/nbgrp/singleid-example) (6 days ago)
-- [nbgrp/singleid-nginx-lua](https://github.com/nbgrp/singleid-nginx-lua) (6 days ago)
-- [nbgrp/singleid](https://github.com/nbgrp/singleid) (1 week ago)
-- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) (3 weeks ago)
+- [nbgrp/singleid-example](https://github.com/nbgrp/singleid-example) (1 day ago)
+- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) (1 day ago)
+- [nbgrp/singleid](https://github.com/nbgrp/singleid) (1 day ago)
+- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (1 day ago)
+- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) (1 day ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) (1 day ago)
+- [nbgrp/singleid-payload](https://github.com/nbgrp/singleid-payload) (1 day ago)
+- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (1 day ago)
+- [nbgrp/singleid-nginx-lua](https://github.com/nbgrp/singleid-nginx-lua) (1 week ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (3 weeks ago)
 
 ---
 
 ### 🔭 Latest releases I've contributed to
 
-- [nbgrp/singleid-payload](https://github.com/nbgrp/singleid-payload) ([v0.4.0](https://github.com/nbgrp/singleid-payload/releases/tag/v0.4.0), today)
-- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) ([v0.4.0](https://github.com/nbgrp/singleid-jwt/releases/tag/v0.4.0), today)
-- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) ([v0.4.0](https://github.com/nbgrp/singleid-contracts/releases/tag/v0.4.0), today)
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.3.0](https://github.com/nbgrp/auditor/releases/tag/v0.3.0), today)
-- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.5.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.5.0), today) - OneLogin SAML Bundle for Symfony
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.10](https://github.com/symfony/symfony/releases/tag/v5.3.10), 3 days ago) - The Symfony PHP framework
-- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) ([v0.3.0](https://github.com/nbgrp/singleid-redis/releases/tag/v0.3.0), 3 weeks ago)
+- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) ([v0.4.0](https://github.com/nbgrp/singleid-jwt/releases/tag/v0.4.0), 1 day ago)
+- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) ([v0.4.0](https://github.com/nbgrp/singleid-redis/releases/tag/v0.4.0), 1 day ago)
+- [nbgrp/singleid-payload](https://github.com/nbgrp/singleid-payload) ([v0.4.0](https://github.com/nbgrp/singleid-payload/releases/tag/v0.4.0), 1 day ago)
+- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) ([v0.4.0](https://github.com/nbgrp/singleid-contracts/releases/tag/v0.4.0), 1 day ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.3.0](https://github.com/nbgrp/auditor/releases/tag/v0.3.0), 1 day ago)
+- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.5.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.5.0), 1 day ago) - OneLogin SAML Bundle for Symfony
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.10](https://github.com/symfony/symfony/releases/tag/v5.3.10), 4 days ago) - The Symfony PHP framework
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v1.0.3](https://github.com/nbgrp/env-bundle/releases/tag/v1.0.3), 3 months ago)
 - [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) ([3.3.0](https://github.com/maglnet/ComposerRequireChecker/releases/tag/3.3.0), 4 months ago) - A CLI tool to check whether a specific composer package uses imported symbols that aren&#39;t part of its direct composer dependencies
 - [certificationy/symfony-pack](https://github.com/certificationy/symfony-pack) ([1.6.1](https://github.com/certificationy/symfony-pack/releases/tag/1.6.1), 3 years ago) - A series of questions to prepare for the Symfony certification
