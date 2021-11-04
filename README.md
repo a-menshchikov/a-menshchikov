@@ -19,14 +19,14 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/singleid-example](https://github.com/nbgrp/singleid-example) - SingleID simple example with dockerized application and authentication service (2 days ago)
-- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) - SingleID tokenization layer implementation for JWT (2 days ago)
-- [nbgrp/singleid](https://github.com/nbgrp/singleid) - SingleID protocol based authentication service (2 days ago)
-- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (2 days ago)
-- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) - SingleID persistence implementation for Redis (2 days ago)
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer (2 days ago)
-- [nbgrp/singleid-payload](https://github.com/nbgrp/singleid-payload) - SingleID payload services implementation (2 days ago)
-- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (2 days ago)
+- [nbgrp/singleid-example](https://github.com/nbgrp/singleid-example) - SingleID simple example with dockerized application and authentication service (3 days ago)
+- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) - SingleID tokenization layer implementation for JWT (3 days ago)
+- [nbgrp/singleid](https://github.com/nbgrp/singleid) - SingleID protocol based authentication service (3 days ago)
+- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (3 days ago)
+- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) - SingleID persistence implementation for Redis (3 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer (3 days ago)
+- [nbgrp/singleid-payload](https://github.com/nbgrp/singleid-payload) - SingleID payload services implementation (3 days ago)
+- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (3 days ago)
 - [nbgrp/singleid-nginx-lua](https://github.com/nbgrp/singleid-nginx-lua) - Lua module for nginx that implements SingleID client (1 week ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors (3 weeks ago)
 
@@ -34,13 +34,13 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
-- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) ([v0.4.0](https://github.com/nbgrp/singleid-jwt/releases/tag/v0.4.0), 2 days ago) - SingleID tokenization layer implementation for JWT
-- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) ([v0.4.0](https://github.com/nbgrp/singleid-redis/releases/tag/v0.4.0), 2 days ago) - SingleID persistence implementation for Redis
-- [nbgrp/singleid-payload](https://github.com/nbgrp/singleid-payload) ([v0.4.0](https://github.com/nbgrp/singleid-payload/releases/tag/v0.4.0), 2 days ago) - SingleID payload services implementation
-- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) ([v0.4.0](https://github.com/nbgrp/singleid-contracts/releases/tag/v0.4.0), 2 days ago)
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.3.0](https://github.com/nbgrp/auditor/releases/tag/v0.3.0), 2 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer
-- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.5.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.5.0), 2 days ago) - OneLogin SAML Bundle for Symfony
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.10](https://github.com/symfony/symfony/releases/tag/v5.3.10), 5 days ago) - The Symfony PHP framework
+- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) ([v0.4.0](https://github.com/nbgrp/singleid-jwt/releases/tag/v0.4.0), 3 days ago) - SingleID tokenization layer implementation for JWT
+- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) ([v0.4.0](https://github.com/nbgrp/singleid-redis/releases/tag/v0.4.0), 3 days ago) - SingleID persistence implementation for Redis
+- [nbgrp/singleid-payload](https://github.com/nbgrp/singleid-payload) ([v0.4.0](https://github.com/nbgrp/singleid-payload/releases/tag/v0.4.0), 3 days ago) - SingleID payload services implementation
+- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) ([v0.4.0](https://github.com/nbgrp/singleid-contracts/releases/tag/v0.4.0), 3 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.3.0](https://github.com/nbgrp/auditor/releases/tag/v0.3.0), 3 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer
+- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.5.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.5.0), 3 days ago) - OneLogin SAML Bundle for Symfony
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.10](https://github.com/symfony/symfony/releases/tag/v5.3.10), 6 days ago) - The Symfony PHP framework
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v1.0.3](https://github.com/nbgrp/env-bundle/releases/tag/v1.0.3), 3 months ago) - Bundle with a few useful Symfony environment variable processors
 - [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) ([3.3.0](https://github.com/maglnet/ComposerRequireChecker/releases/tag/3.3.0), 4 months ago) - A CLI tool to check whether a specific composer package uses imported symbols that aren&#39;t part of its direct composer dependencies
 - [certificationy/symfony-pack](https://github.com/certificationy/symfony-pack) ([1.6.1](https://github.com/certificationy/symfony-pack/releases/tag/1.6.1), 3 years ago) - A series of questions to prepare for the Symfony certification
