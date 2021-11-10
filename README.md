@@ -34,7 +34,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
-- [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) ([3.4.0](https://github.com/maglnet/ComposerRequireChecker/releases/tag/3.4.0), 2 days ago) - A CLI tool to check whether a specific composer package uses imported symbols that aren&#39;t part of its direct composer dependencies
+- [maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) ([3.5.1](https://github.com/maglnet/ComposerRequireChecker/releases/tag/3.5.1), today) - A CLI tool to check whether a specific composer package uses imported symbols that aren&#39;t part of its direct composer dependencies
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA1), 5 days ago) - The Symfony PHP framework
 - [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) ([v0.4.0](https://github.com/nbgrp/singleid-jwt/releases/tag/v0.4.0), 1 week ago) - SingleID tokenization layer implementation for JWT
 - [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) ([v0.4.0](https://github.com/nbgrp/singleid-redis/releases/tag/v0.4.0), 1 week ago) - SingleID persistence implementation for Redis
