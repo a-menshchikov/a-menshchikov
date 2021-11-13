@@ -19,12 +19,12 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/singleid-payload](https://github.com/nbgrp/singleid-payload) - SingleID payload services implementation (5 days ago)
-- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) - SingleID tokenization layer implementation for JWT (5 days ago)
-- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) - SingleID persistence implementation for Redis (5 days ago)
-- [nbgrp/singleid-skeleton](https://github.com/nbgrp/singleid-skeleton) - SingleID protocol based authentication service skeleton (1 week ago)
+- [nbgrp/singleid-payload](https://github.com/nbgrp/singleid-payload) - SingleID payload services implementation (today)
+- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) - SingleID tokenization layer implementation for JWT (today)
+- [nbgrp/singleid-skeleton](https://github.com/nbgrp/singleid-skeleton) - SingleID protocol based authentication service skeleton (today)
+- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (today)
+- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) - SingleID persistence implementation for Redis (today)
 - [nbgrp/singleid-example](https://github.com/nbgrp/singleid-example) - SingleID simple example with dockerized application and authentication service (1 week ago)
-- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (1 week ago)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer (1 week ago)
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (1 week ago)
 - [nbgrp/singleid-nginx-lua](https://github.com/nbgrp/singleid-nginx-lua) - Lua module for nginx that implements SingleID client (2 weeks ago)
