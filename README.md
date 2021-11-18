@@ -34,11 +34,11 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA3), today) - The Symfony PHP framework
 - [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) ([v0.5.1](https://github.com/nbgrp/singleid-redis/releases/tag/v0.5.1), 1 day ago) - SingleID persistence implementation for Redis
 - [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) ([v0.5.1](https://github.com/nbgrp/singleid-jwt/releases/tag/v0.5.1), 1 day ago) - SingleID tokenization layer implementation for JWT
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.3.1](https://github.com/nbgrp/auditor/releases/tag/v0.3.1), 2 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v1.8.1](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v1.8.1), 2 days ago) - OneLogin SAML Bundle for Symfony
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA2), 4 days ago) - The Symfony PHP framework
 - [nbgrp/singleid-payload](https://github.com/nbgrp/singleid-payload) ([v0.5.0](https://github.com/nbgrp/singleid-payload/releases/tag/v0.5.0), 5 days ago) - SingleID payload services implementation
 - [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) ([v0.5.0](https://github.com/nbgrp/singleid-contracts/releases/tag/v0.5.0), 5 days ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v1.0.3](https://github.com/nbgrp/env-bundle/releases/tag/v1.0.3), 3 months ago) - Bundle with a few useful Symfony environment variable processors
