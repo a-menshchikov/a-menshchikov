@@ -25,8 +25,8 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 - [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) - SingleID persistence implementation for Redis (1 day ago)
 - [nbgrp/singleid-payload](https://github.com/nbgrp/singleid-payload) - SingleID payload services implementation (1 day ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors (1 day ago)
-- [nbgrp/singleid-example](https://github.com/nbgrp/singleid-example) - SingleID simple example with dockerized application and authentication service (6 days ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (6 days ago)
+- [nbgrp/singleid-example](https://github.com/nbgrp/singleid-example) - SingleID simple example with dockerized application and authentication service (6 days ago)
 - [nbgrp/singleid-nginx-lua](https://github.com/nbgrp/singleid-nginx-lua) - Lua module for nginx that implements SingleID client (1 week ago)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer (1 week ago)
 
