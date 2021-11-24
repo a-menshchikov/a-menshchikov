@@ -34,8 +34,8 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v6.0.0-RC1), today) - The Symfony PHP framework
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.6.1](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.6.1), 1 day ago) - OneLogin SAML Bundle for Symfony
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.11](https://github.com/symfony/symfony/releases/tag/v5.3.11), 2 days ago) - The Symfony PHP framework
 - [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) ([v0.5.1](https://github.com/nbgrp/singleid-redis/releases/tag/v0.5.1), 1 week ago) - SingleID persistence implementation for Redis
 - [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) ([v0.5.1](https://github.com/nbgrp/singleid-jwt/releases/tag/v0.5.1), 1 week ago) - SingleID tokenization layer implementation for JWT
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.3.1](https://github.com/nbgrp/auditor/releases/tag/v0.3.1), 1 week ago) - Simple and useful dockerized GrumPHP-based php code analyzer
