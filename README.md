@@ -19,26 +19,26 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/singleid-payload](https://github.com/nbgrp/singleid-payload) - SingleID payload services implementation (1 day ago)
-- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) - SingleID tokenization layer implementation for JWT (1 day ago)
-- [nbgrp/singleid-skeleton](https://github.com/nbgrp/singleid-skeleton) - SingleID protocol based authentication service skeleton (1 day ago)
-- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (1 day ago)
-- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) - SingleID persistence implementation for Redis (1 day ago)
-- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors (1 day ago)
-- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (6 days ago)
-- [nbgrp/singleid-example](https://github.com/nbgrp/singleid-example) - SingleID simple example with dockerized application and authentication service (6 days ago)
-- [nbgrp/singleid-nginx-lua](https://github.com/nbgrp/singleid-nginx-lua) - Lua module for nginx that implements SingleID client (1 week ago)
+- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (today)
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors (2 days ago)
+- [nbgrp/singleid-skeleton](https://github.com/nbgrp/singleid-skeleton) - SingleID protocol based authentication service skeleton (2 days ago)
+- [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) (2 days ago)
+- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) - SingleID persistence implementation for Redis (2 days ago)
+- [nbgrp/singleid-payload](https://github.com/nbgrp/singleid-payload) - SingleID payload services implementation (2 days ago)
+- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) - SingleID tokenization layer implementation for JWT (2 days ago)
+- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (1 week ago)
+- [nbgrp/singleid-example](https://github.com/nbgrp/singleid-example) - SingleID simple example with dockerized application and authentication service (1 week ago)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer (1 week ago)
 
 ---
 
 ### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.11](https://github.com/symfony/symfony/releases/tag/v5.3.11), 1 day ago) - The Symfony PHP framework
-- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) ([v0.5.1](https://github.com/nbgrp/singleid-redis/releases/tag/v0.5.1), 6 days ago) - SingleID persistence implementation for Redis
-- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) ([v0.5.1](https://github.com/nbgrp/singleid-jwt/releases/tag/v0.5.1), 6 days ago) - SingleID tokenization layer implementation for JWT
+- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.6.1](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.6.1), 1 day ago) - OneLogin SAML Bundle for Symfony
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.11](https://github.com/symfony/symfony/releases/tag/v5.3.11), 2 days ago) - The Symfony PHP framework
+- [nbgrp/singleid-redis](https://github.com/nbgrp/singleid-redis) ([v0.5.1](https://github.com/nbgrp/singleid-redis/releases/tag/v0.5.1), 1 week ago) - SingleID persistence implementation for Redis
+- [nbgrp/singleid-jwt](https://github.com/nbgrp/singleid-jwt) ([v0.5.1](https://github.com/nbgrp/singleid-jwt/releases/tag/v0.5.1), 1 week ago) - SingleID tokenization layer implementation for JWT
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.3.1](https://github.com/nbgrp/auditor/releases/tag/v0.3.1), 1 week ago) - Simple and useful dockerized GrumPHP-based php code analyzer
-- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v1.8.1](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v1.8.1), 1 week ago) - OneLogin SAML Bundle for Symfony
 - [nbgrp/singleid-payload](https://github.com/nbgrp/singleid-payload) ([v0.5.0](https://github.com/nbgrp/singleid-payload/releases/tag/v0.5.0), 1 week ago) - SingleID payload services implementation
 - [nbgrp/singleid-contracts](https://github.com/nbgrp/singleid-contracts) ([v0.5.0](https://github.com/nbgrp/singleid-contracts/releases/tag/v0.5.0), 1 week ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v1.0.3](https://github.com/nbgrp/env-bundle/releases/tag/v1.0.3), 3 months ago) - Bundle with a few useful Symfony environment variable processors
@@ -48,6 +48,8 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔨 My recent Pull Requests
 
+- [Fix #22](https://github.com/hslavich/OneloginSamlBundle/pull/188) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (today)
+- [Fixes #185](https://github.com/hslavich/OneloginSamlBundle/pull/187) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (1 day ago)
 - [Use target_path according the current firewall (instead of hardcoded &#34;main&#34;)](https://github.com/hslavich/OneloginSamlBundle/pull/184) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (1 week ago)
 - [Update README.md](https://github.com/hyperskill/intro-to-github/pull/1432) on [hyperskill/intro-to-github](https://github.com/hyperskill/intro-to-github) (2 weeks ago)
 - [Fix user persist](https://github.com/hslavich/OneloginSamlBundle/pull/180) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (4 months ago)
@@ -56,8 +58,6 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 - [1.x fixes](https://github.com/hslavich/OneloginSamlBundle/pull/177) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (5 months ago)
 - [Update security.yml](https://github.com/certificationy/symfony-pack/pull/91) on [certificationy/symfony-pack](https://github.com/certificationy/symfony-pack) (5 months ago)
 - [Missed default &#34;persist_user&#34;](https://github.com/hslavich/OneloginSamlBundle/pull/174) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (5 months ago)
-- [[Configuration] Using MicroKernelTrait::getBundlesPath with Multiple Kernels](https://github.com/symfony/symfony-docs/pull/15423) on [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (5 months ago)
-- [Event-based user persistence (2.x)](https://github.com/hslavich/OneloginSamlBundle/pull/172) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (5 months ago)
 
 ---
 
