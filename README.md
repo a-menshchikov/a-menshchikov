@@ -34,10 +34,10 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
-- [nbgrp/singlea-redis](https://github.com/nbgrp/singlea-redis) ([v0.6.0](https://github.com/nbgrp/singlea-redis/releases/tag/v0.6.0), 1 day ago) - SingleA persistence implementation for Redis.
-- [nbgrp/singlea-jwt](https://github.com/nbgrp/singlea-jwt) ([v0.6.0](https://github.com/nbgrp/singlea-jwt/releases/tag/v0.6.0), 1 day ago) - SingleA tokenization layer implementation for JWT.
-- [nbgrp/singlea-payload](https://github.com/nbgrp/singlea-payload) ([v0.6.0](https://github.com/nbgrp/singlea-payload/releases/tag/v0.6.0), 1 day ago) - SingleA payload services implementation.
-- [nbgrp/singlea-contracts](https://github.com/nbgrp/singlea-contracts) ([v0.6.0](https://github.com/nbgrp/singlea-contracts/releases/tag/v0.6.0), 1 day ago) - SingleA contracts.
+- [nbgrp/singlea-redis](https://github.com/nbgrp/singlea-redis) ([v1.0.0](https://github.com/nbgrp/singlea-redis/releases/tag/v1.0.0), today) - SingleA persistence implementation for Redis.
+- [nbgrp/singlea-payload](https://github.com/nbgrp/singlea-payload) ([v1.0.0](https://github.com/nbgrp/singlea-payload/releases/tag/v1.0.0), today) - SingleA payload services implementation.
+- [nbgrp/singlea-jwt](https://github.com/nbgrp/singlea-jwt) ([v1.0.0](https://github.com/nbgrp/singlea-jwt/releases/tag/v1.0.0), today) - SingleA tokenization layer implementation for JWT.
+- [nbgrp/singlea-contracts](https://github.com/nbgrp/singlea-contracts) ([v1.0.0](https://github.com/nbgrp/singlea-contracts/releases/tag/v1.0.0), today) - SingleA contracts.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v6.0.0-RC1), 1 day ago) - The Symfony PHP framework
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.6.1](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.6.1), 2 days ago) - OneLogin SAML Bundle for Symfony
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.3.1](https://github.com/nbgrp/auditor/releases/tag/v0.3.1), 1 week ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
