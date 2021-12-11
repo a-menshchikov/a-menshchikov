@@ -19,26 +19,26 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
+- [nbgrp/singlea-skeleton](https://github.com/nbgrp/singlea-skeleton) (today)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (today)
+- [nbgrp/.github](https://github.com/nbgrp/.github) (today)
+- [nbgrp/singlea](https://github.com/nbgrp/singlea) (today)
+- [nbgrp/singlea-contracts](https://github.com/nbgrp/singlea-contracts) (today)
+- [nbgrp/singlea-jwt](https://github.com/nbgrp/singlea-jwt) (today)
+- [nbgrp/singlea-redis](https://github.com/nbgrp/singlea-redis) (today)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (6 days ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (1 week ago)
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (1 week ago)
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 week ago)
-- [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories (4 months ago)
-- [certificationy/symfony-pack](https://github.com/certificationy/symfony-pack) - A series of questions to prepare for the Symfony certification (5 months ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (6 months ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 months ago)
-- [php/doc-ru](https://github.com/php/doc-ru) - Russian translation of the PHP documentation (6 months ago)
-- [iDestar/test](https://github.com/iDestar/test) - test (6 months ago)
 
 ---
 
 ### 🔭 Latest releases I've contributed to
 
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.3.3](https://github.com/nbgrp/auditor/releases/tag/v0.3.3), today) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.1](https://github.com/symfony/symfony/releases/tag/v6.0.1), 2 days ago) - The Symfony PHP framework
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.0.2](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.0.2), 6 days ago) - OneLogin SAML Symfony Bundle
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v2.0.0](https://github.com/nbgrp/env-bundle/releases/tag/v2.0.0), 1 week ago) - Bundle with a few useful Symfony environment variable processors.
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.8.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.8.0), 1 week ago) - OneLogin SAML Bundle for Symfony
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.3.2](https://github.com/nbgrp/auditor/releases/tag/v0.3.2), 1 week ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [certificationy/symfony-pack](https://github.com/certificationy/symfony-pack) ([1.6.1](https://github.com/certificationy/symfony-pack/releases/tag/1.6.1), 3 years ago) - A series of questions to prepare for the Symfony certification
 
 ---
