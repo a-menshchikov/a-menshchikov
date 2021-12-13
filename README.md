@@ -19,24 +19,24 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/singlea](https://github.com/nbgrp/singlea) (1 day ago)
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
-- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (1 day ago)
-- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (1 day ago)
-- [nbgrp/singlea-skeleton](https://github.com/nbgrp/singlea-skeleton) (1 day ago)
-- [nbgrp/singlea-contracts](https://github.com/nbgrp/singlea-contracts) (1 day ago)
-- [nbgrp/.github](https://github.com/nbgrp/.github) (1 day ago)
-- [nbgrp/singlea-simple-fetcher](https://github.com/nbgrp/singlea-simple-fetcher) (1 day ago)
-- [nbgrp/singlea-redis](https://github.com/nbgrp/singlea-redis) (1 day ago)
-- [nbgrp/singlea-jwt](https://github.com/nbgrp/singlea-jwt) (1 day ago)
+- [nbgrp/singlea](https://github.com/nbgrp/singlea) (2 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (2 days ago)
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (2 days ago)
+- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (2 days ago)
+- [nbgrp/singlea-skeleton](https://github.com/nbgrp/singlea-skeleton) (2 days ago)
+- [nbgrp/singlea-contracts](https://github.com/nbgrp/singlea-contracts) (2 days ago)
+- [nbgrp/.github](https://github.com/nbgrp/.github) (2 days ago)
+- [nbgrp/singlea-simple-fetcher](https://github.com/nbgrp/singlea-simple-fetcher) (2 days ago)
+- [nbgrp/singlea-redis](https://github.com/nbgrp/singlea-redis) (2 days ago)
+- [nbgrp/singlea-jwt](https://github.com/nbgrp/singlea-jwt) (2 days ago)
 
 ---
 
 ### 🔭 Latest releases I've contributed to
 
-- [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v0.1.0](https://github.com/nbgrp/singlea/releases/tag/v0.1.0), 1 day ago)
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.3.3](https://github.com/nbgrp/auditor/releases/tag/v0.3.3), 1 day ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.1](https://github.com/symfony/symfony/releases/tag/v6.0.1), 3 days ago) - The Symfony PHP framework
+- [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v0.1.0](https://github.com/nbgrp/singlea/releases/tag/v0.1.0), 2 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.3.3](https://github.com/nbgrp/auditor/releases/tag/v0.3.3), 2 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.1](https://github.com/symfony/symfony/releases/tag/v6.0.1), 4 days ago) - The Symfony PHP framework
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.0.2](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.0.2), 1 week ago) - OneLogin SAML Symfony Bundle
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v2.0.0](https://github.com/nbgrp/env-bundle/releases/tag/v2.0.0), 1 week ago) - Bundle with a few useful Symfony environment variable processors.
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.8.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.8.0), 1 week ago) - OneLogin SAML Bundle for Symfony
@@ -47,8 +47,8 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 ### 🔨 My recent Pull Requests
 
 - [Fix #1](https://github.com/nbgrp/onelogin-saml-bundle/pull/2) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (1 week ago)
-- [[HttpFoundation] Makes RedisSessionHandler options protected and initialize ttl with session.gc_maxlifetime](https://github.com/symfony/symfony/pull/44343) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
-- [Symfony 5.4 support](https://github.com/hslavich/OneloginSamlBundle/pull/189) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (1 week ago)
+- [[HttpFoundation] Makes RedisSessionHandler options protected and initialize ttl with session.gc_maxlifetime](https://github.com/symfony/symfony/pull/44343) on [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
+- [Symfony 5.4 support](https://github.com/hslavich/OneloginSamlBundle/pull/189) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (2 weeks ago)
 - [Fix #22](https://github.com/hslavich/OneloginSamlBundle/pull/188) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (2 weeks ago)
 - [Fixes #185](https://github.com/hslavich/OneloginSamlBundle/pull/187) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (2 weeks ago)
 - [Use target_path according the current firewall (instead of hardcoded &#34;main&#34;)](https://github.com/hslavich/OneloginSamlBundle/pull/184) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (3 weeks ago)
