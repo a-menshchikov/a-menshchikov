@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [php/doc-ru](https://github.com/php/doc-ru) - Russian translation of the PHP documentation (6 days ago)
+- [php/doc-ru](https://github.com/php/doc-ru) - Russian translation of the PHP documentation (1 week ago)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 week ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (1 week ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (1 week ago)
@@ -39,20 +39,20 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.1](https://github.com/symfony/symfony/releases/tag/v6.0.1), 1 week ago) - The Symfony PHP framework
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.0.2](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.0.2), 2 weeks ago) - OneLogin SAML Symfony Bundle
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v2.0.0](https://github.com/nbgrp/env-bundle/releases/tag/v2.0.0), 2 weeks ago) - Bundle with a few useful Symfony environment variable processors.
-- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.8.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.8.0), 2 weeks ago) - OneLogin SAML Bundle for Symfony
+- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.8.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.8.0), 3 weeks ago) - OneLogin SAML Bundle for Symfony
 - [certificationy/symfony-pack](https://github.com/certificationy/symfony-pack) ([1.6.1](https://github.com/certificationy/symfony-pack/releases/tag/1.6.1), 3 years ago) - A series of questions to prepare for the Symfony certification
 
 ---
 
 ### 🔨 My recent Pull Requests
 
-- [Исправление описания session.lazy_write](https://github.com/php/doc-ru/pull/374) on [php/doc-ru](https://github.com/php/doc-ru) (6 days ago)
-- [Update ini.xml](https://github.com/a-menshchikov/doc-ru/pull/1) on [a-menshchikov/doc-ru](https://github.com/a-menshchikov/doc-ru) (6 days ago)
+- [Исправление описания session.lazy_write](https://github.com/php/doc-ru/pull/374) on [php/doc-ru](https://github.com/php/doc-ru) (1 week ago)
+- [Update ini.xml](https://github.com/a-menshchikov/doc-ru/pull/1) on [a-menshchikov/doc-ru](https://github.com/a-menshchikov/doc-ru) (1 week ago)
 - [Fix #1](https://github.com/nbgrp/onelogin-saml-bundle/pull/2) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (2 weeks ago)
 - [[HttpFoundation] Makes RedisSessionHandler options protected and initialize ttl with session.gc_maxlifetime](https://github.com/symfony/symfony/pull/44343) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - [Symfony 5.4 support](https://github.com/hslavich/OneloginSamlBundle/pull/189) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (3 weeks ago)
 - [Fix #22](https://github.com/hslavich/OneloginSamlBundle/pull/188) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (3 weeks ago)
-- [Fixes #185](https://github.com/hslavich/OneloginSamlBundle/pull/187) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (3 weeks ago)
+- [Fixes #185](https://github.com/hslavich/OneloginSamlBundle/pull/187) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (4 weeks ago)
 - [Use target_path according the current firewall (instead of hardcoded &#34;main&#34;)](https://github.com/hslavich/OneloginSamlBundle/pull/184) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (1 month ago)
 - [Update README.md](https://github.com/hyperskill/intro-to-github/pull/1432) on [hyperskill/intro-to-github](https://github.com/hyperskill/intro-to-github) (1 month ago)
 - [Fix user persist](https://github.com/hslavich/OneloginSamlBundle/pull/180) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (5 months ago)
