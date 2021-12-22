@@ -38,7 +38,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.3.3](https://github.com/nbgrp/auditor/releases/tag/v0.3.3), 1 week ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.1](https://github.com/symfony/symfony/releases/tag/v6.0.1), 1 week ago) - The Symfony PHP framework
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.0.2](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.0.2), 2 weeks ago) - OneLogin SAML Symfony Bundle
-- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v2.0.0](https://github.com/nbgrp/env-bundle/releases/tag/v2.0.0), 2 weeks ago) - Bundle with a few useful Symfony environment variable processors.
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v2.0.0](https://github.com/nbgrp/env-bundle/releases/tag/v2.0.0), 3 weeks ago) - Bundle with a few useful Symfony environment variable processors.
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.8.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.8.0), 3 weeks ago) - OneLogin SAML Bundle for Symfony
 - [certificationy/symfony-pack](https://github.com/certificationy/symfony-pack) ([1.6.1](https://github.com/certificationy/symfony-pack/releases/tag/1.6.1), 3 years ago) - A series of questions to prepare for the Symfony certification
 
@@ -51,7 +51,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 - [Fix #1](https://github.com/nbgrp/onelogin-saml-bundle/pull/2) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (2 weeks ago)
 - [[HttpFoundation] Makes RedisSessionHandler options protected and initialize ttl with session.gc_maxlifetime](https://github.com/symfony/symfony/pull/44343) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - [Symfony 5.4 support](https://github.com/hslavich/OneloginSamlBundle/pull/189) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (3 weeks ago)
-- [Fix #22](https://github.com/hslavich/OneloginSamlBundle/pull/188) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (3 weeks ago)
+- [Fix #22](https://github.com/hslavich/OneloginSamlBundle/pull/188) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (4 weeks ago)
 - [Fixes #185](https://github.com/hslavich/OneloginSamlBundle/pull/187) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (4 weeks ago)
 - [Use target_path according the current firewall (instead of hardcoded &#34;main&#34;)](https://github.com/hslavich/OneloginSamlBundle/pull/184) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (1 month ago)
 - [Update README.md](https://github.com/hyperskill/intro-to-github/pull/1432) on [hyperskill/intro-to-github](https://github.com/hyperskill/intro-to-github) (1 month ago)
