@@ -51,7 +51,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 - [Fix #1](https://github.com/nbgrp/onelogin-saml-bundle/pull/2) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (2 weeks ago)
 - [[HttpFoundation] Makes RedisSessionHandler options protected and initialize ttl with session.gc_maxlifetime](https://github.com/symfony/symfony/pull/44343) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - [Symfony 5.4 support](https://github.com/hslavich/OneloginSamlBundle/pull/189) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (3 weeks ago)
-- [Fix #22](https://github.com/hslavich/OneloginSamlBundle/pull/188) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (4 weeks ago)
+- [Fix #22](https://github.com/hslavich/OneloginSamlBundle/pull/188) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (1 month ago)
 - [Fixes #185](https://github.com/hslavich/OneloginSamlBundle/pull/187) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (1 month ago)
 - [Use target_path according the current firewall (instead of hardcoded &#34;main&#34;)](https://github.com/hslavich/OneloginSamlBundle/pull/184) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (1 month ago)
 - [Update README.md](https://github.com/hyperskill/intro-to-github/pull/1432) on [hyperskill/intro-to-github](https://github.com/hyperskill/intro-to-github) (1 month ago)
