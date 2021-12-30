@@ -34,12 +34,12 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.2](https://github.com/symfony/symfony/releases/tag/v6.0.2), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.2](https://github.com/symfony/symfony/releases/tag/v6.0.2), 1 day ago) - The Symfony PHP framework
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v0.1.0](https://github.com/nbgrp/singlea/releases/tag/v0.1.0), 2 weeks ago)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.3.3](https://github.com/nbgrp/auditor/releases/tag/v0.3.3), 2 weeks ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.0.2](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.0.2), 3 weeks ago) - OneLogin SAML Symfony Bundle
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v2.0.0](https://github.com/nbgrp/env-bundle/releases/tag/v2.0.0), 4 weeks ago) - Bundle with a few useful Symfony environment variable processors.
-- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.8.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.8.0), 4 weeks ago) - OneLogin SAML Bundle for Symfony
+- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.8.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.8.0), 1 month ago) - OneLogin SAML Bundle for Symfony
 - [certificationy/symfony-pack](https://github.com/certificationy/symfony-pack) ([1.6.1](https://github.com/certificationy/symfony-pack/releases/tag/1.6.1), 3 years ago) - A series of questions to prepare for the Symfony certification
 
 ---
