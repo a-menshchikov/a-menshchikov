@@ -26,7 +26,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 - [nbgrp/singlea-skeleton](https://github.com/nbgrp/singlea-skeleton) (2 weeks ago)
 - [nbgrp/singlea-contracts](https://github.com/nbgrp/singlea-contracts) (2 weeks ago)
 - [nbgrp/.github](https://github.com/nbgrp/.github) (2 weeks ago)
-- [nbgrp/singlea-external-payload-simple-fetcher-bundle](https://github.com/nbgrp/singlea-external-payload-simple-fetcher-bundle) (2 weeks ago)
+- [nbgrp/singlea-json-fetcher-bundle](https://github.com/nbgrp/singlea-json-fetcher-bundle) (2 weeks ago)
 - [nbgrp/singlea-redis-bundle](https://github.com/nbgrp/singlea-redis-bundle) (2 weeks ago)
 - [nbgrp/singlea-jwt-bundle](https://github.com/nbgrp/singlea-jwt-bundle) (2 weeks ago)
 
