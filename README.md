@@ -46,6 +46,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔨 My recent Pull Requests
 
+- [Prevent Symfony 6 deprecation notices](https://github.com/web-token/jwt-framework/pull/327) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (today)
 - [Prevents error on cache:clear command during bundle install](https://github.com/nbgrp/onelogin-saml-bundle/pull/4) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (1 day ago)
 - [Исправление описания session.lazy_write](https://github.com/php/doc-ru/pull/374) on [php/doc-ru](https://github.com/php/doc-ru) (3 weeks ago)
 - [Update ini.xml](https://github.com/a-menshchikov/doc-ru/pull/1) on [a-menshchikov/doc-ru](https://github.com/a-menshchikov/doc-ru) (3 weeks ago)
@@ -55,7 +56,6 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 - [Fix #22](https://github.com/hslavich/OneloginSamlBundle/pull/188) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (1 month ago)
 - [Fixes #185](https://github.com/hslavich/OneloginSamlBundle/pull/187) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (1 month ago)
 - [Use target_path according the current firewall (instead of hardcoded &#34;main&#34;)](https://github.com/hslavich/OneloginSamlBundle/pull/184) on [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) (1 month ago)
-- [Update README.md](https://github.com/hyperskill/intro-to-github/pull/1432) on [hyperskill/intro-to-github](https://github.com/hyperskill/intro-to-github) (2 months ago)
 
 ---
 
