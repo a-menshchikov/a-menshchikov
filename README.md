@@ -46,7 +46,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔨 My recent Pull Requests
 
-- [Prevent Symfony 6 deprecation notices](https://github.com/web-token/jwt-framework/pull/327) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (6 days ago)
+- [Prevent Symfony 6 deprecation notices](https://github.com/web-token/jwt-framework/pull/327) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 week ago)
 - [Prevents error on cache:clear command during bundle install](https://github.com/nbgrp/onelogin-saml-bundle/pull/4) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (1 week ago)
 - [Исправление описания session.lazy_write](https://github.com/php/doc-ru/pull/374) on [php/doc-ru](https://github.com/php/doc-ru) (1 month ago)
 - [Update ini.xml](https://github.com/a-menshchikov/doc-ru/pull/1) on [a-menshchikov/doc-ru](https://github.com/a-menshchikov/doc-ru) (1 month ago)
