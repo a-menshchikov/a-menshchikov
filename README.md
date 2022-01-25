@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (today)
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (1 day ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (2 weeks ago)
 - [php/doc-ru](https://github.com/php/doc-ru) - Russian translation of the PHP documentation (1 month ago)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 month ago)
