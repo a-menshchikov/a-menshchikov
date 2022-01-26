@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (1 day ago)
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (2 days ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (2 weeks ago)
 - [php/doc-ru](https://github.com/php/doc-ru) - Russian translation of the PHP documentation (1 month ago)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 month ago)
@@ -35,7 +35,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 ### 🔭 Latest releases I've contributed to
 
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.0.3](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.0.3), 2 weeks ago) - OneLogin SAML Symfony Bundle
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.2](https://github.com/symfony/symfony/releases/tag/v6.0.2), 3 weeks ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.2](https://github.com/symfony/symfony/releases/tag/v6.0.2), 4 weeks ago) - The Symfony PHP framework
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v0.1.0](https://github.com/nbgrp/singlea/releases/tag/v0.1.0), 1 month ago)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.3.3](https://github.com/nbgrp/auditor/releases/tag/v0.3.3), 1 month ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v2.0.0](https://github.com/nbgrp/env-bundle/releases/tag/v2.0.0), 1 month ago) - Bundle with a few useful Symfony environment variable processors.
