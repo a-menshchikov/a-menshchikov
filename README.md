@@ -34,9 +34,9 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.3](https://github.com/symfony/symfony/releases/tag/v6.0.3), today) - The Symfony PHP framework
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.3.4](https://github.com/nbgrp/auditor/releases/tag/v0.3.4), 1 day ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.0.3](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.0.3), 3 weeks ago) - OneLogin SAML Symfony Bundle
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.2](https://github.com/symfony/symfony/releases/tag/v6.0.2), 1 month ago) - The Symfony PHP framework
 - [phan/phan](https://github.com/phan/phan) ([5.3.1](https://github.com/phan/phan/releases/tag/5.3.1), 1 month ago) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v0.1.0](https://github.com/nbgrp/singlea/releases/tag/v0.1.0), 1 month ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v2.0.0](https://github.com/nbgrp/env-bundle/releases/tag/v2.0.0), 1 month ago) - Bundle with a few useful Symfony environment variable processors.
