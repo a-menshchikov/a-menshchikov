@@ -20,6 +20,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 ### 👷 Check out what I'm currently working on
 
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 week ago)
+- [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool (1 week ago)
 - [phan/phan](https://github.com/phan/phan) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness. (1 week ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (2 weeks ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (1 month ago)
@@ -28,12 +29,12 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 - [nbgrp/singlea-contracts](https://github.com/nbgrp/singlea-contracts) (1 month ago)
 - [nbgrp/singlea-redis-bundle](https://github.com/nbgrp/singlea-redis-bundle) (1 month ago)
 - [nbgrp/singlea-jwt-bundle](https://github.com/nbgrp/singlea-jwt-bundle) (1 month ago)
-- [nbgrp/.github](https://github.com/nbgrp/.github) (1 month ago)
 
 ---
 
 ### 🔭 Latest releases I've contributed to
 
+- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.8.0](https://github.com/phpro/grumphp/releases/tag/v1.8.0), today) - A PHP code-quality tool
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.4.0](https://github.com/nbgrp/auditor/releases/tag/v0.4.0), 1 week ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [phan/phan](https://github.com/phan/phan) ([5.3.2](https://github.com/phan/phan/releases/tag/5.3.2), 1 week ago) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.4](https://github.com/symfony/symfony/releases/tag/v6.0.4), 1 week ago) - The Symfony PHP framework
