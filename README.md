@@ -19,24 +19,24 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (3 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (today)
+- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 days ago)
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool (6 days ago)
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (6 days ago)
 - [phan/phan](https://github.com/phan/phan) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness. (2 weeks ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (3 weeks ago)
 - [php/doc-ru](https://github.com/php/doc-ru) - Russian translation of the PHP documentation (2 months ago)
-- [nbgrp/singlea](https://github.com/nbgrp/singlea) (2 months ago)
+- [nbgrp/singlea-marshaller-contracts](https://github.com/nbgrp/singlea-marshaller-contracts) (2 months ago)
+- [nbgrp/singlea-jwt-fetcher-bundle](https://github.com/nbgrp/singlea-jwt-fetcher-bundle) (2 months ago)
 - [nbgrp/singlea-jwt-bundle](https://github.com/nbgrp/singlea-jwt-bundle) (2 months ago)
-- [nbgrp/singlea-contracts](https://github.com/nbgrp/singlea-contracts) (2 months ago)
 
 ---
 
 ### 🔭 Latest releases I've contributed to
 
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.5.1](https://github.com/nbgrp/auditor/releases/tag/v0.5.1), today) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.0.4](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.0.4), 3 days ago) - OneLogin SAML Symfony Bundle
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.8.1](https://github.com/phpro/grumphp/releases/tag/v1.8.1), 5 days ago) - A PHP code-quality tool
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.5.0](https://github.com/nbgrp/auditor/releases/tag/v0.5.0), 6 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [phan/phan](https://github.com/phan/phan) ([5.3.2](https://github.com/phan/phan/releases/tag/5.3.2), 1 week ago) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.4](https://github.com/symfony/symfony/releases/tag/v6.0.4), 2 weeks ago) - The Symfony PHP framework
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v0.1.0](https://github.com/nbgrp/singlea/releases/tag/v0.1.0), 2 months ago)
