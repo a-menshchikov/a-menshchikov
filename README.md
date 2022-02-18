@@ -26,9 +26,9 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 - [phan/phan](https://github.com/phan/phan) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness. (3 weeks ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (3 weeks ago)
 - [php/doc-ru](https://github.com/php/doc-ru) - Russian translation of the PHP documentation (2 months ago)
-- [nbgrp/singlea-marshaller-contracts](https://github.com/nbgrp/singlea-marshaller-contracts) (2 months ago)
-- [nbgrp/singlea-jwt-fetcher-bundle](https://github.com/nbgrp/singlea-jwt-fetcher-bundle) (2 months ago)
 - [nbgrp/singlea-jwt-bundle](https://github.com/nbgrp/singlea-jwt-bundle) (2 months ago)
+- [nbgrp/singlea-marshaller-contracts](https://github.com/nbgrp/singlea-marshaller-contracts) (2 months ago)
+- [nbgrp/singlea-redis-bundle](https://github.com/nbgrp/singlea-redis-bundle) (2 months ago)
 
 ---
 
