@@ -11,7 +11,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 📈 My GitHub Statistics
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=a-menshchikov&theme=calm&hide_title=true&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=a-menshchikov&theme=calm&hide_title=true&include_all_commits=true&show_icons=true)
 
 [comment]: <> (![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=a-menshchikov&theme=calm&hide_title=true&layout=compact&count_private=true&include_all_commits=true&langs_count=6&#41;)
 
