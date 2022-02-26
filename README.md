@@ -19,8 +19,8 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (6 days ago)
-- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (6 days ago)
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 week ago)
+- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (1 week ago)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 weeks ago)
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool (2 weeks ago)
@@ -38,7 +38,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.0.4](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.0.4), 2 weeks ago) - OneLogin SAML Symfony Bundle
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.8.1](https://github.com/phpro/grumphp/releases/tag/v1.8.1), 2 weeks ago) - A PHP code-quality tool
 - [phan/phan](https://github.com/phan/phan) ([5.3.2](https://github.com/phan/phan/releases/tag/5.3.2), 3 weeks ago) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.4](https://github.com/symfony/symfony/releases/tag/v6.0.4), 3 weeks ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.4](https://github.com/symfony/symfony/releases/tag/v6.0.4), 4 weeks ago) - The Symfony PHP framework
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v0.1.0](https://github.com/nbgrp/singlea/releases/tag/v0.1.0), 2 months ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v2.0.0](https://github.com/nbgrp/env-bundle/releases/tag/v2.0.0), 2 months ago) - Bundle with a few useful Symfony environment variable processors.
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.8.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.8.0), 2 months ago) - OneLogin SAML Bundle for Symfony
