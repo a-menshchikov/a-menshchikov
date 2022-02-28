@@ -34,12 +34,12 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.5](https://github.com/symfony/symfony/releases/tag/v6.0.5), today) - The Symfony PHP framework
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v2.1.0](https://github.com/nbgrp/env-bundle/releases/tag/v2.1.0), 2 days ago) - Bundle with a few useful Symfony environment variable processors.
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.5.2](https://github.com/nbgrp/auditor/releases/tag/v0.5.2), 2 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.0.4](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.0.4), 2 weeks ago) - OneLogin SAML Symfony Bundle
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.8.1](https://github.com/phpro/grumphp/releases/tag/v1.8.1), 2 weeks ago) - A PHP code-quality tool
 - [phan/phan](https://github.com/phan/phan) ([5.3.2](https://github.com/phan/phan/releases/tag/5.3.2), 3 weeks ago) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.4](https://github.com/symfony/symfony/releases/tag/v6.0.4), 1 month ago) - The Symfony PHP framework
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v0.1.0](https://github.com/nbgrp/singlea/releases/tag/v0.1.0), 2 months ago)
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.8.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.8.0), 3 months ago) - OneLogin SAML Bundle for Symfony
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([v2.2.11](https://github.com/web-token/jwt-framework/releases/tag/v2.2.11), 6 months ago) - JWT Framework
