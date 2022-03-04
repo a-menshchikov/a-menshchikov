@@ -19,9 +19,9 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
-- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (2 days ago)
-- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (2 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (2 days ago)
+- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (3 days ago)
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (3 days ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 weeks ago)
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool (3 weeks ago)
@@ -34,10 +34,10 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.16](https://github.com/symfony/symfony/releases/tag/v5.3.16), 2 days ago) - The Symfony PHP framework
-- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v2.1.0](https://github.com/nbgrp/env-bundle/releases/tag/v2.1.0), 5 days ago) - Bundle with a few useful Symfony environment variable processors.
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.5.2](https://github.com/nbgrp/auditor/releases/tag/v0.5.2), 5 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
-- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.0.4](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.0.4), 2 weeks ago) - OneLogin SAML Symfony Bundle
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.16](https://github.com/symfony/symfony/releases/tag/v5.3.16), 3 days ago) - The Symfony PHP framework
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v2.1.0](https://github.com/nbgrp/env-bundle/releases/tag/v2.1.0), 6 days ago) - Bundle with a few useful Symfony environment variable processors.
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.5.2](https://github.com/nbgrp/auditor/releases/tag/v0.5.2), 6 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
+- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.0.4](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.0.4), 3 weeks ago) - OneLogin SAML Symfony Bundle
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.8.1](https://github.com/phpro/grumphp/releases/tag/v1.8.1), 3 weeks ago) - A PHP code-quality tool
 - [phan/phan](https://github.com/phan/phan) ([5.3.2](https://github.com/phan/phan/releases/tag/5.3.2), 1 month ago) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v0.1.0](https://github.com/nbgrp/singlea/releases/tag/v0.1.0), 2 months ago)
@@ -49,7 +49,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔨 My recent Pull Requests
 
-- [base64_array and base64url_array &#43; Dependabot](https://github.com/nbgrp/env-bundle/pull/2) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (5 days ago)
+- [base64_array and base64url_array &#43; Dependabot](https://github.com/nbgrp/env-bundle/pull/2) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (6 days ago)
 - [[Contracts] EventDispatcherInterface phpdocs improvement for static analyze](https://github.com/symfony/symfony/pull/45381) on [symfony/symfony](https://github.com/symfony/symfony) (3 weeks ago)
 - [New `no-dev` option for local-php-security-checker](https://github.com/phpro/grumphp/pull/984) on [phpro/grumphp](https://github.com/phpro/grumphp) (3 weeks ago)
 - [Change deptrac arguments according v0.19](https://github.com/phpro/grumphp/pull/980) on [phpro/grumphp](https://github.com/phpro/grumphp) (1 month ago)
