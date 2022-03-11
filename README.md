@@ -27,20 +27,20 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool (1 month ago)
 - [phan/phan](https://github.com/phan/phan) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness. (1 month ago)
 - [php/doc-ru](https://github.com/php/doc-ru) - Russian translation of the PHP documentation (2 months ago)
-- [nbgrp/singlea-jwt-fetcher-bundle](https://github.com/nbgrp/singlea-jwt-fetcher-bundle) (2 months ago)
-- [nbgrp/singlea-json-fetcher-bundle](https://github.com/nbgrp/singlea-json-fetcher-bundle) (2 months ago)
+- [nbgrp/singlea-jwt-fetcher-bundle](https://github.com/nbgrp/singlea-jwt-fetcher-bundle) (3 months ago)
+- [nbgrp/singlea-json-fetcher-bundle](https://github.com/nbgrp/singlea-json-fetcher-bundle) (3 months ago)
 
 ---
 
 ### 🔭 Latest releases I've contributed to
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.5.3](https://github.com/nbgrp/auditor/releases/tag/v0.5.3), 1 day ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.6](https://github.com/symfony/symfony/releases/tag/v6.0.6), 5 days ago) - The Symfony PHP framework
+- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.9.0](https://github.com/phpro/grumphp/releases/tag/v1.9.0), 1 day ago) - A PHP code-quality tool
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.5.3](https://github.com/nbgrp/auditor/releases/tag/v0.5.3), 2 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.6](https://github.com/symfony/symfony/releases/tag/v6.0.6), 6 days ago) - The Symfony PHP framework
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v2.1.0](https://github.com/nbgrp/env-bundle/releases/tag/v2.1.0), 1 week ago) - Bundle with a few useful Symfony environment variable processors.
-- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.0.4](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.0.4), 3 weeks ago) - OneLogin SAML Symfony Bundle
-- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.8.1](https://github.com/phpro/grumphp/releases/tag/v1.8.1), 4 weeks ago) - A PHP code-quality tool
+- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.0.4](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.0.4), 4 weeks ago) - OneLogin SAML Symfony Bundle
 - [phan/phan](https://github.com/phan/phan) ([5.3.2](https://github.com/phan/phan/releases/tag/5.3.2), 1 month ago) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
-- [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v0.1.0](https://github.com/nbgrp/singlea/releases/tag/v0.1.0), 2 months ago)
+- [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v0.1.0](https://github.com/nbgrp/singlea/releases/tag/v0.1.0), 3 months ago)
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.8.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.8.0), 3 months ago) - OneLogin SAML Bundle for Symfony
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([v2.2.11](https://github.com/web-token/jwt-framework/releases/tag/v2.2.11), 6 months ago) - JWT Framework
 - [certificationy/symfony-pack](https://github.com/certificationy/symfony-pack) ([1.6.1](https://github.com/certificationy/symfony-pack/releases/tag/1.6.1), 3 years ago) - A series of questions to prepare for the Symfony certification
@@ -50,7 +50,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 ### 🔨 My recent Pull Requests
 
 - [base64_array and base64url_array &#43; Dependabot](https://github.com/nbgrp/env-bundle/pull/2) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 week ago)
-- [[Contracts] EventDispatcherInterface phpdocs improvement for static analyze](https://github.com/symfony/symfony/pull/45381) on [symfony/symfony](https://github.com/symfony/symfony) (4 weeks ago)
+- [[Contracts] EventDispatcherInterface phpdocs improvement for static analyze](https://github.com/symfony/symfony/pull/45381) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - [New `no-dev` option for local-php-security-checker](https://github.com/phpro/grumphp/pull/984) on [phpro/grumphp](https://github.com/phpro/grumphp) (1 month ago)
 - [Change deptrac arguments according v0.19](https://github.com/phpro/grumphp/pull/980) on [phpro/grumphp](https://github.com/phpro/grumphp) (1 month ago)
 - [Missing DateTimeImmutable method signatures delta between 7.4 and 8.0](https://github.com/phan/phan/pull/4654) on [phan/phan](https://github.com/phan/phan) (1 month ago)
