@@ -34,8 +34,8 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.5.4](https://github.com/nbgrp/auditor/releases/tag/v0.5.4), today) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.9.0](https://github.com/phpro/grumphp/releases/tag/v1.9.0), 1 day ago) - A PHP code-quality tool
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.5.3](https://github.com/nbgrp/auditor/releases/tag/v0.5.3), 2 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.6](https://github.com/symfony/symfony/releases/tag/v6.0.6), 6 days ago) - The Symfony PHP framework
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v2.1.0](https://github.com/nbgrp/env-bundle/releases/tag/v2.1.0), 1 week ago) - Bundle with a few useful Symfony environment variable processors.
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.0.4](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.0.4), 4 weeks ago) - OneLogin SAML Symfony Bundle
