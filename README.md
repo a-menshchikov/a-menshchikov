@@ -19,25 +19,25 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (today)
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (2 days ago)
-- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (3 days ago)
-- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (3 days ago)
-- [doctrine/persistence](https://github.com/doctrine/persistence) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence. (6 days ago)
+- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (today)
+- [nbgrp/.github](https://github.com/nbgrp/.github) (1 day ago)
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (1 day ago)
+- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (1 day ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (3 days ago)
+- [doctrine/persistence](https://github.com/doctrine/persistence) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence. (1 week ago)
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework (1 month ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool (1 month ago)
 - [phan/phan](https://github.com/phan/phan) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness. (2 months ago)
-- [php/doc-ru](https://github.com/php/doc-ru) - Russian translation of the PHP documentation (3 months ago)
 
 ---
 
 ### 🔭 Latest releases I've contributed to
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([v3.0.2](https://github.com/web-token/jwt-framework/releases/tag/v3.0.2), today) - JWT Framework
-- [doctrine/persistence](https://github.com/doctrine/persistence) ([2.4.1](https://github.com/doctrine/persistence/releases/tag/2.4.1), 1 day ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
-- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.10.0](https://github.com/phpro/grumphp/releases/tag/v1.10.0), 3 days ago) - A PHP code-quality tool
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.5.5](https://github.com/nbgrp/auditor/releases/tag/v0.5.5), 3 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([v3.0.2](https://github.com/web-token/jwt-framework/releases/tag/v3.0.2), 1 day ago) - JWT Framework
+- [doctrine/persistence](https://github.com/doctrine/persistence) ([2.4.1](https://github.com/doctrine/persistence/releases/tag/2.4.1), 2 days ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
+- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.10.0](https://github.com/phpro/grumphp/releases/tag/v1.10.0), 4 days ago) - A PHP code-quality tool
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.5.5](https://github.com/nbgrp/auditor/releases/tag/v0.5.5), 4 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.1.0](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.1.0), 2 weeks ago) - OneLogin SAML Symfony Bundle
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.6](https://github.com/symfony/symfony/releases/tag/v6.0.6), 3 weeks ago) - The Symfony PHP framework
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v2.1.0](https://github.com/nbgrp/env-bundle/releases/tag/v2.1.0), 1 month ago) - Bundle with a few useful Symfony environment variable processors.
@@ -49,7 +49,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔨 My recent Pull Requests
 
-- [Missed tests exports ignore](https://github.com/doctrine/persistence/pull/259) on [doctrine/persistence](https://github.com/doctrine/persistence) (6 days ago)
+- [Missed tests exports ignore](https://github.com/doctrine/persistence/pull/259) on [doctrine/persistence](https://github.com/doctrine/persistence) (1 week ago)
 - [`&lt;request_scheme_and_host&gt;` placeholder for Auth configuration](https://github.com/nbgrp/onelogin-saml-bundle/pull/8) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (2 weeks ago)
 - [base64_array and base64url_array &#43; Dependabot](https://github.com/nbgrp/env-bundle/pull/2) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 month ago)
 - [[Contracts] EventDispatcherInterface phpdocs improvement for static analyze](https://github.com/symfony/symfony/pull/45381) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
