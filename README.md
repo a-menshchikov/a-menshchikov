@@ -34,12 +34,12 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.7](https://github.com/symfony/symfony/releases/tag/v6.0.7), today) - The Symfony PHP framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([v3.0.2](https://github.com/web-token/jwt-framework/releases/tag/v3.0.2), 5 days ago) - JWT Framework
 - [doctrine/persistence](https://github.com/doctrine/persistence) ([2.4.1](https://github.com/doctrine/persistence/releases/tag/2.4.1), 6 days ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.10.0](https://github.com/phpro/grumphp/releases/tag/v1.10.0), 1 week ago) - A PHP code-quality tool
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.5.5](https://github.com/nbgrp/auditor/releases/tag/v0.5.5), 1 week ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.1.0](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.1.0), 2 weeks ago) - OneLogin SAML Symfony Bundle
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.6](https://github.com/symfony/symfony/releases/tag/v6.0.6), 4 weeks ago) - The Symfony PHP framework
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v2.1.0](https://github.com/nbgrp/env-bundle/releases/tag/v2.1.0), 1 month ago) - Bundle with a few useful Symfony environment variable processors.
 - [phan/phan](https://github.com/phan/phan) ([5.3.2](https://github.com/phan/phan/releases/tag/5.3.2), 2 months ago) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v0.1.0](https://github.com/nbgrp/singlea/releases/tag/v0.1.0), 3 months ago)
