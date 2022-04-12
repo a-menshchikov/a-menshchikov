@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/singlea-recipes](https://github.com/nbgrp/singlea-recipes) - Recipes Repository for the SingleA project bundles (1 day ago)
+- [nbgrp/singlea-recipes](https://github.com/nbgrp/singlea-recipes) - Recipes Repository for the SingleA project bundles (today)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (6 days ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (6 days ago)
@@ -34,7 +34,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
-- [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v0.1.0](https://github.com/nbgrp/singlea/releases/tag/v0.1.0), 1 day ago)
+- [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v0.1.0](https://github.com/nbgrp/singlea/releases/tag/v0.1.0), 1 day ago) - SingleA is a true SSO service based on the SingleAuth authentication framework
 - [doctrine/persistence](https://github.com/doctrine/persistence) ([2.5.0](https://github.com/doctrine/persistence/releases/tag/2.5.0), 2 days ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.5.6](https://github.com/nbgrp/auditor/releases/tag/v0.5.6), 1 week ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([v3.0.3](https://github.com/web-token/jwt-framework/releases/tag/v3.0.3), 1 week ago) - JWT Framework
