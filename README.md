@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/singlea-recipes](https://github.com/nbgrp/singlea-recipes) (1 day ago)
+- [nbgrp/singlea-recipes](https://github.com/nbgrp/singlea-recipes) - Recipes Repository for the SingleA project bundles (1 day ago)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (6 days ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (6 days ago)
