@@ -19,8 +19,8 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/singlea-recipes](https://github.com/nbgrp/singlea-recipes) - Recipes Repository for the SingleA project bundles (1 day ago)
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (2 days ago)
+- [nbgrp/singlea-recipes](https://github.com/nbgrp/singlea-recipes) - Recipes Repository for the SingleA project bundles (2 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (3 days ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (1 week ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (1 week ago)
 - [nbgrp/.github](https://github.com/nbgrp/.github) (2 weeks ago)
@@ -34,8 +34,8 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
-- [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v0.1.0](https://github.com/nbgrp/singlea/releases/tag/v0.1.0), 2 days ago) - SingleA is a true SSO service based on the SingleAuth authentication framework
-- [doctrine/persistence](https://github.com/doctrine/persistence) ([2.5.0](https://github.com/doctrine/persistence/releases/tag/2.5.0), 3 days ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
+- [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v0.1.0](https://github.com/nbgrp/singlea/releases/tag/v0.1.0), 3 days ago) - SingleA is a true SSO service based on the SingleAuth authentication framework
+- [doctrine/persistence](https://github.com/doctrine/persistence) ([2.5.0](https://github.com/doctrine/persistence/releases/tag/2.5.0), 4 days ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.5.6](https://github.com/nbgrp/auditor/releases/tag/v0.5.6), 1 week ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([v3.0.3](https://github.com/web-token/jwt-framework/releases/tag/v3.0.3), 1 week ago) - JWT Framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.7](https://github.com/symfony/symfony/releases/tag/v6.0.7), 1 week ago) - The Symfony PHP framework
