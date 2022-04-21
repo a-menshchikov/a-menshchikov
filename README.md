@@ -2,7 +2,7 @@
 
 My name is Alexander. I'm a software engineer, architect, PHP community member, certified Symfony developer and FOSS enthusiast.
 
-* 🛠 I mostly use PHP (Symfony), JavaScript (Vue.js), Lua.
+* 🛠 I mostly use PHP (Symfony), JavaScript (Vue), Lua.
 * 🧰 I like working with PostgreSQL, Redis, RabbitMQ.
 * 🇷🇺 I'm Russian, but I can speak English 🇬🇧.
 * I ♥ FOSS.
@@ -70,6 +70,6 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 📫 How to reach me
 
-- Email: [amenshchikov@gmail.com](mailto://amenshchikov@gmail.com)
+- Email: [alexander.menshchikov@yandex.ru](mailto:alexander.menshchikov@yandex.ru)
 - Telegram: [@amenshchikov](https://t.me/amenshchikov)
 ![](https://hit.yhype.me/github/profile?user_id=2580489)
