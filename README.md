@@ -19,10 +19,10 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (1 day ago)
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (3 days ago)
-- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (3 days ago)
-- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (3 days ago)
+- [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (2 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (4 days ago)
+- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (4 days ago)
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (4 days ago)
 - [nbgrp/singlea-marshaller-contracts](https://github.com/nbgrp/singlea-marshaller-contracts) - [READ ONLY] Marshaller contracts of the SingleA project (1 week ago)
 - [nbgrp/singlea-payload-fetcher-contracts](https://github.com/nbgrp/singlea-payload-fetcher-contracts) - [READ ONLY] Payload Fetcher contracts of the SingleA project (1 week ago)
 - [nbgrp/singlea-json-fetcher-bundle](https://github.com/nbgrp/singlea-json-fetcher-bundle) - [READ ONLY] JSON Fetcher bundle of the SingleA project (1 week ago)
@@ -34,14 +34,14 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.5.7](https://github.com/nbgrp/auditor/releases/tag/v0.5.7), 3 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.5.7](https://github.com/nbgrp/auditor/releases/tag/v0.5.7), 4 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v1.0.0](https://github.com/nbgrp/singlea/releases/tag/v1.0.0), 1 week ago) - SingleA is a true SSO service based on the SingleAuth authentication framework
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.1.1](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.1.1), 1 week ago) - OneLogin SAML Symfony Bundle
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.11.0](https://github.com/phpro/grumphp/releases/tag/v1.11.0), 1 week ago) - A PHP code-quality tool
 - [doctrine/persistence](https://github.com/doctrine/persistence) ([3.0.0](https://github.com/doctrine/persistence/releases/tag/3.0.0), 1 week ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.1.0-BETA1), 1 week ago) - The Symfony PHP framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([v3.0.4](https://github.com/web-token/jwt-framework/releases/tag/v3.0.4), 1 week ago) - JWT Framework
-- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v2.1.0](https://github.com/nbgrp/env-bundle/releases/tag/v2.1.0), 1 month ago) - Bundle with a few useful Symfony environment variable processors.
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v2.1.0](https://github.com/nbgrp/env-bundle/releases/tag/v2.1.0), 2 months ago) - Bundle with a few useful Symfony environment variable processors.
 - [phan/phan](https://github.com/phan/phan) ([5.3.2](https://github.com/phan/phan/releases/tag/5.3.2), 2 months ago) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.8.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.8.0), 4 months ago) - OneLogin SAML Bundle for Symfony
 
@@ -52,7 +52,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 - [Avoid an &#34;Invalid array settings&#34; error at CLI commands](https://github.com/nbgrp/onelogin-saml-bundle/pull/11) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (1 week ago)
 - [Missed tests exports ignore](https://github.com/doctrine/persistence/pull/259) on [doctrine/persistence](https://github.com/doctrine/persistence) (1 month ago)
 - [`&lt;request_scheme_and_host&gt;` placeholder for Auth configuration](https://github.com/nbgrp/onelogin-saml-bundle/pull/8) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (1 month ago)
-- [base64_array and base64url_array &#43; Dependabot](https://github.com/nbgrp/env-bundle/pull/2) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 month ago)
+- [base64_array and base64url_array &#43; Dependabot](https://github.com/nbgrp/env-bundle/pull/2) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (2 months ago)
 - [[Contracts] EventDispatcherInterface phpdocs improvement for static analyze](https://github.com/symfony/symfony/pull/45381) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - [New `no-dev` option for local-php-security-checker](https://github.com/phpro/grumphp/pull/984) on [phpro/grumphp](https://github.com/phpro/grumphp) (2 months ago)
 - [Change deptrac arguments according v0.19](https://github.com/phpro/grumphp/pull/980) on [phpro/grumphp](https://github.com/phpro/grumphp) (2 months ago)
