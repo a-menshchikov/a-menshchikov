@@ -20,9 +20,9 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 ### 👷 Check out what I'm currently working on
 
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
-- [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (3 days ago)
-- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (5 days ago)
-- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (5 days ago)
+- [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (4 days ago)
+- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (6 days ago)
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (6 days ago)
 - [nbgrp/singlea-marshaller-contracts](https://github.com/nbgrp/singlea-marshaller-contracts) - [READ ONLY] Marshaller contracts of the SingleA project (1 week ago)
 - [nbgrp/singlea-payload-fetcher-contracts](https://github.com/nbgrp/singlea-payload-fetcher-contracts) - [READ ONLY] Payload Fetcher contracts of the SingleA project (1 week ago)
 - [nbgrp/singlea-json-fetcher-bundle](https://github.com/nbgrp/singlea-json-fetcher-bundle) - [READ ONLY] JSON Fetcher bundle of the SingleA project (1 week ago)
@@ -34,16 +34,16 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.1.0-BETA2), 1 day ago) - The Symfony PHP framework
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.6.0](https://github.com/nbgrp/auditor/releases/tag/v0.6.0), 1 day ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.1.0-BETA2), 2 days ago) - The Symfony PHP framework
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.6.0](https://github.com/nbgrp/auditor/releases/tag/v0.6.0), 2 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v1.0.0](https://github.com/nbgrp/singlea/releases/tag/v1.0.0), 1 week ago) - SingleA is a true SSO service based on the SingleAuth authentication framework
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.1.1](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.1.1), 1 week ago) - OneLogin SAML Symfony Bundle
-- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.11.0](https://github.com/phpro/grumphp/releases/tag/v1.11.0), 1 week ago) - A PHP code-quality tool
-- [doctrine/persistence](https://github.com/doctrine/persistence) ([3.0.0](https://github.com/doctrine/persistence/releases/tag/3.0.0), 1 week ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
+- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.11.0](https://github.com/phpro/grumphp/releases/tag/v1.11.0), 2 weeks ago) - A PHP code-quality tool
+- [doctrine/persistence](https://github.com/doctrine/persistence) ([3.0.0](https://github.com/doctrine/persistence/releases/tag/3.0.0), 2 weeks ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([v3.0.4](https://github.com/web-token/jwt-framework/releases/tag/v3.0.4), 2 weeks ago) - JWT Framework
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v2.1.0](https://github.com/nbgrp/env-bundle/releases/tag/v2.1.0), 2 months ago) - Bundle with a few useful Symfony environment variable processors.
 - [phan/phan](https://github.com/phan/phan) ([5.3.2](https://github.com/phan/phan/releases/tag/5.3.2), 2 months ago) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
-- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.8.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.8.0), 4 months ago) - OneLogin SAML Bundle for Symfony
+- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.8.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.8.0), 5 months ago) - OneLogin SAML Bundle for Symfony
 
 ---
 
