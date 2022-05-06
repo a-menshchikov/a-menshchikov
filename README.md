@@ -34,7 +34,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
-- [doctrine/persistence](https://github.com/doctrine/persistence) ([3.0.1](https://github.com/doctrine/persistence/releases/tag/3.0.1), 4 days ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
+- [doctrine/persistence](https://github.com/doctrine/persistence) ([3.0.2](https://github.com/doctrine/persistence/releases/tag/3.0.2), today) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.1.0-BETA2), 1 week ago) - The Symfony PHP framework
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.6.0](https://github.com/nbgrp/auditor/releases/tag/v0.6.0), 1 week ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v1.0.0](https://github.com/nbgrp/singlea/releases/tag/v1.0.0), 2 weeks ago) - SingleA is a true SSO service based on the SingleAuth authentication framework
