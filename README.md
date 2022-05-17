@@ -19,10 +19,10 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/singlea-redis-bundle](https://github.com/nbgrp/singlea-redis-bundle) - [READ ONLY] Redis bundle of the SingleA project (6 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (today)
+- [nbgrp/singlea-payload-fetcher-contracts](https://github.com/nbgrp/singlea-payload-fetcher-contracts) - [READ ONLY] Payload Fetcher contracts of the SingleA project (6 days ago)
 - [nbgrp/singlea-persistence-contracts](https://github.com/nbgrp/singlea-persistence-contracts) - [READ ONLY] Persistence contracts of the SingleA project (6 days ago)
 - [nbgrp/singlea-tokenization-contracts](https://github.com/nbgrp/singlea-tokenization-contracts) - [READ ONLY] Tokenization contracts of the SingleA project (6 days ago)
-- [nbgrp/singlea-marshaller-contracts](https://github.com/nbgrp/singlea-marshaller-contracts) - [READ ONLY] Marshaller contracts of the SingleA project (6 days ago)
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (6 days ago)
 - [nbgrp/singlea-json-fetcher-bundle](https://github.com/nbgrp/singlea-json-fetcher-bundle) - [READ ONLY] JSON Fetcher bundle of the SingleA project (6 days ago)
 - [nbgrp/singlea-bundle](https://github.com/nbgrp/singlea-bundle) - [READ ONLY] SingleA bundle of the SingleA project (6 days ago)
