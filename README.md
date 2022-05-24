@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (6 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 week ago)
 - [nbgrp/singlea-payload-fetcher-contracts](https://github.com/nbgrp/singlea-payload-fetcher-contracts) - [READ ONLY] Payload Fetcher contracts of the SingleA project (1 week ago)
 - [nbgrp/singlea-persistence-contracts](https://github.com/nbgrp/singlea-persistence-contracts) - [READ ONLY] Persistence contracts of the SingleA project (1 week ago)
 - [nbgrp/singlea-tokenization-contracts](https://github.com/nbgrp/singlea-tokenization-contracts) - [READ ONLY] Tokenization contracts of the SingleA project (1 week ago)
