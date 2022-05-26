@@ -57,8 +57,8 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 - [[Contracts] EventDispatcherInterface phpdocs improvement for static analyze](https://github.com/symfony/symfony/pull/45381) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 - [New `no-dev` option for local-php-security-checker](https://github.com/phpro/grumphp/pull/984) on [phpro/grumphp](https://github.com/phpro/grumphp) (3 months ago)
 - [Change deptrac arguments according v0.19](https://github.com/phpro/grumphp/pull/980) on [phpro/grumphp](https://github.com/phpro/grumphp) (3 months ago)
-- [Missing DateTimeImmutable method signatures delta between 7.4 and 8.0](https://github.com/phan/phan/pull/4654) on [phan/phan](https://github.com/phan/phan) (3 months ago)
-- [[PHP 8.0] Fix Date and Time functions return values](https://github.com/php/doc-en/pull/1358) on [php/doc-en](https://github.com/php/doc-en) (3 months ago)
+- [Missing DateTimeImmutable method signatures delta between 7.4 and 8.0](https://github.com/phan/phan/pull/4654) on [phan/phan](https://github.com/phan/phan) (4 months ago)
+- [[PHP 8.0] Fix Date and Time functions return values](https://github.com/php/doc-en/pull/1358) on [php/doc-en](https://github.com/php/doc-en) (4 months ago)
 
 ---
 
