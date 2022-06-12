@@ -19,8 +19,8 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
-- [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (2 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (2 days ago)
+- [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (3 days ago)
 - [nbgrp/singlea-tokenization-contracts](https://github.com/nbgrp/singlea-tokenization-contracts) - [READ ONLY] Tokenization contracts of the SingleA project (1 month ago)
 - [nbgrp/singlea-feature-config-contracts](https://github.com/nbgrp/singlea-feature-config-contracts) - [READ ONLY] Feature Config contracts of the SingleA project (1 month ago)
 - [nbgrp/singlea-persistence-contracts](https://github.com/nbgrp/singlea-persistence-contracts) - [READ ONLY] Persistence contracts of the SingleA project (1 month ago)
@@ -34,7 +34,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.1](https://github.com/symfony/symfony/releases/tag/v6.1.1), 2 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.1](https://github.com/symfony/symfony/releases/tag/v6.1.1), 3 days ago) - The Symfony PHP framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([v3.0.5](https://github.com/web-token/jwt-framework/releases/tag/v3.0.5), 1 week ago) - JWT Framework
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.6.2](https://github.com/nbgrp/auditor/releases/tag/v0.6.2), 2 weeks ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.12.0](https://github.com/phpro/grumphp/releases/tag/v1.12.0), 1 month ago) - A PHP code-quality tool
