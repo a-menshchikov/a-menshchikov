@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (3 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (4 days ago)
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (1 week ago)
 - [nbgrp/singlea-tokenization-contracts](https://github.com/nbgrp/singlea-tokenization-contracts) - [READ ONLY] Tokenization contracts of the SingleA project (1 month ago)
 - [nbgrp/singlea-feature-config-contracts](https://github.com/nbgrp/singlea-feature-config-contracts) - [READ ONLY] Feature Config contracts of the SingleA project (1 month ago)
@@ -34,7 +34,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 ### 🔭 Latest releases I've contributed to
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.7.0](https://github.com/nbgrp/auditor/releases/tag/v0.7.0), 5 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.7.0](https://github.com/nbgrp/auditor/releases/tag/v0.7.0), 6 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.1](https://github.com/symfony/symfony/releases/tag/v6.1.1), 1 week ago) - The Symfony PHP framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([v3.0.5](https://github.com/web-token/jwt-framework/releases/tag/v3.0.5), 2 weeks ago) - JWT Framework
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.12.0](https://github.com/phpro/grumphp/releases/tag/v1.12.0), 1 month ago) - A PHP code-quality tool
@@ -51,7 +51,7 @@ My name is Alexander. I'm a software engineer, architect, PHP community member, 
 
 - [Use `AsCommand` attribute to prevent Symfony 6.1 deprecations](https://github.com/web-token/jwt-framework/pull/341) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (1 month ago)
 - [Avoid an &#34;Invalid array settings&#34; error at CLI commands](https://github.com/nbgrp/onelogin-saml-bundle/pull/11) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (2 months ago)
-- [Missed tests exports ignore](https://github.com/doctrine/persistence/pull/259) on [doctrine/persistence](https://github.com/doctrine/persistence) (2 months ago)
+- [Missed tests exports ignore](https://github.com/doctrine/persistence/pull/259) on [doctrine/persistence](https://github.com/doctrine/persistence) (3 months ago)
 - [`&lt;request_scheme_and_host&gt;` placeholder for Auth configuration](https://github.com/nbgrp/onelogin-saml-bundle/pull/8) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (3 months ago)
 - [base64_array and base64url_array &#43; Dependabot](https://github.com/nbgrp/env-bundle/pull/2) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (3 months ago)
 - [[Contracts] EventDispatcherInterface phpdocs improvement for static analyze](https://github.com/symfony/symfony/pull/45381) on [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
