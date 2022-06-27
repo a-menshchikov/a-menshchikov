@@ -1,6 +1,6 @@
 ## Hi! 👋
 
-My name is Alexander. I'm a software engineer, architect, PHP community member, certified Symfony developer and FOSS enthusiast.
+My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 * 🛠 I mostly use PHP (Symfony), Golang, JavaScript (Vue), Lua.
 * 🧰 I like working with PostgreSQL, Redis, RabbitMQ.
