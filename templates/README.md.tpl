@@ -2,7 +2,7 @@
 
 My name is Alexander. I'm a software engineer, architect, PHP community member, certified Symfony developer and FOSS enthusiast.
 
-* 🛠 I mostly use PHP (Symfony), JavaScript (Vue), Lua.
+* 🛠 I mostly use PHP (Symfony), Golang, JavaScript (Vue), Lua.
 * 🧰 I like working with PostgreSQL, Redis, RabbitMQ.
 * 🇷🇺 I'm Russian, but I can speak English 🇬🇧.
 * I ♥ FOSS.
