@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (today)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (1 week ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (2 weeks ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (2 weeks ago)
@@ -37,7 +37,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([v3.0.6](https://github.com/web-token/jwt-framework/releases/tag/v3.0.6), 1 week ago) - JWT Framework
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.9.0](https://github.com/nbgrp/auditor/releases/tag/v0.9.0), 1 week ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.2](https://github.com/symfony/symfony/releases/tag/v6.1.2), 1 week ago) - The Symfony PHP framework
-- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.13.0](https://github.com/phpro/grumphp/releases/tag/v1.13.0), 1 week ago) - A PHP code-quality tool
+- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.13.0](https://github.com/phpro/grumphp/releases/tag/v1.13.0), 2 weeks ago) - A PHP code-quality tool
 - [doctrine/persistence](https://github.com/doctrine/persistence) ([3.0.2](https://github.com/doctrine/persistence/releases/tag/3.0.2), 2 months ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v1.0.0](https://github.com/nbgrp/singlea/releases/tag/v1.0.0), 2 months ago) - SingleA is a true SSO service based on the SingleAuth authentication framework
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.1.1](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.1.1), 2 months ago) - OneLogin SAML Symfony Bundle
@@ -55,7 +55,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [`&lt;request_scheme_and_host&gt;` placeholder for Auth configuration](https://github.com/nbgrp/onelogin-saml-bundle/pull/8) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (3 months ago)
 - [base64_array and base64url_array &#43; Dependabot](https://github.com/nbgrp/env-bundle/pull/2) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (4 months ago)
 - [[Contracts] EventDispatcherInterface phpdocs improvement for static analyze](https://github.com/symfony/symfony/pull/45381) on [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
-- [New `no-dev` option for local-php-security-checker](https://github.com/phpro/grumphp/pull/984) on [phpro/grumphp](https://github.com/phpro/grumphp) (4 months ago)
+- [New `no-dev` option for local-php-security-checker](https://github.com/phpro/grumphp/pull/984) on [phpro/grumphp](https://github.com/phpro/grumphp) (5 months ago)
 - [Change deptrac arguments according v0.19](https://github.com/phpro/grumphp/pull/980) on [phpro/grumphp](https://github.com/phpro/grumphp) (5 months ago)
 - [Missing DateTimeImmutable method signatures delta between 7.4 and 8.0](https://github.com/phan/phan/pull/4654) on [phan/phan](https://github.com/phan/phan) (5 months ago)
 - [[PHP 8.0] Fix Date and Time functions return values](https://github.com/php/doc-en/pull/1358) on [php/doc-en](https://github.com/php/doc-en) (5 months ago)
@@ -64,7 +64,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 📓 Gists I wrote
 
-- [Simplified CsvEnvVarProcessor](https://gist.github.com/08650c7b76154eb00c18d093e5087f0b) (11 months ago)
+- [Simplified CsvEnvVarProcessor](https://gist.github.com/08650c7b76154eb00c18d093e5087f0b) (1 year ago)
 
 ---
 
