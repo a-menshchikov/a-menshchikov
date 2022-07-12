@@ -19,9 +19,9 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (1 day ago)
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
-- [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (1 week ago)
+- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (2 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (2 days ago)
+- [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (2 weeks ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (2 weeks ago)
 - [nbgrp/singlea-bundle](https://github.com/nbgrp/singlea-bundle) - [READ ONLY] SingleA bundle of the SingleA project (2 months ago)
 - [nbgrp/singlea-json-fetcher-bundle](https://github.com/nbgrp/singlea-json-fetcher-bundle) - [READ ONLY] JSON Fetcher bundle of the SingleA project (2 months ago)
@@ -34,8 +34,8 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.2.0](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.2.0), 1 day ago) - OneLogin SAML Symfony Bundle
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.10.0](https://github.com/nbgrp/auditor/releases/tag/v0.10.0), 1 day ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
+- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.2.0](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.2.0), 2 days ago) - OneLogin SAML Symfony Bundle
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.10.0](https://github.com/nbgrp/auditor/releases/tag/v0.10.0), 2 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([v3.0.6](https://github.com/web-token/jwt-framework/releases/tag/v3.0.6), 1 week ago) - JWT Framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.2](https://github.com/symfony/symfony/releases/tag/v6.1.2), 2 weeks ago) - The Symfony PHP framework
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.13.0](https://github.com/phpro/grumphp/releases/tag/v1.13.0), 2 weeks ago) - A PHP code-quality tool
@@ -49,8 +49,8 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
-- [Do not use deprecated ProxyVarsCompilerPass](https://github.com/nbgrp/onelogin-saml-bundle/pull/14) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (1 day ago)
-- [Fix the `use_proxy_vars` behavior](https://github.com/nbgrp/onelogin-saml-bundle/pull/13) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (1 day ago)
+- [Do not use deprecated ProxyVarsCompilerPass](https://github.com/nbgrp/onelogin-saml-bundle/pull/14) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (2 days ago)
+- [Fix the `use_proxy_vars` behavior](https://github.com/nbgrp/onelogin-saml-bundle/pull/13) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (2 days ago)
 - [Use `AsCommand` attribute to prevent Symfony 6.1 deprecations](https://github.com/web-token/jwt-framework/pull/341) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 months ago)
 - [Avoid an &#34;Invalid array settings&#34; error at CLI commands](https://github.com/nbgrp/onelogin-saml-bundle/pull/11) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (2 months ago)
 - [Missed tests exports ignore](https://github.com/doctrine/persistence/pull/259) on [doctrine/persistence](https://github.com/doctrine/persistence) (3 months ago)
