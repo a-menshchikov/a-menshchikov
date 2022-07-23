@@ -19,8 +19,8 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
+- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (today)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (2 days ago)
-- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (1 week ago)
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (3 weeks ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (1 month ago)
 - [nbgrp/singlea-bundle](https://github.com/nbgrp/singlea-bundle) - [READ ONLY] SingleA bundle of the SingleA project (2 months ago)
@@ -34,7 +34,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.2.0](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.2.0), 1 week ago) - OneLogin SAML Symfony Bundle
+- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.2.1](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.2.1), today) - OneLogin SAML Symfony Bundle
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.10.0](https://github.com/nbgrp/auditor/releases/tag/v0.10.0), 1 week ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([v3.0.6](https://github.com/web-token/jwt-framework/releases/tag/v3.0.6), 3 weeks ago) - JWT Framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.2](https://github.com/symfony/symfony/releases/tag/v6.1.2), 3 weeks ago) - The Symfony PHP framework
@@ -49,6 +49,8 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
+- [1.1 to 1.2](https://github.com/nbgrp/onelogin-saml-bundle/pull/18) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (today)
+- [1.0 to 1.1](https://github.com/nbgrp/onelogin-saml-bundle/pull/17) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (today)
 - [Do not use deprecated ProxyVarsCompilerPass](https://github.com/nbgrp/onelogin-saml-bundle/pull/14) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (1 week ago)
 - [Fix the `use_proxy_vars` behavior](https://github.com/nbgrp/onelogin-saml-bundle/pull/13) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (1 week ago)
 - [Use `AsCommand` attribute to prevent Symfony 6.1 deprecations](https://github.com/web-token/jwt-framework/pull/341) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (2 months ago)
@@ -57,8 +59,6 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [`&lt;request_scheme_and_host&gt;` placeholder for Auth configuration](https://github.com/nbgrp/onelogin-saml-bundle/pull/8) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (4 months ago)
 - [base64_array and base64url_array &#43; Dependabot](https://github.com/nbgrp/env-bundle/pull/2) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (4 months ago)
 - [[Contracts] EventDispatcherInterface phpdocs improvement for static analyze](https://github.com/symfony/symfony/pull/45381) on [symfony/symfony](https://github.com/symfony/symfony) (5 months ago)
-- [New `no-dev` option for local-php-security-checker](https://github.com/phpro/grumphp/pull/984) on [phpro/grumphp](https://github.com/phpro/grumphp) (5 months ago)
-- [Change deptrac arguments according v0.19](https://github.com/phpro/grumphp/pull/980) on [phpro/grumphp](https://github.com/phpro/grumphp) (5 months ago)
 
 ---
 
