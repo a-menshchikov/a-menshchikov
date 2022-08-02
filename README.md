@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (3 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (4 days ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (1 week ago)
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (1 month ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (1 month ago)
@@ -34,7 +34,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.3](https://github.com/symfony/symfony/releases/tag/v6.1.3), 3 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.3](https://github.com/symfony/symfony/releases/tag/v6.1.3), 4 days ago) - The Symfony PHP framework
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.2.1](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.2.1), 1 week ago) - OneLogin SAML Symfony Bundle
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.10.0](https://github.com/nbgrp/auditor/releases/tag/v0.10.0), 3 weeks ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([v3.0.6](https://github.com/web-token/jwt-framework/releases/tag/v3.0.6), 1 month ago) - JWT Framework
