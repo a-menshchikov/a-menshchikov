@@ -19,13 +19,13 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (today)
-- [nbgrp/singlea-jwt-fetcher-bundle](https://github.com/nbgrp/singlea-jwt-fetcher-bundle) - [READ ONLY] JWT Fetcher bundle of the SingleA project (3 days ago)
-- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (3 days ago)
-- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (3 days ago)
-- [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (3 days ago)
-- [nbgrp/singlea-bundle](https://github.com/nbgrp/singlea-bundle) - [READ ONLY] SingleA bundle of the SingleA project (3 days ago)
-- [nbgrp/singlea-jwt-bundle](https://github.com/nbgrp/singlea-jwt-bundle) - [READ ONLY] JWT (Tokenizer) bundle of the SingleA project (3 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
+- [nbgrp/singlea-jwt-fetcher-bundle](https://github.com/nbgrp/singlea-jwt-fetcher-bundle) - [READ ONLY] JWT Fetcher bundle of the SingleA project (4 days ago)
+- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (4 days ago)
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (4 days ago)
+- [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (4 days ago)
+- [nbgrp/singlea-bundle](https://github.com/nbgrp/singlea-bundle) - [READ ONLY] SingleA bundle of the SingleA project (4 days ago)
+- [nbgrp/singlea-jwt-bundle](https://github.com/nbgrp/singlea-jwt-bundle) - [READ ONLY] JWT (Tokenizer) bundle of the SingleA project (4 days ago)
 - [nbgrp/singlea-payload-fetcher-contracts](https://github.com/nbgrp/singlea-payload-fetcher-contracts) - [READ ONLY] Payload Fetcher contracts of the SingleA project (3 months ago)
 - [nbgrp/singlea-json-fetcher-bundle](https://github.com/nbgrp/singlea-json-fetcher-bundle) - [READ ONLY] JSON Fetcher bundle of the SingleA project (3 months ago)
 - [nbgrp/singlea-redis-bundle](https://github.com/nbgrp/singlea-redis-bundle) - [READ ONLY] Redis bundle of the SingleA project (3 months ago)
@@ -34,11 +34,11 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [phan/phan](https://github.com/phan/phan) ([5.4.0](https://github.com/phan/phan/releases/tag/5.4.0), 1 day ago) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
-- [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v1.0.1](https://github.com/nbgrp/singlea/releases/tag/v1.0.1), 3 days ago) - SingleA is a true SSO service based on the SingleAuth authentication framework
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.11.0](https://github.com/nbgrp/auditor/releases/tag/v0.11.0), 3 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
-- [doctrine/persistence](https://github.com/doctrine/persistence) ([2.5.4](https://github.com/doctrine/persistence/releases/tag/2.5.4), 4 days ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([v3.0.7](https://github.com/web-token/jwt-framework/releases/tag/v3.0.7), 6 days ago) - JWT Framework
+- [phan/phan](https://github.com/phan/phan) ([5.4.0](https://github.com/phan/phan/releases/tag/5.4.0), 2 days ago) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
+- [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v1.0.1](https://github.com/nbgrp/singlea/releases/tag/v1.0.1), 4 days ago) - SingleA is a true SSO service based on the SingleAuth authentication framework
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.11.0](https://github.com/nbgrp/auditor/releases/tag/v0.11.0), 4 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
+- [doctrine/persistence](https://github.com/doctrine/persistence) ([2.5.4](https://github.com/doctrine/persistence/releases/tag/2.5.4), 5 days ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([v3.0.7](https://github.com/web-token/jwt-framework/releases/tag/v3.0.7), 1 week ago) - JWT Framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.3](https://github.com/symfony/symfony/releases/tag/v6.1.3), 1 week ago) - The Symfony PHP framework
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.2.1](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.2.1), 2 weeks ago) - OneLogin SAML Symfony Bundle
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.13.0](https://github.com/phpro/grumphp/releases/tag/v1.13.0), 1 month ago) - A PHP code-quality tool
