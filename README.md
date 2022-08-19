@@ -39,7 +39,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.11.0](https://github.com/nbgrp/auditor/releases/tag/v0.11.0), 1 week ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [doctrine/persistence](https://github.com/doctrine/persistence) ([2.5.4](https://github.com/doctrine/persistence/releases/tag/2.5.4), 1 week ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([v3.0.7](https://github.com/web-token/jwt-framework/releases/tag/v3.0.7), 2 weeks ago) - JWT Framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.3](https://github.com/symfony/symfony/releases/tag/v6.1.3), 2 weeks ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.3](https://github.com/symfony/symfony/releases/tag/v6.1.3), 3 weeks ago) - The Symfony PHP framework
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.2.1](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.2.1), 3 weeks ago) - OneLogin SAML Symfony Bundle
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.13.0](https://github.com/phpro/grumphp/releases/tag/v1.13.0), 1 month ago) - A PHP code-quality tool
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v2.1.0](https://github.com/nbgrp/env-bundle/releases/tag/v2.1.0), 5 months ago) - Bundle with a few useful Symfony environment variable processors.
@@ -55,7 +55,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [Fix the `use_proxy_vars` behavior](https://github.com/nbgrp/onelogin-saml-bundle/pull/13) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (1 month ago)
 - [Use `AsCommand` attribute to prevent Symfony 6.1 deprecations](https://github.com/web-token/jwt-framework/pull/341) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (3 months ago)
 - [Avoid an &#34;Invalid array settings&#34; error at CLI commands](https://github.com/nbgrp/onelogin-saml-bundle/pull/11) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (4 months ago)
-- [Missed tests exports ignore](https://github.com/doctrine/persistence/pull/259) on [doctrine/persistence](https://github.com/doctrine/persistence) (4 months ago)
+- [Missed tests exports ignore](https://github.com/doctrine/persistence/pull/259) on [doctrine/persistence](https://github.com/doctrine/persistence) (5 months ago)
 - [`&lt;request_scheme_and_host&gt;` placeholder for Auth configuration](https://github.com/nbgrp/onelogin-saml-bundle/pull/8) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (5 months ago)
 - [base64_array and base64url_array &#43; Dependabot](https://github.com/nbgrp/env-bundle/pull/2) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (5 months ago)
 - [[Contracts] EventDispatcherInterface phpdocs improvement for static analyze](https://github.com/symfony/symfony/pull/45381) on [symfony/symfony](https://github.com/symfony/symfony) (6 months ago)
