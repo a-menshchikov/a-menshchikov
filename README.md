@@ -34,7 +34,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.1.0](https://github.com/web-token/jwt-framework/releases/tag/3.1.0), 1 day ago) - JWT Framework
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.1.1](https://github.com/web-token/jwt-framework/releases/tag/3.1.1), today) - JWT Framework
 - [phan/phan](https://github.com/phan/phan) ([5.4.0](https://github.com/phan/phan/releases/tag/5.4.0), 2 weeks ago) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v1.0.1](https://github.com/nbgrp/singlea/releases/tag/v1.0.1), 2 weeks ago) - SingleA is a true SSO service based on the SingleAuth authentication framework
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.11.0](https://github.com/nbgrp/auditor/releases/tag/v0.11.0), 2 weeks ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
