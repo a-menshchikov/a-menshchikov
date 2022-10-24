@@ -34,8 +34,8 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.2.0-BETA1), today) - The Symfony PHP framework
 - [doctrine/persistence](https://github.com/doctrine/persistence) ([3.0.4](https://github.com/doctrine/persistence/releases/tag/3.0.4), 1 week ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.6](https://github.com/symfony/symfony/releases/tag/v6.1.6), 1 week ago) - The Symfony PHP framework
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.9.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.9.0), 1 month ago) - OneLogin SAML Bundle for Symfony
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.1.2](https://github.com/web-token/jwt-framework/releases/tag/3.1.2), 1 month ago) - JWT Framework
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.12.0](https://github.com/nbgrp/auditor/releases/tag/v0.12.0), 1 month ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
