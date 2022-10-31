@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (4 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (5 days ago)
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (1 month ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (2 months ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (2 months ago)
@@ -34,10 +34,10 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.2.0-BETA2), 2 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.2.0-BETA2), 3 days ago) - The Symfony PHP framework
 - [doctrine/persistence](https://github.com/doctrine/persistence) ([3.0.4](https://github.com/doctrine/persistence/releases/tag/3.0.4), 2 weeks ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.9.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.9.0), 1 month ago) - OneLogin SAML Bundle for Symfony
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.1.2](https://github.com/web-token/jwt-framework/releases/tag/3.1.2), 1 month ago) - JWT Framework
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.1.2](https://github.com/web-token/jwt-framework/releases/tag/3.1.2), 2 months ago) - JWT Framework
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.12.0](https://github.com/nbgrp/auditor/releases/tag/v0.12.0), 2 months ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [phan/phan](https://github.com/phan/phan) ([5.4.1](https://github.com/phan/phan/releases/tag/5.4.1), 2 months ago) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v1.0.1](https://github.com/nbgrp/singlea/releases/tag/v1.0.1), 2 months ago) - SingleA is a true SSO service based on the SingleAuth authentication framework
