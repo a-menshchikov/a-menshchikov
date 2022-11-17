@@ -19,9 +19,9 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [a-menshchikov/.github](https://github.com/a-menshchikov/.github) (today)
-- [a-menshchikov/ozon-route256-4go](https://github.com/a-menshchikov/ozon-route256-4go) - O³ Route 256 learning project: Financial Assistant telegram bot (today)
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
+- [a-menshchikov/.github](https://github.com/a-menshchikov/.github) (1 day ago)
+- [a-menshchikov/ozon-route256-4go](https://github.com/a-menshchikov/ozon-route256-4go) - O³ Route 256 learning project: Financial Assistant telegram bot (1 day ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (2 days ago)
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (2 months ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (3 months ago)
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (3 months ago)
@@ -55,7 +55,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [Fix the `use_proxy_vars` behavior](https://github.com/nbgrp/onelogin-saml-bundle/pull/13) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (4 months ago)
 - [Use `AsCommand` attribute to prevent Symfony 6.1 deprecations](https://github.com/web-token/jwt-framework/pull/341) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (6 months ago)
 - [Avoid an &#34;Invalid array settings&#34; error at CLI commands](https://github.com/nbgrp/onelogin-saml-bundle/pull/11) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (7 months ago)
-- [Missed tests exports ignore](https://github.com/doctrine/persistence/pull/259) on [doctrine/persistence](https://github.com/doctrine/persistence) (7 months ago)
+- [Missed tests exports ignore](https://github.com/doctrine/persistence/pull/259) on [doctrine/persistence](https://github.com/doctrine/persistence) (8 months ago)
 - [`&lt;request_scheme_and_host&gt;` placeholder for Auth configuration](https://github.com/nbgrp/onelogin-saml-bundle/pull/8) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (8 months ago)
 - [base64_array and base64url_array &#43; Dependabot](https://github.com/nbgrp/env-bundle/pull/2) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (8 months ago)
 - [[Contracts] EventDispatcherInterface phpdocs improvement for static analyze](https://github.com/symfony/symfony/pull/45381) on [symfony/symfony](https://github.com/symfony/symfony) (9 months ago)
