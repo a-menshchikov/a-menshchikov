@@ -20,7 +20,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 ### 👷 Check out what I'm currently working on
 
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 week ago)
-- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (4 weeks ago)
+- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (1 month ago)
 - [a-menshchikov/ozon-route256-4go](https://github.com/a-menshchikov/ozon-route256-4go) - O₃ Route 256 learning project: Financial Assistant telegram bot (1 month ago)
 - [a-menshchikov/.github](https://github.com/a-menshchikov/.github) (1 month ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (4 months ago)
@@ -34,16 +34,16 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.15.0](https://github.com/phpro/grumphp/releases/tag/v1.15.0), today) - A PHP code-quality tool
-- [doctrine/persistence](https://github.com/doctrine/persistence) ([3.1.2](https://github.com/doctrine/persistence/releases/tag/3.1.2), 3 days ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.2](https://github.com/symfony/symfony/releases/tag/v6.2.2), 6 days ago) - The Symfony PHP framework
-- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.10.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.10.0), 4 weeks ago) - OneLogin SAML Bundle for Symfony
+- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.15.0](https://github.com/phpro/grumphp/releases/tag/v1.15.0), 1 day ago) - A PHP code-quality tool
+- [doctrine/persistence](https://github.com/doctrine/persistence) ([3.1.2](https://github.com/doctrine/persistence/releases/tag/3.1.2), 4 days ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.2](https://github.com/symfony/symfony/releases/tag/v6.2.2), 1 week ago) - The Symfony PHP framework
+- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.10.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.10.0), 1 month ago) - OneLogin SAML Bundle for Symfony
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.1.2](https://github.com/web-token/jwt-framework/releases/tag/3.1.2), 3 months ago) - JWT Framework
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.12.0](https://github.com/nbgrp/auditor/releases/tag/v0.12.0), 3 months ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [phan/phan](https://github.com/phan/phan) ([5.4.1](https://github.com/phan/phan/releases/tag/5.4.1), 3 months ago) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v1.0.1](https://github.com/nbgrp/singlea/releases/tag/v1.0.1), 4 months ago) - SingleA is a true SSO service based on the SingleAuth authentication framework
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.2.1](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.2.1), 5 months ago) - OneLogin SAML Symfony Bundle
-- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v2.1.0](https://github.com/nbgrp/env-bundle/releases/tag/v2.1.0), 9 months ago) - Bundle with a few useful Symfony environment variable processors.
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v2.1.0](https://github.com/nbgrp/env-bundle/releases/tag/v2.1.0), 10 months ago) - Bundle with a few useful Symfony environment variable processors.
 
 ---
 
@@ -57,7 +57,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [Avoid an &#34;Invalid array settings&#34; error at CLI commands](https://github.com/nbgrp/onelogin-saml-bundle/pull/11) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (8 months ago)
 - [Missed tests exports ignore](https://github.com/doctrine/persistence/pull/259) on [doctrine/persistence](https://github.com/doctrine/persistence) (9 months ago)
 - [`&lt;request_scheme_and_host&gt;` placeholder for Auth configuration](https://github.com/nbgrp/onelogin-saml-bundle/pull/8) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (9 months ago)
-- [base64_array and base64url_array &#43; Dependabot](https://github.com/nbgrp/env-bundle/pull/2) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (9 months ago)
+- [base64_array and base64url_array &#43; Dependabot](https://github.com/nbgrp/env-bundle/pull/2) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (10 months ago)
 - [[Contracts] EventDispatcherInterface phpdocs improvement for static analyze](https://github.com/symfony/symfony/pull/45381) on [symfony/symfony](https://github.com/symfony/symfony) (10 months ago)
 
 ---
