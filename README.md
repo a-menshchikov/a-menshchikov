@@ -34,10 +34,10 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.4](https://github.com/symfony/symfony/releases/tag/v6.2.4), 3 days ago) - The Symfony PHP framework
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.1.5](https://github.com/web-token/jwt-framework/releases/tag/3.1.5), 4 days ago) - JWT Framework
+- [doctrine/persistence](https://github.com/doctrine/persistence) ([2.5.6](https://github.com/doctrine/persistence/releases/tag/2.5.6), 1 day ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.4](https://github.com/symfony/symfony/releases/tag/v6.2.4), 4 days ago) - The Symfony PHP framework
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.1.5](https://github.com/web-token/jwt-framework/releases/tag/3.1.5), 5 days ago) - JWT Framework
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.15.0](https://github.com/phpro/grumphp/releases/tag/v1.15.0), 1 week ago) - A PHP code-quality tool
-- [doctrine/persistence](https://github.com/doctrine/persistence) ([3.1.2](https://github.com/doctrine/persistence/releases/tag/3.1.2), 1 week ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.10.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.10.0), 1 month ago) - OneLogin SAML Bundle for Symfony
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.12.0](https://github.com/nbgrp/auditor/releases/tag/v0.12.0), 4 months ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [phan/phan](https://github.com/phan/phan) ([5.4.1](https://github.com/phan/phan/releases/tag/5.4.1), 4 months ago) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
