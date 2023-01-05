@@ -34,10 +34,10 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [doctrine/persistence](https://github.com/doctrine/persistence) ([2.5.6](https://github.com/doctrine/persistence/releases/tag/2.5.6), 3 days ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.4](https://github.com/symfony/symfony/releases/tag/v6.2.4), 6 days ago) - The Symfony PHP framework
+- [doctrine/persistence](https://github.com/doctrine/persistence) ([2.5.6](https://github.com/doctrine/persistence/releases/tag/2.5.6), 4 days ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.4](https://github.com/symfony/symfony/releases/tag/v6.2.4), 1 week ago) - The Symfony PHP framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.1.5](https://github.com/web-token/jwt-framework/releases/tag/3.1.5), 1 week ago) - JWT Framework
-- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.15.0](https://github.com/phpro/grumphp/releases/tag/v1.15.0), 1 week ago) - A PHP code-quality tool
+- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.15.0](https://github.com/phpro/grumphp/releases/tag/v1.15.0), 2 weeks ago) - A PHP code-quality tool
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.10.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.10.0), 1 month ago) - OneLogin SAML Bundle for Symfony
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.12.0](https://github.com/nbgrp/auditor/releases/tag/v0.12.0), 4 months ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [phan/phan](https://github.com/phan/phan) ([5.4.1](https://github.com/phan/phan/releases/tag/5.4.1), 4 months ago) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
@@ -58,7 +58,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [Missed tests exports ignore](https://github.com/doctrine/persistence/pull/259) on [doctrine/persistence](https://github.com/doctrine/persistence) (9 months ago)
 - [`&lt;request_scheme_and_host&gt;` placeholder for Auth configuration](https://github.com/nbgrp/onelogin-saml-bundle/pull/8) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (9 months ago)
 - [base64_array and base64url_array &#43; Dependabot](https://github.com/nbgrp/env-bundle/pull/2) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (10 months ago)
-- [[Contracts] EventDispatcherInterface phpdocs improvement for static analyze](https://github.com/symfony/symfony/pull/45381) on [symfony/symfony](https://github.com/symfony/symfony) (10 months ago)
+- [[Contracts] EventDispatcherInterface phpdocs improvement for static analyze](https://github.com/symfony/symfony/pull/45381) on [symfony/symfony](https://github.com/symfony/symfony) (11 months ago)
 
 ---
 
