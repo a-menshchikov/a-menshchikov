@@ -34,7 +34,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [doctrine/persistence](https://github.com/doctrine/persistence) ([2.5.6](https://github.com/doctrine/persistence/releases/tag/2.5.6), 4 days ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
+- [doctrine/persistence](https://github.com/doctrine/persistence) ([2.5.6](https://github.com/doctrine/persistence/releases/tag/2.5.6), 5 days ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.4](https://github.com/symfony/symfony/releases/tag/v6.2.4), 1 week ago) - The Symfony PHP framework
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.1.5](https://github.com/web-token/jwt-framework/releases/tag/3.1.5), 1 week ago) - JWT Framework
 - [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.15.0](https://github.com/phpro/grumphp/releases/tag/v1.15.0), 2 weeks ago) - A PHP code-quality tool
@@ -51,8 +51,8 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 - [1.1 to 1.2](https://github.com/nbgrp/onelogin-saml-bundle/pull/18) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (5 months ago)
 - [1.0 to 1.1](https://github.com/nbgrp/onelogin-saml-bundle/pull/17) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (5 months ago)
-- [Do not use deprecated ProxyVarsCompilerPass](https://github.com/nbgrp/onelogin-saml-bundle/pull/14) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (5 months ago)
-- [Fix the `use_proxy_vars` behavior](https://github.com/nbgrp/onelogin-saml-bundle/pull/13) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (5 months ago)
+- [Do not use deprecated ProxyVarsCompilerPass](https://github.com/nbgrp/onelogin-saml-bundle/pull/14) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (6 months ago)
+- [Fix the `use_proxy_vars` behavior](https://github.com/nbgrp/onelogin-saml-bundle/pull/13) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (6 months ago)
 - [Use `AsCommand` attribute to prevent Symfony 6.1 deprecations](https://github.com/web-token/jwt-framework/pull/341) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (8 months ago)
 - [Avoid an &#34;Invalid array settings&#34; error at CLI commands](https://github.com/nbgrp/onelogin-saml-bundle/pull/11) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (8 months ago)
 - [Missed tests exports ignore](https://github.com/doctrine/persistence/pull/259) on [doctrine/persistence](https://github.com/doctrine/persistence) (9 months ago)
