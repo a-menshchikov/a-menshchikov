@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (3 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (4 days ago)
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (2 months ago)
 - [a-menshchikov/ozon-route256-4go](https://github.com/a-menshchikov/ozon-route256-4go) - O₃ Route 256 learning project: Financial Assistant telegram bot (2 months ago)
 - [a-menshchikov/.github](https://github.com/a-menshchikov/.github) (2 months ago)
@@ -34,10 +34,9 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [doctrine/persistence](https://github.com/doctrine/persistence) ([2.5.7](https://github.com/doctrine/persistence/releases/tag/2.5.7), 5 days ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.1.6](https://github.com/web-token/jwt-framework/releases/tag/3.1.6), 6 days ago) - JWT Framework
+- [doctrine/persistence](https://github.com/doctrine/persistence) ([2.5.7](https://github.com/doctrine/persistence/releases/tag/2.5.7), 6 days ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.1.6](https://github.com/web-token/jwt-framework/releases/tag/3.1.6), 1 week ago) - JWT Framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.6](https://github.com/symfony/symfony/releases/tag/v6.2.6), 1 week ago) - The Symfony PHP framework
-- [phpro/grumphp](https://github.com/phpro/grumphp) ([v1.15.0](https://github.com/phpro/grumphp/releases/tag/v1.15.0), 1 month ago) - A PHP code-quality tool
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.10.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.10.0), 2 months ago) - OneLogin SAML Bundle for Symfony
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.12.0](https://github.com/nbgrp/auditor/releases/tag/v0.12.0), 5 months ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v1.0.1](https://github.com/nbgrp/singlea/releases/tag/v1.0.1), 6 months ago) - SingleA is a true SSO service based on the SingleAuth authentication framework
