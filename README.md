@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (6 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 week ago)
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (2 months ago)
 - [a-menshchikov/.github](https://github.com/a-menshchikov/.github) (3 months ago)
 - [a-menshchikov/ozon-route256-4go](https://github.com/a-menshchikov/ozon-route256-4go) - O₃ Route 256 learning project: Financial Assistant telegram bot (3 months ago)
@@ -34,20 +34,20 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.13.0](https://github.com/nbgrp/auditor/releases/tag/v0.13.0), 6 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.13.0](https://github.com/nbgrp/auditor/releases/tag/v0.13.0), 1 week ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [doctrine/persistence](https://github.com/doctrine/persistence) ([2.5.7](https://github.com/doctrine/persistence/releases/tag/2.5.7), 2 weeks ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [web-token/jwt-framework](https://github.com/web-token/jwt-framework) ([3.1.6](https://github.com/web-token/jwt-framework/releases/tag/3.1.6), 2 weeks ago) - JWT Framework
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.10.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.10.0), 2 months ago) - OneLogin SAML Bundle for Symfony
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v1.0.1](https://github.com/nbgrp/singlea/releases/tag/v1.0.1), 6 months ago) - SingleA is a true SSO service based on the SingleAuth authentication framework
-- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.2.1](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.2.1), 6 months ago) - OneLogin SAML Symfony Bundle
+- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.2.1](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.2.1), 7 months ago) - OneLogin SAML Symfony Bundle
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v2.1.0](https://github.com/nbgrp/env-bundle/releases/tag/v2.1.0), 11 months ago) - Bundle with a few useful Symfony environment variable processors.
 
 ---
 
 ### 🔨 My recent Pull Requests
 
-- [1.1 to 1.2](https://github.com/nbgrp/onelogin-saml-bundle/pull/18) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (6 months ago)
-- [1.0 to 1.1](https://github.com/nbgrp/onelogin-saml-bundle/pull/17) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (6 months ago)
+- [1.1 to 1.2](https://github.com/nbgrp/onelogin-saml-bundle/pull/18) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (7 months ago)
+- [1.0 to 1.1](https://github.com/nbgrp/onelogin-saml-bundle/pull/17) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (7 months ago)
 - [Do not use deprecated ProxyVarsCompilerPass](https://github.com/nbgrp/onelogin-saml-bundle/pull/14) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (7 months ago)
 - [Fix the `use_proxy_vars` behavior](https://github.com/nbgrp/onelogin-saml-bundle/pull/13) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (7 months ago)
 - [Use `AsCommand` attribute to prevent Symfony 6.1 deprecations](https://github.com/web-token/jwt-framework/pull/341) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (9 months ago)
