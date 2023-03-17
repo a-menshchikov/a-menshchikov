@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (2 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (today)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (2 weeks ago)
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (3 months ago)
 - [a-menshchikov/ozon-route256-4go](https://github.com/a-menshchikov/ozon-route256-4go) - O₃ Route 256 learning project: Financial Assistant telegram bot (4 months ago)
@@ -34,7 +34,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.16.1](https://github.com/nbgrp/auditor/releases/tag/v0.16.1), 2 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.16.1](https://github.com/nbgrp/auditor/releases/tag/v0.16.1), 3 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.3.0](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.3.0), 2 weeks ago) - OneLogin SAML Symfony Bundle
 - [doctrine/persistence](https://github.com/doctrine/persistence) ([2.5.7](https://github.com/doctrine/persistence/releases/tag/2.5.7), 1 month ago) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.10.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.10.0), 3 months ago) - OneLogin SAML Bundle for Symfony
