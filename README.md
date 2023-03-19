@@ -45,6 +45,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
+- [Symfony 6 fixes &#43; License &#43; Code style &#43; Linters configs](https://github.com/nochlezhka/mks/pull/99) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (today)
 - [Sf 6 fixes](https://github.com/nochlezhka/mks/pull/97) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 week ago)
 - [Add Symfony 6.2 support without deprecations](https://github.com/nbgrp/onelogin-saml-bundle/pull/25) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (3 weeks ago)
 - [1.1 to 1.2](https://github.com/nbgrp/onelogin-saml-bundle/pull/24) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (3 weeks ago)
@@ -54,7 +55,6 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [1.0 to 1.1](https://github.com/nbgrp/onelogin-saml-bundle/pull/17) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (7 months ago)
 - [Do not use deprecated ProxyVarsCompilerPass](https://github.com/nbgrp/onelogin-saml-bundle/pull/14) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (8 months ago)
 - [Fix the `use_proxy_vars` behavior](https://github.com/nbgrp/onelogin-saml-bundle/pull/13) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (8 months ago)
-- [Use `AsCommand` attribute to prevent Symfony 6.1 deprecations](https://github.com/web-token/jwt-framework/pull/341) on [web-token/jwt-framework](https://github.com/web-token/jwt-framework) (10 months ago)
 
 ---
 
