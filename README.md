@@ -44,6 +44,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
+- [Auditor](https://github.com/nochlezhka/mks/pull/103) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (today)
 - [Move group roles to user roles &#43; restore old admin codes](https://github.com/nochlezhka/mks/pull/102) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 days ago)
 - [PHP configs instead of YAML](https://github.com/nochlezhka/mks/pull/100) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 week ago)
 - [Merge 1.2 to 1.3](https://github.com/nbgrp/onelogin-saml-bundle/pull/32) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (1 week ago)
@@ -53,7 +54,6 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [Symfony 6 fixes &#43; License &#43; Code style &#43; Linters configs](https://github.com/nochlezhka/mks/pull/99) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 week ago)
 - [Sf 6 fixes](https://github.com/nochlezhka/mks/pull/97) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 weeks ago)
 - [Add Symfony 6.2 support without deprecations](https://github.com/nbgrp/onelogin-saml-bundle/pull/25) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (1 month ago)
-- [1.1 to 1.2](https://github.com/nbgrp/onelogin-saml-bundle/pull/24) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (1 month ago)
 
 ---
 
