@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (2 days ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (2 weeks ago)
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (4 months ago)
 - [a-menshchikov/ozon-route256-4go](https://github.com/a-menshchikov/ozon-route256-4go) - O₃ Route 256 learning project: Financial Assistant telegram bot (4 months ago)
@@ -44,7 +44,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
-- [Monolog &#43; preload &#43; Docker context](https://github.com/nochlezhka/mks/pull/104) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (5 days ago)
+- [Monolog &#43; preload &#43; Docker context](https://github.com/nochlezhka/mks/pull/104) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (6 days ago)
 - [Auditor](https://github.com/nochlezhka/mks/pull/103) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 week ago)
 - [Move group roles to user roles &#43; restore old admin codes](https://github.com/nochlezhka/mks/pull/102) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 week ago)
 - [PHP configs instead of YAML](https://github.com/nochlezhka/mks/pull/100) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 weeks ago)
