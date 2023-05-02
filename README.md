@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (6 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 week ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (1 week ago)
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (5 months ago)
 - [a-menshchikov/.github](https://github.com/a-menshchikov/.github) (5 months ago)
@@ -44,9 +44,9 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
-- [Mayday fixes](https://github.com/nochlezhka/mks/pull/107) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (today)
+- [Mayday fixes](https://github.com/nochlezhka/mks/pull/107) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 day ago)
 - [Roles refactoring &#43; bump dependencies](https://github.com/nochlezhka/mks/pull/105) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 weeks ago)
-- [Monolog &#43; preload &#43; Docker context](https://github.com/nochlezhka/mks/pull/104) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (4 weeks ago)
+- [Monolog &#43; preload &#43; Docker context](https://github.com/nochlezhka/mks/pull/104) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 month ago)
 - [Auditor](https://github.com/nochlezhka/mks/pull/103) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 month ago)
 - [Move group roles to user roles &#43; restore old admin codes](https://github.com/nochlezhka/mks/pull/102) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 month ago)
 - [PHP configs instead of YAML](https://github.com/nochlezhka/mks/pull/100) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 month ago)
