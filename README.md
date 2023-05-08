@@ -44,7 +44,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
-- [Mayday fixes](https://github.com/nochlezhka/mks/pull/107) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (6 days ago)
+- [Mayday fixes](https://github.com/nochlezhka/mks/pull/107) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 week ago)
 - [Roles refactoring &#43; bump dependencies](https://github.com/nochlezhka/mks/pull/105) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (3 weeks ago)
 - [Monolog &#43; preload &#43; Docker context](https://github.com/nochlezhka/mks/pull/104) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 month ago)
 - [Auditor](https://github.com/nochlezhka/mks/pull/103) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 month ago)
