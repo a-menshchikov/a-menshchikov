@@ -19,11 +19,11 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (4 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (5 days ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (3 weeks ago)
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (5 months ago)
-- [a-menshchikov/.github](https://github.com/a-menshchikov/.github) (5 months ago)
-- [a-menshchikov/ozon-route256-4go](https://github.com/a-menshchikov/ozon-route256-4go) - O₃ Route 256 learning project: Financial Assistant telegram bot (5 months ago)
+- [a-menshchikov/ozon-route256-4go](https://github.com/a-menshchikov/ozon-route256-4go) - O₃ Route 256 learning project: Financial Assistant telegram bot (6 months ago)
+- [a-menshchikov/.github](https://github.com/a-menshchikov/.github) (6 months ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (9 months ago)
 - [nbgrp/singlea-jwt-fetcher-bundle](https://github.com/nbgrp/singlea-jwt-fetcher-bundle) - [READ ONLY] JWT Fetcher bundle of the SingleA project (9 months ago)
 - [nbgrp/singlea-bundle](https://github.com/nbgrp/singlea-bundle) - [READ ONLY] SingleA bundle of the SingleA project (9 months ago)
@@ -44,7 +44,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
-- [Mayday fixes](https://github.com/nochlezhka/mks/pull/107) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 week ago)
+- [Mayday fixes](https://github.com/nochlezhka/mks/pull/107) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 weeks ago)
 - [Roles refactoring &#43; bump dependencies](https://github.com/nochlezhka/mks/pull/105) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 month ago)
 - [Monolog &#43; preload &#43; Docker context](https://github.com/nochlezhka/mks/pull/104) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 month ago)
 - [Auditor](https://github.com/nochlezhka/mks/pull/103) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 month ago)
