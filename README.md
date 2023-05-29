@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (6 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 week ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (1 month ago)
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (6 months ago)
 - [a-menshchikov/ozon-route256-4go](https://github.com/a-menshchikov/ozon-route256-4go) - O₃ Route 256 learning project: Financial Assistant telegram bot (6 months ago)
@@ -44,7 +44,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
-- [Mayday fixes](https://github.com/nochlezhka/mks/pull/107) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (3 weeks ago)
+- [Mayday fixes](https://github.com/nochlezhka/mks/pull/107) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (4 weeks ago)
 - [Roles refactoring &#43; bump dependencies](https://github.com/nochlezhka/mks/pull/105) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 month ago)
 - [Monolog &#43; preload &#43; Docker context](https://github.com/nochlezhka/mks/pull/104) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 month ago)
 - [Auditor](https://github.com/nochlezhka/mks/pull/103) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 months ago)
