@@ -21,7 +21,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (today)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (1 month ago)
-- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (6 months ago)
+- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (7 months ago)
 - [a-menshchikov/ozon-route256-4go](https://github.com/a-menshchikov/ozon-route256-4go) - O₃ Route 256 learning project: Financial Assistant telegram bot (7 months ago)
 - [a-menshchikov/.github](https://github.com/a-menshchikov/.github) (7 months ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (10 months ago)
@@ -36,7 +36,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.17.2](https://github.com/nbgrp/auditor/releases/tag/v0.17.2), 1 month ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.3.2](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.3.2), 3 months ago) - OneLogin SAML Symfony Bundle
-- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.10.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.10.0), 6 months ago) - OneLogin SAML Bundle for Symfony
+- [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.10.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.10.0), 7 months ago) - OneLogin SAML Bundle for Symfony
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v1.0.1](https://github.com/nbgrp/singlea/releases/tag/v1.0.1), 10 months ago) - SingleA is a true SSO service based on the SingleAuth authentication framework
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v2.1.0](https://github.com/nbgrp/env-bundle/releases/tag/v2.1.0), 1 year ago) - Bundle with a few useful Symfony environment variable processors.
 
