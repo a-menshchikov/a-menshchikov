@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (today)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (1 week ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (2 months ago)
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (7 months ago)
@@ -34,8 +34,8 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.18.0](https://github.com/nbgrp/auditor/releases/tag/v0.18.0), today) - Simple and useful dockerized GrumPHP-based php code analyzer.
-- [nochlezhka/mks](https://github.com/nochlezhka/mks) ([2.0.0](https://github.com/nochlezhka/mks/releases/tag/2.0.0), 6 days ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.18.0](https://github.com/nbgrp/auditor/releases/tag/v0.18.0), 1 day ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
+- [nochlezhka/mks](https://github.com/nochlezhka/mks) ([2.0.0](https://github.com/nochlezhka/mks/releases/tag/2.0.0), 1 week ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.3.2](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.3.2), 3 months ago) - OneLogin SAML Symfony Bundle
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.10.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.10.0), 7 months ago) - OneLogin SAML Bundle for Symfony
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v1.0.1](https://github.com/nbgrp/singlea/releases/tag/v1.0.1), 10 months ago) - SingleA is a true SSO service based on the SingleAuth authentication framework
@@ -45,7 +45,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
-- [Mayday fixes](https://github.com/nochlezhka/mks/pull/107) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 month ago)
+- [Mayday fixes](https://github.com/nochlezhka/mks/pull/107) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 months ago)
 - [Roles refactoring &#43; bump dependencies](https://github.com/nochlezhka/mks/pull/105) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 months ago)
 - [Monolog &#43; preload &#43; Docker context](https://github.com/nochlezhka/mks/pull/104) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 months ago)
 - [Auditor](https://github.com/nochlezhka/mks/pull/103) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (3 months ago)
