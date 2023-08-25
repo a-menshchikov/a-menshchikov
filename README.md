@@ -39,16 +39,16 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
+- [Bump webpack-encore-bundle and frontend deps](https://github.com/nochlezhka/mks/pull/111) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 day ago)
 - [DatePickerType options fix &#43; deps](https://github.com/nochlezhka/mks/pull/110) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 week ago)
-- [Version handler](https://github.com/nochlezhka/mks/pull/109) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (3 weeks ago)
+- [Version handler](https://github.com/nochlezhka/mks/pull/109) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (4 weeks ago)
 - [Mayday fixes](https://github.com/nochlezhka/mks/pull/107) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (3 months ago)
 - [Roles refactoring &#43; bump dependencies](https://github.com/nochlezhka/mks/pull/105) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (4 months ago)
 - [Monolog &#43; preload &#43; Docker context](https://github.com/nochlezhka/mks/pull/104) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (4 months ago)
-- [Auditor](https://github.com/nochlezhka/mks/pull/103) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (4 months ago)
+- [Auditor](https://github.com/nochlezhka/mks/pull/103) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (5 months ago)
 - [Move group roles to user roles &#43; restore old admin codes](https://github.com/nochlezhka/mks/pull/102) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (5 months ago)
 - [PHP configs instead of YAML](https://github.com/nochlezhka/mks/pull/100) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (5 months ago)
 - [Merge 1.2 to 1.3](https://github.com/nbgrp/onelogin-saml-bundle/pull/32) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (5 months ago)
-- [Merge 1.1 to 1.2](https://github.com/nbgrp/onelogin-saml-bundle/pull/31) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (5 months ago)
 
 ---
 
