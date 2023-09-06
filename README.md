@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (today)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (1 week ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (4 months ago)
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (9 months ago)
@@ -40,7 +40,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 ### 🔨 My recent Pull Requests
 
 - [Bump webpack-encore-bundle and frontend deps](https://github.com/nochlezhka/mks/pull/111) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 week ago)
-- [DatePickerType options fix &#43; deps](https://github.com/nochlezhka/mks/pull/110) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 weeks ago)
+- [DatePickerType options fix &#43; deps](https://github.com/nochlezhka/mks/pull/110) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (3 weeks ago)
 - [Version handler](https://github.com/nochlezhka/mks/pull/109) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 month ago)
 - [Mayday fixes](https://github.com/nochlezhka/mks/pull/107) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (4 months ago)
 - [Roles refactoring &#43; bump dependencies](https://github.com/nochlezhka/mks/pull/105) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (4 months ago)
