@@ -19,9 +19,11 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
+- [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (today)
+- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (today)
+- [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (today)
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (today)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (2 days ago)
-- [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (3 weeks ago)
-- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (4 months ago)
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (9 months ago)
 - [a-menshchikov/ozon-route256-4go](https://github.com/a-menshchikov/ozon-route256-4go) - O₃ Route 256 learning project: Financial Assistant telegram bot (10 months ago)
 - [a-menshchikov/.github](https://github.com/a-menshchikov/.github) (10 months ago)
@@ -34,11 +36,14 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.19.1](https://github.com/nbgrp/auditor/releases/tag/v0.19.1), 1 month ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.3.2](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.3.2), 5 months ago) - OneLogin SAML Symfony Bundle
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.10.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.10.0), 9 months ago) - OneLogin SAML Bundle for Symfony
+- [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v1.0.1](https://github.com/nbgrp/singlea/releases/tag/v1.0.1), 1 year ago) - SingleA is a true SSO service based on the SingleAuth authentication framework
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v2.1.0](https://github.com/nbgrp/env-bundle/releases/tag/v2.1.0), 2 years ago) - Bundle with a few useful Symfony environment variable processors.
 
 ---
 
 ### 🔨 My recent Pull Requests
 
+- [17-09-2023 fixes and updates](https://github.com/nochlezhka/mks/pull/113) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (today)
 - [Bump webpack-encore-bundle and frontend deps](https://github.com/nochlezhka/mks/pull/111) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (3 weeks ago)
 - [DatePickerType options fix &#43; deps](https://github.com/nochlezhka/mks/pull/110) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 month ago)
 - [Version handler](https://github.com/nochlezhka/mks/pull/109) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 month ago)
@@ -48,7 +53,6 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [Auditor](https://github.com/nochlezhka/mks/pull/103) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (5 months ago)
 - [Move group roles to user roles &#43; restore old admin codes](https://github.com/nochlezhka/mks/pull/102) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (5 months ago)
 - [PHP configs instead of YAML](https://github.com/nochlezhka/mks/pull/100) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (6 months ago)
-- [Merge 1.2 to 1.3](https://github.com/nbgrp/onelogin-saml-bundle/pull/32) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (6 months ago)
 
 ---
 
