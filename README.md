@@ -43,6 +43,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
+- [fix: max-width для логотипа на входе](https://github.com/nochlezhka/mks/pull/121) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (today)
 - [fix: обязательное поле &#34;Тип&#34; в Отчётах](https://github.com/nochlezhka/mks/pull/120) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (today)
 - [Minor improvements](https://github.com/nbgrp/env-bundle/pull/12) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 day ago)
 - [Minor improvements](https://github.com/nbgrp/env-bundle/pull/11) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 day ago)
@@ -52,7 +53,6 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [04-10-2023 fixes and updates](https://github.com/nochlezhka/mks/pull/118) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 day ago)
 - [17-09-2023 fixes and updates](https://github.com/nochlezhka/mks/pull/113) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 weeks ago)
 - [Bump webpack-encore-bundle and frontend deps](https://github.com/nochlezhka/mks/pull/111) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 month ago)
-- [DatePickerType options fix &#43; deps](https://github.com/nochlezhka/mks/pull/110) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 month ago)
 
 ---
 
