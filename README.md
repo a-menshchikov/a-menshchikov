@@ -19,9 +19,9 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (today)
-- [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (today)
-- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (today)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
+- [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (1 day ago)
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (1 day ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (2 weeks ago)
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (2 weeks ago)
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (10 months ago)
@@ -32,9 +32,9 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v2.1.1](https://github.com/nbgrp/env-bundle/releases/tag/v2.1.1), today) - Bundle with a few useful Symfony environment variable processors.
-- [nochlezhka/mks](https://github.com/nochlezhka/mks) ([2.5.2](https://github.com/nochlezhka/mks/releases/tag/2.5.2), today) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.20.0](https://github.com/nbgrp/auditor/releases/tag/v0.20.0), 1 day ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v2.1.2](https://github.com/nbgrp/env-bundle/releases/tag/v2.1.2), 1 day ago) - Bundle with a few useful Symfony environment variable processors.
+- [nochlezhka/mks](https://github.com/nochlezhka/mks) ([2.5.2](https://github.com/nochlezhka/mks/releases/tag/2.5.2), 1 day ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.20.0](https://github.com/nbgrp/auditor/releases/tag/v0.20.0), 2 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v1.3.2](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v1.3.2), 6 months ago) - OneLogin SAML Symfony Bundle
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) ([v2.10.0](https://github.com/hslavich/OneloginSamlBundle/releases/tag/v2.10.0), 10 months ago) - OneLogin SAML Bundle for Symfony
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v1.0.1](https://github.com/nbgrp/singlea/releases/tag/v1.0.1), 1 year ago) - SingleA is a true SSO service based on the SingleAuth authentication framework
@@ -43,16 +43,16 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
-- [fix: invalid report dates and unexpected report type](https://github.com/nochlezhka/mks/pull/119) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (today)
-- [Update static analyse rules (2.x)](https://github.com/nbgrp/env-bundle/pull/10) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (today)
-- [Update static analyse rules](https://github.com/nbgrp/env-bundle/pull/9) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (today)
-- [04-10-2023 fixes and updates](https://github.com/nochlezhka/mks/pull/118) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (today)
+- [Minor improvements](https://github.com/nbgrp/env-bundle/pull/12) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 day ago)
+- [Minor improvements](https://github.com/nbgrp/env-bundle/pull/11) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 day ago)
+- [fix: invalid report dates and unexpected report type](https://github.com/nochlezhka/mks/pull/119) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 day ago)
+- [Update static analyse rules (2.x)](https://github.com/nbgrp/env-bundle/pull/10) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 day ago)
+- [Update static analyse rules](https://github.com/nbgrp/env-bundle/pull/9) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 day ago)
+- [04-10-2023 fixes and updates](https://github.com/nochlezhka/mks/pull/118) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 day ago)
 - [17-09-2023 fixes and updates](https://github.com/nochlezhka/mks/pull/113) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 weeks ago)
 - [Bump webpack-encore-bundle and frontend deps](https://github.com/nochlezhka/mks/pull/111) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 month ago)
 - [DatePickerType options fix &#43; deps](https://github.com/nochlezhka/mks/pull/110) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 month ago)
 - [Version handler](https://github.com/nochlezhka/mks/pull/109) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 months ago)
-- [Mayday fixes](https://github.com/nochlezhka/mks/pull/107) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (5 months ago)
-- [Roles refactoring &#43; bump dependencies](https://github.com/nochlezhka/mks/pull/105) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (5 months ago)
 
 ---
 
