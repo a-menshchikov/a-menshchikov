@@ -19,8 +19,8 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
+- [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (today)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
-- [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (1 day ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (1 day ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (2 weeks ago)
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (2 weeks ago)
@@ -43,6 +43,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
+- [fix: обязательное поле &#34;Тип&#34; в Отчётах](https://github.com/nochlezhka/mks/pull/120) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (today)
 - [Minor improvements](https://github.com/nbgrp/env-bundle/pull/12) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 day ago)
 - [Minor improvements](https://github.com/nbgrp/env-bundle/pull/11) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 day ago)
 - [fix: invalid report dates and unexpected report type](https://github.com/nochlezhka/mks/pull/119) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 day ago)
@@ -52,7 +53,6 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [17-09-2023 fixes and updates](https://github.com/nochlezhka/mks/pull/113) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 weeks ago)
 - [Bump webpack-encore-bundle and frontend deps](https://github.com/nochlezhka/mks/pull/111) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 month ago)
 - [DatePickerType options fix &#43; deps](https://github.com/nochlezhka/mks/pull/110) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 month ago)
-- [Version handler](https://github.com/nochlezhka/mks/pull/109) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 months ago)
 
 ---
 
