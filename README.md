@@ -43,6 +43,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
+- [Use `sync.Pool` and `bytes.Buffer` for `Logger.With` perf improvement](https://github.com/rs/zerolog/pull/594) on [rs/zerolog](https://github.com/rs/zerolog) (today)
 - [fix: max-width для логотипа на входе](https://github.com/nochlezhka/mks/pull/121) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (4 days ago)
 - [fix: обязательное поле &#34;Тип&#34; в Отчётах](https://github.com/nochlezhka/mks/pull/120) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (4 days ago)
 - [Minor improvements](https://github.com/nbgrp/env-bundle/pull/12) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (5 days ago)
@@ -52,7 +53,6 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [Update static analyse rules](https://github.com/nbgrp/env-bundle/pull/9) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (5 days ago)
 - [04-10-2023 fixes and updates](https://github.com/nochlezhka/mks/pull/118) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (5 days ago)
 - [17-09-2023 fixes and updates](https://github.com/nochlezhka/mks/pull/113) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (3 weeks ago)
-- [Bump webpack-encore-bundle and frontend deps](https://github.com/nochlezhka/mks/pull/111) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 month ago)
 
 ---
 
