@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (2 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (1 week ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (1 week ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (3 weeks ago)
@@ -43,7 +43,8 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
-- [Use `sync.Pool` and `bytes.Buffer` for `Logger.With` perf improvement](https://github.com/rs/zerolog/pull/594) on [rs/zerolog](https://github.com/rs/zerolog) (3 days ago)
+- [Fix env name typo](https://github.com/ozontech/allure-go/pull/79) on [ozontech/allure-go](https://github.com/ozontech/allure-go) (1 day ago)
+- [Use `sync.Pool` and `bytes.Buffer` for `Logger.With` perf improvement](https://github.com/rs/zerolog/pull/594) on [rs/zerolog](https://github.com/rs/zerolog) (4 days ago)
 - [fix: max-width для логотипа на входе](https://github.com/nochlezhka/mks/pull/121) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 week ago)
 - [fix: обязательное поле &#34;Тип&#34; в Отчётах](https://github.com/nochlezhka/mks/pull/120) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 week ago)
 - [Minor improvements](https://github.com/nbgrp/env-bundle/pull/12) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 week ago)
@@ -52,7 +53,6 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [Update static analyse rules (2.x)](https://github.com/nbgrp/env-bundle/pull/10) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 week ago)
 - [Update static analyse rules](https://github.com/nbgrp/env-bundle/pull/9) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 week ago)
 - [04-10-2023 fixes and updates](https://github.com/nochlezhka/mks/pull/118) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 week ago)
-- [17-09-2023 fixes and updates](https://github.com/nochlezhka/mks/pull/113) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (3 weeks ago)
 
 ---
 
