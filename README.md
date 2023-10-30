@@ -19,9 +19,9 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
-- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (1 day ago)
-- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (1 day ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (2 days ago)
+- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (2 days ago)
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (2 days ago)
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (3 weeks ago)
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (1 month ago)
 - [hslavich/OneloginSamlBundle](https://github.com/hslavich/OneloginSamlBundle) - OneLogin SAML Bundle for Symfony (11 months ago)
@@ -43,9 +43,9 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
-- [Add error as a span event](https://github.com/open-telemetry/opentelemetry-go-contrib/pull/4488) on [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) (1 day ago)
+- [Add error as a span event](https://github.com/open-telemetry/opentelemetry-go-contrib/pull/4488) on [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) (2 days ago)
 - [Fix env name typo](https://github.com/ozontech/allure-go/pull/79) on [ozontech/allure-go](https://github.com/ozontech/allure-go) (2 weeks ago)
-- [Use `sync.Pool` and `bytes.Buffer` for `Logger.With` perf improvement](https://github.com/rs/zerolog/pull/594) on [rs/zerolog](https://github.com/rs/zerolog) (2 weeks ago)
+- [Use `sync.Pool` and `bytes.Buffer` for `Logger.With` perf improvement](https://github.com/rs/zerolog/pull/594) on [rs/zerolog](https://github.com/rs/zerolog) (3 weeks ago)
 - [fix: max-width для логотипа на входе](https://github.com/nochlezhka/mks/pull/121) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (3 weeks ago)
 - [fix: обязательное поле &#34;Тип&#34; в Отчётах](https://github.com/nochlezhka/mks/pull/120) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (3 weeks ago)
 - [Minor improvements](https://github.com/nbgrp/env-bundle/pull/12) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (3 weeks ago)
