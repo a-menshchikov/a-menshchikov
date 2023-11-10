@@ -43,6 +43,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
+- [Add FailoverClusterClient support for Universal client](https://github.com/redis/go-redis/pull/2794) on [redis/go-redis](https://github.com/redis/go-redis) (today)
 - [Поиск в полях выбора &#43; мелкие правки и зависимости](https://github.com/nochlezhka/mks/pull/122) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (6 days ago)
 - [Add error as a span event](https://github.com/open-telemetry/opentelemetry-go-contrib/pull/4488) on [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) (1 week ago)
 - [Fix env name typo](https://github.com/ozontech/allure-go/pull/79) on [ozontech/allure-go](https://github.com/ozontech/allure-go) (4 weeks ago)
@@ -52,7 +53,6 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [Minor improvements](https://github.com/nbgrp/env-bundle/pull/12) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 month ago)
 - [Minor improvements](https://github.com/nbgrp/env-bundle/pull/11) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 month ago)
 - [fix: invalid report dates and unexpected report type](https://github.com/nochlezhka/mks/pull/119) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 month ago)
-- [Update static analyse rules (2.x)](https://github.com/nbgrp/env-bundle/pull/10) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 month ago)
 
 ---
 
