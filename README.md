@@ -19,8 +19,8 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
+- [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (today)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (4 days ago)
-- [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (1 week ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (2 weeks ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (2 weeks ago)
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (1 month ago)
@@ -43,6 +43,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
+- [fix: bump php and js deps](https://github.com/nochlezhka/mks/pull/123) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (today)
 - [Add FailoverClusterClient support for Universal client](https://github.com/redis/go-redis/pull/2794) on [redis/go-redis](https://github.com/redis/go-redis) (1 day ago)
 - [Поиск в полях выбора &#43; мелкие правки и зависимости](https://github.com/nochlezhka/mks/pull/122) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 week ago)
 - [Add error as a span event](https://github.com/open-telemetry/opentelemetry-go-contrib/pull/4488) on [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) (2 weeks ago)
@@ -52,7 +53,6 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [fix: обязательное поле &#34;Тип&#34; в Отчётах](https://github.com/nochlezhka/mks/pull/120) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 month ago)
 - [Minor improvements](https://github.com/nbgrp/env-bundle/pull/12) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 month ago)
 - [Minor improvements](https://github.com/nbgrp/env-bundle/pull/11) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 month ago)
-- [fix: invalid report dates and unexpected report type](https://github.com/nochlezhka/mks/pull/119) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 month ago)
 
 ---
 
