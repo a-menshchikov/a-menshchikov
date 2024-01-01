@@ -34,11 +34,11 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
+- [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v1.1.0](https://github.com/nbgrp/singlea/releases/tag/v1.1.0), today) - SingleA is a true SSO service based on the SingleAuth authentication framework
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.22.0](https://github.com/nbgrp/auditor/releases/tag/v0.22.0), 1 day ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v2.0.0](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v2.0.0), 1 month ago) - OneLogin SAML Symfony Bundle
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v2.1.2](https://github.com/nbgrp/env-bundle/releases/tag/v2.1.2), 2 months ago) - Bundle with a few useful Symfony environment variable processors.
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) ([2.5.2](https://github.com/nochlezhka/mks/releases/tag/2.5.2), 2 months ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
-- [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v1.0.1](https://github.com/nbgrp/singlea/releases/tag/v1.0.1), 1 year ago) - SingleA is a true SSO service based on the SingleAuth authentication framework
 
 ---
 
