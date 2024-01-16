@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (2 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (1 week ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (1 week ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (1 week ago)
@@ -34,7 +34,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.24.1](https://github.com/nbgrp/auditor/releases/tag/v0.24.1), 6 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.24.1](https://github.com/nbgrp/auditor/releases/tag/v0.24.1), 1 week ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v2.0.0](https://github.com/nbgrp/singlea/releases/tag/v2.0.0), 1 week ago) - SingleA is a true SSO service based on the SingleAuth authentication framework
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v3.0.0](https://github.com/nbgrp/env-bundle/releases/tag/v3.0.0), 1 week ago) - Bundle with a few useful Symfony environment variable processors.
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v2.0.0](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v2.0.0), 1 month ago) - OneLogin SAML Symfony Bundle
