@@ -44,6 +44,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
+- [Fixes &#43; Symfony 6.4 &#43; PHP 8.3](https://github.com/nochlezhka/mks/pull/128) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (today)
 - [Fix client photo path](https://github.com/nochlezhka/mks/pull/124) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 months ago)
 - [Symfony 7.0 support](https://github.com/nbgrp/onelogin-saml-bundle/pull/46) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (3 months ago)
 - [Symfony 6.4 support](https://github.com/nbgrp/onelogin-saml-bundle/pull/45) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (3 months ago)
@@ -53,7 +54,6 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [Add error as a span event](https://github.com/open-telemetry/opentelemetry-go-contrib/pull/4488) on [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) (3 months ago)
 - [Fix env name typo](https://github.com/ozontech/allure-go/pull/79) on [ozontech/allure-go](https://github.com/ozontech/allure-go) (4 months ago)
 - [Use `sync.Pool` and `bytes.Buffer` for `Logger.With` perf improvement](https://github.com/rs/zerolog/pull/594) on [rs/zerolog](https://github.com/rs/zerolog) (4 months ago)
-- [fix: max-width для логотипа на входе](https://github.com/nochlezhka/mks/pull/121) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (4 months ago)
 
 ---
 
