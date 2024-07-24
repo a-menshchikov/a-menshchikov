@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/pkg](https://github.com/nbgrp/pkg) (today)
+- [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (today)
 - [nbgrp/.github](https://github.com/nbgrp/.github) (1 day ago)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (2 days ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (1 month ago)
