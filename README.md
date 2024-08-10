@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (today)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
 - [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (2 weeks ago)
 - [nbgrp/.github](https://github.com/nbgrp/.github) (2 weeks ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (2 months ago)
@@ -46,7 +46,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 - [Updates &#43; compatibility table](https://github.com/nbgrp/onelogin-saml-bundle/pull/57) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (2 months ago)
 - [Fixes &#43; Symfony 6.4 &#43; PHP 8.3](https://github.com/nochlezhka/mks/pull/128) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (6 months ago)
-- [Fix client photo path](https://github.com/nochlezhka/mks/pull/124) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (8 months ago)
+- [Fix client photo path](https://github.com/nochlezhka/mks/pull/124) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (9 months ago)
 - [Symfony 7.0 support](https://github.com/nbgrp/onelogin-saml-bundle/pull/46) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (9 months ago)
 - [Symfony 6.4 support](https://github.com/nbgrp/onelogin-saml-bundle/pull/45) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (9 months ago)
 - [fix: bump php and js deps](https://github.com/nochlezhka/mks/pull/123) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (9 months ago)
