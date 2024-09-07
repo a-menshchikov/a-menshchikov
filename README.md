@@ -19,8 +19,8 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
-- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (4 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (2 days ago)
+- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (5 days ago)
 - [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (1 month ago)
 - [nbgrp/.github](https://github.com/nbgrp/.github) (1 month ago)
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (8 months ago)
@@ -34,7 +34,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v2.0.2](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v2.0.2), 5 days ago) - OneLogin SAML Symfony Bundle
+- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v2.0.2](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v2.0.2), 6 days ago) - OneLogin SAML Symfony Bundle
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.26.0](https://github.com/nbgrp/auditor/releases/tag/v0.26.0), 3 months ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v2.0.0](https://github.com/nbgrp/singlea/releases/tag/v2.0.0), 8 months ago) - SingleA is a true SSO service based on the SingleAuth authentication framework
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v3.0.0](https://github.com/nbgrp/env-bundle/releases/tag/v3.0.0), 8 months ago) - Bundle with a few useful Symfony environment variable processors.
@@ -45,7 +45,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 ### 🔨 My recent Pull Requests
 
 - [Updates &#43; compatibility table](https://github.com/nbgrp/onelogin-saml-bundle/pull/57) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (3 months ago)
-- [Fixes &#43; Symfony 6.4 &#43; PHP 8.3](https://github.com/nochlezhka/mks/pull/128) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (6 months ago)
+- [Fixes &#43; Symfony 6.4 &#43; PHP 8.3](https://github.com/nochlezhka/mks/pull/128) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (7 months ago)
 - [Fix client photo path](https://github.com/nochlezhka/mks/pull/124) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (9 months ago)
 - [Symfony 7.0 support](https://github.com/nbgrp/onelogin-saml-bundle/pull/46) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (10 months ago)
 - [Symfony 6.4 support](https://github.com/nbgrp/onelogin-saml-bundle/pull/45) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (10 months ago)
