@@ -19,8 +19,8 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (5 days ago)
-- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (1 week ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (6 days ago)
+- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (2 weeks ago)
 - [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (1 month ago)
 - [nbgrp/.github](https://github.com/nbgrp/.github) (1 month ago)
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (8 months ago)
@@ -34,7 +34,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.27.0](https://github.com/nbgrp/auditor/releases/tag/v0.27.0), 5 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.27.0](https://github.com/nbgrp/auditor/releases/tag/v0.27.0), 6 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v2.0.2](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v2.0.2), 2 weeks ago) - OneLogin SAML Symfony Bundle
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v2.0.0](https://github.com/nbgrp/singlea/releases/tag/v2.0.0), 8 months ago) - SingleA is a true SSO service based on the SingleAuth authentication framework
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v3.0.0](https://github.com/nbgrp/env-bundle/releases/tag/v3.0.0), 8 months ago) - Bundle with a few useful Symfony environment variable processors.
