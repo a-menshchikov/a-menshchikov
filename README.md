@@ -38,7 +38,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v2.0.2](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v2.0.2), 3 weeks ago) - OneLogin SAML Symfony Bundle
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v2.0.0](https://github.com/nbgrp/singlea/releases/tag/v2.0.0), 8 months ago) - SingleA is a true SSO service based on the SingleAuth authentication framework
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v3.0.0](https://github.com/nbgrp/env-bundle/releases/tag/v3.0.0), 8 months ago) - Bundle with a few useful Symfony environment variable processors.
-- [nochlezhka/mks](https://github.com/nochlezhka/mks) ([2.5.2](https://github.com/nochlezhka/mks/releases/tag/2.5.2), 11 months ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
+- [nochlezhka/mks](https://github.com/nochlezhka/mks) ([2.5.2](https://github.com/nochlezhka/mks/releases/tag/2.5.2), 1 year ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
 
 ---
 
