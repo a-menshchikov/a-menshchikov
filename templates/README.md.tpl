@@ -2,8 +2,8 @@
 
 My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
-* 🛠 I mostly use Golang, PHP (Symfony), JavaScript (Vue), Lua.
-* 🧰 I like working with PostgreSQL, Redis, RabbitMQ.
+* 🛠 I mostly use Golang and PHP (Symfony), but also experienced in JS/TS (Vue) and Lua.
+* 🧰 I like working with PostgreSQL, Redis, Nats and RabbitMQ.
 * 🇷🇺 I'm Russian, but I can speak English 🇬🇧.
 * I ♥ FOSS.
 
