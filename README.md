@@ -2,8 +2,8 @@
 
 My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
-* 🛠 I mostly use Golang, PHP (Symfony), JavaScript (Vue), Lua.
-* 🧰 I like working with PostgreSQL, Redis, RabbitMQ.
+* 🛠 I mostly use Golang and PHP (Symfony), but also experienced in JS/TS (Vue) and Lua.
+* 🧰 I like working with PostgreSQL, Redis, Nats and RabbitMQ.
 * 🇷🇺 I'm Russian, but I can speak English 🇬🇧.
 * I ♥ FOSS.
 
@@ -25,10 +25,10 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [nbgrp/.github](https://github.com/nbgrp/.github) (2 months ago)
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (8 months ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (8 months ago)
-- [nbgrp/singlea-jwt-fetcher-bundle](https://github.com/nbgrp/singlea-jwt-fetcher-bundle) - [READ ONLY] JWT Fetcher bundle of the SingleA project (9 months ago)
-- [nbgrp/singlea-marshaller-contracts](https://github.com/nbgrp/singlea-marshaller-contracts) - [READ ONLY] Marshaller contracts of the SingleA project (9 months ago)
+- [nbgrp/singlea-bundle](https://github.com/nbgrp/singlea-bundle) - [READ ONLY] SingleA bundle of the SingleA project (9 months ago)
 - [nbgrp/singlea-redis-bundle](https://github.com/nbgrp/singlea-redis-bundle) - [READ ONLY] Redis bundle of the SingleA project (9 months ago)
-- [nbgrp/singlea-json-fetcher-bundle](https://github.com/nbgrp/singlea-json-fetcher-bundle) - [READ ONLY] JSON Fetcher bundle of the SingleA project (9 months ago)
+- [nbgrp/singlea-jwt-bundle](https://github.com/nbgrp/singlea-jwt-bundle) - [READ ONLY] JWT (Tokenizer) bundle of the SingleA project (9 months ago)
+- [nbgrp/singlea-payload-fetcher-contracts](https://github.com/nbgrp/singlea-payload-fetcher-contracts) - [READ ONLY] Payload Fetcher contracts of the SingleA project (9 months ago)
 
 ---
 
