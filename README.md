@@ -21,7 +21,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 week ago)
 - [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (2 weeks ago)
-- [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (4 weeks ago)
+- [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (1 month ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (2 months ago)
 - [nbgrp/.github](https://github.com/nbgrp/.github) (3 months ago)
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (10 months ago)
@@ -34,7 +34,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [nochlezhka/mks](https://github.com/nochlezhka/mks) ([2.12.1](https://github.com/nochlezhka/mks/releases/tag/2.12.1), 4 weeks ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
+- [nochlezhka/mks](https://github.com/nochlezhka/mks) ([2.12.1](https://github.com/nochlezhka/mks/releases/tag/2.12.1), 1 month ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.27.0](https://github.com/nbgrp/auditor/releases/tag/v0.27.0), 1 month ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v2.0.2](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v2.0.2), 2 months ago) - OneLogin SAML Symfony Bundle
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) ([v2.0.0](https://github.com/nbgrp/singlea/releases/tag/v2.0.0), 10 months ago) - SingleA is a true SSO service based on the SingleAuth authentication framework
@@ -50,7 +50,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [Symfony 7.0 support](https://github.com/nbgrp/onelogin-saml-bundle/pull/46) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (11 months ago)
 - [Symfony 6.4 support](https://github.com/nbgrp/onelogin-saml-bundle/pull/45) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (11 months ago)
 - [fix: bump php and js deps](https://github.com/nochlezhka/mks/pull/123) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (11 months ago)
-- [Add FailoverClusterClient support for Universal client](https://github.com/redis/go-redis/pull/2794) on [redis/go-redis](https://github.com/redis/go-redis) (11 months ago)
+- [Add FailoverClusterClient support for Universal client](https://github.com/redis/go-redis/pull/2794) on [redis/go-redis](https://github.com/redis/go-redis) (1 year ago)
 - [Поиск в полях выбора &#43; мелкие правки и зависимости](https://github.com/nochlezhka/mks/pull/122) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 year ago)
 - [Add error as a span event](https://github.com/open-telemetry/opentelemetry-go-contrib/pull/4488) on [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) (1 year ago)
 - [Fix env name typo](https://github.com/ozontech/allure-go/pull/79) on [ozontech/allure-go](https://github.com/ozontech/allure-go) (1 year ago)
