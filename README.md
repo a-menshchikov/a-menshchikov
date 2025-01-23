@@ -19,8 +19,8 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
-- [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (5 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (2 days ago)
+- [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (6 days ago)
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (3 months ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (4 months ago)
 - [nbgrp/.github](https://github.com/nbgrp/.github) (6 months ago)
@@ -29,7 +29,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.28.0](https://github.com/nbgrp/auditor/releases/tag/v0.28.0), 2 weeks ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.28.0](https://github.com/nbgrp/auditor/releases/tag/v0.28.0), 3 weeks ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) ([2.12.1](https://github.com/nochlezhka/mks/releases/tag/2.12.1), 3 months ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v2.0.2](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v2.0.2), 4 months ago) - OneLogin SAML Symfony Bundle
 
