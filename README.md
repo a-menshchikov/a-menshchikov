@@ -24,7 +24,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [cdnnow-pro/.github](https://github.com/cdnnow-pro/.github) (2 weeks ago)
 - [cdnnow-pro/metrics-go](https://github.com/cdnnow-pro/metrics-go) (2 weeks ago)
 - [cdnnow-pro/logger-go](https://github.com/cdnnow-pro/logger-go) (2 weeks ago)
-- [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (1 month ago)
+- [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (2 months ago)
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (5 months ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (6 months ago)
 - [nbgrp/.github](https://github.com/nbgrp/.github) (7 months ago)
