@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (2 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (today)
 - [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (2 days ago)
 - [cdnnow-pro/tracer-go](https://github.com/cdnnow-pro/tracer-go) (3 days ago)
 - [cdnnow-pro/logger-go](https://github.com/cdnnow-pro/logger-go) (3 days ago)
