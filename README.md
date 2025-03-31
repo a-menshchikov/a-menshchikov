@@ -19,22 +19,22 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (4 days ago)
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (5 days ago)
-- [cdnnow-pro/logger-go](https://github.com/cdnnow-pro/logger-go) (5 days ago)
-- [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client (6 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
+- [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (5 days ago)
+- [cdnnow-pro/logger-go](https://github.com/cdnnow-pro/logger-go) (6 days ago)
+- [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client (1 week ago)
 - [cdnnow-pro/tracer-go](https://github.com/cdnnow-pro/tracer-go) (1 week ago)
 - [cdnnow-pro/metrics-go](https://github.com/cdnnow-pro/metrics-go) (1 week ago)
 - [cdnnow-pro/.github](https://github.com/cdnnow-pro/.github) (1 month ago)
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (5 months ago)
-- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (6 months ago)
+- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (7 months ago)
 - [nbgrp/.github](https://github.com/nbgrp/.github) (8 months ago)
 
 ---
 
 ### 🔭 Latest releases I've contributed to
 
-- [redis/go-redis](https://github.com/redis/go-redis) ([v9.8.0-beta.1](https://github.com/redis/go-redis/releases/tag/v9.8.0-beta.1), 6 days ago) - Redis Go client
+- [redis/go-redis](https://github.com/redis/go-redis) ([v9.8.0-beta.1](https://github.com/redis/go-redis/releases/tag/v9.8.0-beta.1), 1 week ago) - Redis Go client
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.28.0](https://github.com/nbgrp/auditor/releases/tag/v0.28.0), 2 months ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) ([2.12.1](https://github.com/nochlezhka/mks/releases/tag/2.12.1), 5 months ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v2.0.2](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v2.0.2), 7 months ago) - OneLogin SAML Symfony Bundle
