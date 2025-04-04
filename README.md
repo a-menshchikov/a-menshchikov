@@ -19,8 +19,8 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (2 days ago)
-- [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (3 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (3 days ago)
+- [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (4 days ago)
 - [cdnnow-pro/logger-go](https://github.com/cdnnow-pro/logger-go) (1 week ago)
 - [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client (1 week ago)
 - [cdnnow-pro/tracer-go](https://github.com/cdnnow-pro/tracer-go) (2 weeks ago)
@@ -43,7 +43,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
-- [Updates &#43; compatibility table](https://github.com/nbgrp/onelogin-saml-bundle/pull/57) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (9 months ago)
+- [Updates &#43; compatibility table](https://github.com/nbgrp/onelogin-saml-bundle/pull/57) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (10 months ago)
 - [Fixes &#43; Symfony 6.4 &#43; PHP 8.3](https://github.com/nochlezhka/mks/pull/128) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 year ago)
 - [Fix client photo path](https://github.com/nochlezhka/mks/pull/124) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 year ago)
 - [Symfony 7.0 support](https://github.com/nbgrp/onelogin-saml-bundle/pull/46) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (1 year ago)
@@ -52,7 +52,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [Add FailoverClusterClient support for Universal client](https://github.com/redis/go-redis/pull/2794) on [redis/go-redis](https://github.com/redis/go-redis) (1 year ago)
 - [Поиск в полях выбора &#43; мелкие правки и зависимости](https://github.com/nochlezhka/mks/pull/122) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 year ago)
 - [Add error as a span event](https://github.com/open-telemetry/opentelemetry-go-contrib/pull/4488) on [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) (1 year ago)
-- [Fix env name typo](https://github.com/ozontech/allure-go/pull/79) on [ozontech/allure-go](https://github.com/ozontech/allure-go) (1 year ago)
+- [Fix env name typo](https://github.com/ozontech/allure-go/pull/79) on [ozontech/allure-go](https://github.com/ozontech/allure-go) (2 years ago)
 
 ---
 
