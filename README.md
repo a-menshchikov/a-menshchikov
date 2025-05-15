@@ -20,29 +20,32 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 ### 👷 Check out what I'm currently working on
 
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (today)
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (today)
 - [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (1 month ago)
 - [cdnnow-pro/logger-go](https://github.com/cdnnow-pro/logger-go) (1 month ago)
 - [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client (1 month ago)
-- [cdnnow-pro/tracer-go](https://github.com/cdnnow-pro/tracer-go) (1 month ago)
 - [cdnnow-pro/metrics-go](https://github.com/cdnnow-pro/metrics-go) (1 month ago)
+- [cdnnow-pro/tracer-go](https://github.com/cdnnow-pro/tracer-go) (1 month ago)
 - [cdnnow-pro/.github](https://github.com/cdnnow-pro/.github) (2 months ago)
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (7 months ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (8 months ago)
-- [nbgrp/.github](https://github.com/nbgrp/.github) (9 months ago)
 
 ---
 
 ### 🔭 Latest releases I've contributed to
 
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.29.0](https://github.com/nbgrp/auditor/releases/tag/v0.29.0), today) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [redis/go-redis](https://github.com/redis/go-redis) ([v9.8.0](https://github.com/redis/go-redis/releases/tag/v9.8.0), 2 weeks ago) - Redis Go client
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.28.0](https://github.com/nbgrp/auditor/releases/tag/v0.28.0), 4 months ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) ([2.12.1](https://github.com/nochlezhka/mks/releases/tag/2.12.1), 7 months ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v2.0.2](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v2.0.2), 8 months ago) - OneLogin SAML Symfony Bundle
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v3.0.0](https://github.com/nbgrp/env-bundle/releases/tag/v3.0.0), 1 year ago) - Bundle with a few useful Symfony environment variable processors.
 
 ---
 
 ### 🔨 My recent Pull Requests
 
+- [Minor grumphp config improvement](https://github.com/nbgrp/env-bundle/pull/17) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (today)
+- [Fix auditor errors](https://github.com/nbgrp/env-bundle/pull/16) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (today)
 - [Updates &#43; compatibility table](https://github.com/nbgrp/onelogin-saml-bundle/pull/57) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (11 months ago)
 - [Fixes &#43; Symfony 6.4 &#43; PHP 8.3](https://github.com/nochlezhka/mks/pull/128) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 year ago)
 - [Fix client photo path](https://github.com/nochlezhka/mks/pull/124) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 years ago)
@@ -51,8 +54,6 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [fix: bump php and js deps](https://github.com/nochlezhka/mks/pull/123) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 years ago)
 - [Add FailoverClusterClient support for Universal client](https://github.com/redis/go-redis/pull/2794) on [redis/go-redis](https://github.com/redis/go-redis) (2 years ago)
 - [Поиск в полях выбора &#43; мелкие правки и зависимости](https://github.com/nochlezhka/mks/pull/122) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 years ago)
-- [Add error as a span event](https://github.com/open-telemetry/opentelemetry-go-contrib/pull/4488) on [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) (2 years ago)
-- [Fix env name typo](https://github.com/ozontech/allure-go/pull/79) on [ozontech/allure-go](https://github.com/ozontech/allure-go) (2 years ago)
 
 ---
 
