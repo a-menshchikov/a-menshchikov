@@ -19,8 +19,8 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (today)
-- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (2 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
+- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (3 days ago)
 - [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (1 month ago)
 - [cdnnow-pro/logger-go](https://github.com/cdnnow-pro/logger-go) (1 month ago)
 - [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client (1 month ago)
@@ -34,7 +34,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.29.0](https://github.com/nbgrp/auditor/releases/tag/v0.29.0), 2 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.29.0](https://github.com/nbgrp/auditor/releases/tag/v0.29.0), 3 days ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [redis/go-redis](https://github.com/redis/go-redis) ([v9.8.0](https://github.com/redis/go-redis/releases/tag/v9.8.0), 2 weeks ago) - Redis Go client
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) ([2.12.1](https://github.com/nochlezhka/mks/releases/tag/2.12.1), 7 months ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v2.0.2](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v2.0.2), 8 months ago) - OneLogin SAML Symfony Bundle
@@ -44,8 +44,8 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
-- [Minor grumphp config improvement](https://github.com/nbgrp/env-bundle/pull/17) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (2 days ago)
-- [Fix auditor errors](https://github.com/nbgrp/env-bundle/pull/16) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (2 days ago)
+- [Minor grumphp config improvement](https://github.com/nbgrp/env-bundle/pull/17) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (3 days ago)
+- [Fix auditor errors](https://github.com/nbgrp/env-bundle/pull/16) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (3 days ago)
 - [Updates &#43; compatibility table](https://github.com/nbgrp/onelogin-saml-bundle/pull/57) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (11 months ago)
 - [Fixes &#43; Symfony 6.4 &#43; PHP 8.3](https://github.com/nochlezhka/mks/pull/128) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 year ago)
 - [Fix client photo path](https://github.com/nochlezhka/mks/pull/124) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 years ago)
