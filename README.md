@@ -24,8 +24,8 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (2 months ago)
 - [cdnnow-pro/logger-go](https://github.com/cdnnow-pro/logger-go) (2 months ago)
 - [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client (2 months ago)
-- [cdnnow-pro/metrics-go](https://github.com/cdnnow-pro/metrics-go) (2 months ago)
 - [cdnnow-pro/tracer-go](https://github.com/cdnnow-pro/tracer-go) (2 months ago)
+- [cdnnow-pro/metrics-go](https://github.com/cdnnow-pro/metrics-go) (2 months ago)
 - [cdnnow-pro/.github](https://github.com/cdnnow-pro/.github) (3 months ago)
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (8 months ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (9 months ago)
@@ -34,7 +34,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [redis/go-redis](https://github.com/redis/go-redis) ([v9.10.0](https://github.com/redis/go-redis/releases/tag/v9.10.0), 2 days ago) - Redis Go client
+- [redis/go-redis](https://github.com/redis/go-redis) ([v9.10.0](https://github.com/redis/go-redis/releases/tag/v9.10.0), 3 days ago) - Redis Go client
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.29.0](https://github.com/nbgrp/auditor/releases/tag/v0.29.0), 3 weeks ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) ([2.12.1](https://github.com/nochlezhka/mks/releases/tag/2.12.1), 8 months ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v2.0.2](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v2.0.2), 9 months ago) - OneLogin SAML Symfony Bundle
