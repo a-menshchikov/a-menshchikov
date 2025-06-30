@@ -44,6 +44,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
+- [ui fixes &#43; migrations fixes](https://github.com/nochlezhka/mks/pull/145) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (today)
 - [Update dependencies &#43; doctrine fixes](https://github.com/nochlezhka/mks/pull/141) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 weeks ago)
 - [Minor grumphp config improvement](https://github.com/nbgrp/env-bundle/pull/17) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 month ago)
 - [Fix auditor errors](https://github.com/nbgrp/env-bundle/pull/16) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 month ago)
@@ -53,7 +54,6 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [Symfony 7.0 support](https://github.com/nbgrp/onelogin-saml-bundle/pull/46) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (2 years ago)
 - [Symfony 6.4 support](https://github.com/nbgrp/onelogin-saml-bundle/pull/45) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (2 years ago)
 - [fix: bump php and js deps](https://github.com/nochlezhka/mks/pull/123) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 years ago)
-- [Add FailoverClusterClient support for Universal client](https://github.com/redis/go-redis/pull/2794) on [redis/go-redis](https://github.com/redis/go-redis) (2 years ago)
 
 ---
 
