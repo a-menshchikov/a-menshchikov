@@ -44,6 +44,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
+- [Generate code marker according golang docs](https://github.com/tinylib/msgp/pull/397) on [tinylib/msgp](https://github.com/tinylib/msgp) (today)
 - [ui fixes &#43; migrations fixes](https://github.com/nochlezhka/mks/pull/145) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 day ago)
 - [Update dependencies &#43; doctrine fixes](https://github.com/nochlezhka/mks/pull/141) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 weeks ago)
 - [Minor grumphp config improvement](https://github.com/nbgrp/env-bundle/pull/17) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 month ago)
@@ -53,7 +54,6 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [Fix client photo path](https://github.com/nochlezhka/mks/pull/124) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 years ago)
 - [Symfony 7.0 support](https://github.com/nbgrp/onelogin-saml-bundle/pull/46) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (2 years ago)
 - [Symfony 6.4 support](https://github.com/nbgrp/onelogin-saml-bundle/pull/45) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (2 years ago)
-- [fix: bump php and js deps](https://github.com/nochlezhka/mks/pull/123) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 years ago)
 
 ---
 
