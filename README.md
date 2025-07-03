@@ -22,7 +22,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [cdnnow-pro/go-metrics](https://github.com/cdnnow-pro/go-metrics) (1 week ago)
 - [cdnnow-pro/go-log](https://github.com/cdnnow-pro/go-log) (1 week ago)
 - [cdnnow-pro/go-tracer](https://github.com/cdnnow-pro/go-tracer) (1 week ago)
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 week ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (2 weeks ago)
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (2 weeks ago)
 - [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (3 weeks ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (1 month ago)
@@ -44,8 +44,8 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
-- [Generate code marker according golang docs](https://github.com/tinylib/msgp/pull/397) on [tinylib/msgp](https://github.com/tinylib/msgp) (1 day ago)
-- [ui fixes &#43; migrations fixes](https://github.com/nochlezhka/mks/pull/145) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 days ago)
+- [Generate code marker according golang docs](https://github.com/tinylib/msgp/pull/397) on [tinylib/msgp](https://github.com/tinylib/msgp) (2 days ago)
+- [ui fixes &#43; migrations fixes](https://github.com/nochlezhka/mks/pull/145) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (3 days ago)
 - [Update dependencies &#43; doctrine fixes](https://github.com/nochlezhka/mks/pull/141) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 weeks ago)
 - [Minor grumphp config improvement](https://github.com/nbgrp/env-bundle/pull/17) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 month ago)
 - [Fix auditor errors](https://github.com/nbgrp/env-bundle/pull/16) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (1 month ago)
