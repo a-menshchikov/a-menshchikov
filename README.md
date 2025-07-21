@@ -45,7 +45,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 ### 🔨 My recent Pull Requests
 
 - [Generate code marker according golang docs](https://github.com/tinylib/msgp/pull/397) on [tinylib/msgp](https://github.com/tinylib/msgp) (2 weeks ago)
-- [ui fixes &#43; migrations fixes](https://github.com/nochlezhka/mks/pull/145) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 weeks ago)
+- [ui fixes &#43; migrations fixes](https://github.com/nochlezhka/mks/pull/145) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (3 weeks ago)
 - [Update dependencies &#43; doctrine fixes](https://github.com/nochlezhka/mks/pull/141) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 month ago)
 - [Minor grumphp config improvement](https://github.com/nbgrp/env-bundle/pull/17) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (2 months ago)
 - [Fix auditor errors](https://github.com/nbgrp/env-bundle/pull/16) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (2 months ago)
