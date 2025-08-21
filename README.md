@@ -27,7 +27,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (2 months ago)
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (2 months ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (3 months ago)
-- [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client (4 months ago)
+- [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client (5 months ago)
 - [cdnnow-pro/.github](https://github.com/cdnnow-pro/.github) (5 months ago)
 
 ---
