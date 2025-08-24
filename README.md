@@ -20,7 +20,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 ### 👷 Check out what I'm currently working on
 
 - [tinylib/msgp](https://github.com/tinylib/msgp) - A Go code generator for MessagePack / msgpack.org[Go] (2 weeks ago)
-- [cdnnow-pro/go-log](https://github.com/cdnnow-pro/go-log) (4 weeks ago)
+- [cdnnow-pro/go-log](https://github.com/cdnnow-pro/go-log) (1 month ago)
 - [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (1 month ago)
 - [cdnnow-pro/go-metrics](https://github.com/cdnnow-pro/go-metrics) (2 months ago)
 - [cdnnow-pro/go-tracer](https://github.com/cdnnow-pro/go-tracer) (2 months ago)
