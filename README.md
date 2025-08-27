@@ -28,17 +28,17 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (2 months ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (3 months ago)
 - [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client (5 months ago)
-- [cdnnow-pro/.github](https://github.com/cdnnow-pro/.github) (5 months ago)
+- [cdnnow-pro/.github](https://github.com/cdnnow-pro/.github) (6 months ago)
 
 ---
 
 ### 🔭 Latest releases I've contributed to
 
-- [tinylib/msgp](https://github.com/tinylib/msgp) ([v1.4.0](https://github.com/tinylib/msgp/releases/tag/v1.4.0), today) - A Go code generator for MessagePack / msgpack.org[Go]
+- [tinylib/msgp](https://github.com/tinylib/msgp) ([v1.4.0](https://github.com/tinylib/msgp/releases/tag/v1.4.0), 1 day ago) - A Go code generator for MessagePack / msgpack.org[Go]
 - [redis/go-redis](https://github.com/redis/go-redis) ([v9.12.1](https://github.com/redis/go-redis/releases/tag/v9.12.1), 2 weeks ago) - Redis Go client
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) ([v2.18.0](https://github.com/nochlezhka/mks/releases/tag/v2.18.0), 2 months ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.29.0](https://github.com/nbgrp/auditor/releases/tag/v0.29.0), 3 months ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
-- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v2.0.2](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v2.0.2), 11 months ago) - OneLogin SAML Symfony Bundle
+- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v2.0.2](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v2.0.2), 1 year ago) - OneLogin SAML Symfony Bundle
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v3.0.0](https://github.com/nbgrp/env-bundle/releases/tag/v3.0.0), 2 years ago) - Bundle with a few useful Symfony environment variable processors.
 
 ---
