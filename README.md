@@ -34,9 +34,9 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
+- [redis/go-redis](https://github.com/redis/go-redis) ([v9.14.0](https://github.com/redis/go-redis/releases/tag/v9.14.0), today) - Redis Go client
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) ([v2.19.0](https://github.com/nochlezhka/mks/releases/tag/v2.19.0), 4 days ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.30.0](https://github.com/nbgrp/auditor/releases/tag/v0.30.0), 1 week ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
-- [redis/go-redis](https://github.com/redis/go-redis) ([v9.13.0](https://github.com/redis/go-redis/releases/tag/v9.13.0), 1 week ago) - Redis Go client
 - [tinylib/msgp](https://github.com/tinylib/msgp) ([v1.4.0](https://github.com/tinylib/msgp/releases/tag/v1.4.0), 2 weeks ago) - A Go code generator for MessagePack / msgpack.org[Go]
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v3.0.0](https://github.com/nbgrp/env-bundle/releases/tag/v3.0.0), 2 years ago) - Bundle with a few useful Symfony environment variable processors.
 
