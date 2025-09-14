@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (today)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (2 weeks ago)
 - [tinylib/msgp](https://github.com/tinylib/msgp) - A Go code generator for MessagePack / msgpack.org[Go] (1 month ago)
 - [cdnnow-pro/go-log](https://github.com/cdnnow-pro/go-log) (1 month ago)
@@ -34,7 +34,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [redis/go-redis](https://github.com/redis/go-redis) ([v9.15.0-beta.1](https://github.com/redis/go-redis/releases/tag/v9.15.0-beta.1), 3 days ago) - Redis Go client
+- [redis/go-redis](https://github.com/redis/go-redis) ([v9.15.0-beta.1](https://github.com/redis/go-redis/releases/tag/v9.15.0-beta.1), 4 days ago) - Redis Go client
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) ([v2.19.0](https://github.com/nochlezhka/mks/releases/tag/v2.19.0), 1 week ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.30.0](https://github.com/nbgrp/auditor/releases/tag/v0.30.0), 1 week ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [tinylib/msgp](https://github.com/tinylib/msgp) ([v1.4.0](https://github.com/tinylib/msgp/releases/tag/v1.4.0), 2 weeks ago) - A Go code generator for MessagePack / msgpack.org[Go]
@@ -44,7 +44,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
-- [Improve docs and examples](https://github.com/max-messenger/max-bot-api-client-go/pull/38) on [max-messenger/max-bot-api-client-go](https://github.com/max-messenger/max-bot-api-client-go) (1 day ago)
+- [Improve docs and examples](https://github.com/max-messenger/max-bot-api-client-go/pull/38) on [max-messenger/max-bot-api-client-go](https://github.com/max-messenger/max-bot-api-client-go) (2 days ago)
 - [Generate code marker according golang docs](https://github.com/tinylib/msgp/pull/397) on [tinylib/msgp](https://github.com/tinylib/msgp) (2 months ago)
 - [ui fixes &#43; migrations fixes](https://github.com/nochlezhka/mks/pull/145) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (2 months ago)
 - [Update dependencies &#43; doctrine fixes](https://github.com/nochlezhka/mks/pull/141) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (3 months ago)
