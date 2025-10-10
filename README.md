@@ -19,10 +19,10 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [cdnnow-pro/go-metrics](https://github.com/cdnnow-pro/go-metrics) (2 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (today)
 - [cdnnow-pro/go-log](https://github.com/cdnnow-pro/go-log) (2 days ago)
 - [cdnnow-pro/go-tracer](https://github.com/cdnnow-pro/go-tracer) (2 days ago)
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 week ago)
+- [cdnnow-pro/go-metrics](https://github.com/cdnnow-pro/go-metrics) (2 days ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (2 weeks ago)
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (1 month ago)
 - [tinylib/msgp](https://github.com/tinylib/msgp) - A Go code generator for MessagePack / msgpack.org[Go] (2 months ago)
