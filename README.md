@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (2 days ago)
 - [cdnnow-pro/go-log](https://github.com/cdnnow-pro/go-log) (2 weeks ago)
 - [cdnnow-pro/go-tracer](https://github.com/cdnnow-pro/go-tracer) (2 weeks ago)
 - [cdnnow-pro/go-metrics](https://github.com/cdnnow-pro/go-metrics) (2 weeks ago)
@@ -34,7 +34,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [redis/go-redis](https://github.com/redis/go-redis) ([v9.14.1](https://github.com/redis/go-redis/releases/tag/v9.14.1), 4 days ago) - Redis Go client
+- [redis/go-redis](https://github.com/redis/go-redis) ([v9.14.1](https://github.com/redis/go-redis/releases/tag/v9.14.1), 5 days ago) - Redis Go client
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v2.1.0](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v2.1.0), 3 weeks ago) - OneLogin SAML Symfony Bundle
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.31.0](https://github.com/nbgrp/auditor/releases/tag/v0.31.0), 1 month ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) ([v2.19.0](https://github.com/nochlezhka/mks/releases/tag/v2.19.0), 1 month ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
@@ -45,8 +45,8 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
-- [Add ability to pass \OneLogin\Saml2\Auth::login optional parameters](https://github.com/nbgrp/onelogin-saml-bundle/pull/75) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (4 weeks ago)
-- [Add compliance with the X-Forwarded-Prefix proxy header](https://github.com/nbgrp/onelogin-saml-bundle/pull/74) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (4 weeks ago)
+- [Add ability to pass \OneLogin\Saml2\Auth::login optional parameters](https://github.com/nbgrp/onelogin-saml-bundle/pull/75) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (1 month ago)
+- [Add compliance with the X-Forwarded-Prefix proxy header](https://github.com/nbgrp/onelogin-saml-bundle/pull/74) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (1 month ago)
 - [Batch update](https://github.com/nbgrp/onelogin-saml-bundle/pull/73) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (1 month ago)
 - [Make classes final and bump linters](https://github.com/nbgrp/onelogin-saml-bundle/pull/72) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (1 month ago)
 - [fix: logout supports other firewalls without configured AuthService](https://github.com/nbgrp/onelogin-saml-bundle/pull/71) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (1 month ago)
