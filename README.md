@@ -28,7 +28,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [tinylib/msgp](https://github.com/tinylib/msgp) - A Go code generator for MessagePack / msgpack.org[Go] (3 months ago)
 - [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (4 months ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (6 months ago)
-- [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client (7 months ago)
+- [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client (8 months ago)
 
 ---
 
