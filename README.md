@@ -34,7 +34,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [redis/go-redis](https://github.com/redis/go-redis) ([v9.17.0](https://github.com/redis/go-redis/releases/tag/v9.17.0), 1 day ago) - Redis Go client
+- [redis/go-redis](https://github.com/redis/go-redis) ([v9.17.0](https://github.com/redis/go-redis/releases/tag/v9.17.0), 2 days ago) - Redis Go client
 - [tinylib/msgp](https://github.com/tinylib/msgp) ([v1.5.0](https://github.com/tinylib/msgp/releases/tag/v1.5.0), 3 weeks ago) - A Go code generator for MessagePack / msgpack.org[Go]
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v2.1.0](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v2.1.0), 1 month ago) - OneLogin SAML Symfony Bundle
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.31.0](https://github.com/nbgrp/auditor/releases/tag/v0.31.0), 2 months ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
