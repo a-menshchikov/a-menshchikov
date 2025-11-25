@@ -24,16 +24,17 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [cdnnow-pro/go-tracer](https://github.com/cdnnow-pro/go-tracer) (1 month ago)
 - [cdnnow-pro/go-metrics](https://github.com/cdnnow-pro/go-metrics) (1 month ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (2 months ago)
+- [max-messenger/max-bot-api-client-go](https://github.com/max-messenger/max-bot-api-client-go) (2 months ago)
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (3 months ago)
 - [tinylib/msgp](https://github.com/tinylib/msgp) - A Go code generator for MessagePack / msgpack.org[Go] (3 months ago)
 - [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (4 months ago)
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (6 months ago)
-- [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client (8 months ago)
 
 ---
 
 ### 🔭 Latest releases I've contributed to
 
+- [max-messenger/max-bot-api-client-go](https://github.com/max-messenger/max-bot-api-client-go) ([v1.1.0](https://github.com/max-messenger/max-bot-api-client-go/releases/tag/v1.1.0), today)
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) ([v2.20.0](https://github.com/nochlezhka/mks/releases/tag/v2.20.0), today) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.31.1](https://github.com/nbgrp/auditor/releases/tag/v0.31.1), today) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [redis/go-redis](https://github.com/redis/go-redis) ([v9.17.0](https://github.com/redis/go-redis/releases/tag/v9.17.0), 6 days ago) - Redis Go client
