@@ -34,12 +34,12 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
+- [tinylib/msgp](https://github.com/tinylib/msgp) ([v1.6.0](https://github.com/tinylib/msgp/releases/tag/v1.6.0), today) - A Go code generator for MessagePack / msgpack.org[Go]
 - [redis/go-redis](https://github.com/redis/go-redis) ([v9.18.0-beta.1](https://github.com/redis/go-redis/releases/tag/v9.18.0-beta.1), 2 days ago) - Redis Go client
 - [max-messenger/max-bot-api-client-go](https://github.com/max-messenger/max-bot-api-client-go) ([v1.3.0](https://github.com/max-messenger/max-bot-api-client-go/releases/tag/v1.3.0), 3 days ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v3.0.0](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v3.0.0), 1 week ago) - OneLogin SAML Symfony Bundle
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.31.2](https://github.com/nbgrp/auditor/releases/tag/v0.31.2), 1 week ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) ([v2.20.0](https://github.com/nochlezhka/mks/releases/tag/v2.20.0), 1 week ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
-- [tinylib/msgp](https://github.com/tinylib/msgp) ([v1.5.0](https://github.com/tinylib/msgp/releases/tag/v1.5.0), 1 month ago) - A Go code generator for MessagePack / msgpack.org[Go]
 - [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) ([v3.0.0](https://github.com/nbgrp/env-bundle/releases/tag/v3.0.0), 2 years ago) - Bundle with a few useful Symfony environment variable processors.
 
 ---
