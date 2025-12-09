@@ -19,6 +19,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
+- [nbgrp/go-metrics](https://github.com/nbgrp/go-metrics) - Go helper module for Prometheus metrics (today)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (3 days ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (1 week ago)
 - [cdnnow-pro/go-log](https://github.com/cdnnow-pro/go-log) (2 months ago)
@@ -28,14 +29,13 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (3 months ago)
 - [tinylib/msgp](https://github.com/tinylib/msgp) - A Go code generator for MessagePack / msgpack.org[Go] (4 months ago)
 - [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (5 months ago)
-- [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) - Bundle with a few useful Symfony environment variable processors. (6 months ago)
 
 ---
 
 ### 🔭 Latest releases I've contributed to
 
+- [redis/go-redis](https://github.com/redis/go-redis) ([v9.18.0-beta.2](https://github.com/redis/go-redis/releases/tag/v9.18.0-beta.2), today) - Redis Go client
 - [tinylib/msgp](https://github.com/tinylib/msgp) ([v1.6.1](https://github.com/tinylib/msgp/releases/tag/v1.6.1), 5 days ago) - A Go code generator for MessagePack / msgpack.org[Go]
-- [redis/go-redis](https://github.com/redis/go-redis) ([v9.18.0-beta.1](https://github.com/redis/go-redis/releases/tag/v9.18.0-beta.1), 1 week ago) - Redis Go client
 - [max-messenger/max-bot-api-client-go](https://github.com/max-messenger/max-bot-api-client-go) ([v1.3.0](https://github.com/max-messenger/max-bot-api-client-go/releases/tag/v1.3.0), 1 week ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v3.0.0](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v3.0.0), 1 week ago) - OneLogin SAML Symfony Bundle
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.31.2](https://github.com/nbgrp/auditor/releases/tag/v0.31.2), 1 week ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
