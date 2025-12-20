@@ -19,8 +19,8 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
-- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (4 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (2 days ago)
+- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (5 days ago)
 - [nbgrp/go-metrics](https://github.com/nbgrp/go-metrics) - Go helper module for Prometheus metrics (1 week ago)
 - [cdnnow-pro/go-log](https://github.com/cdnnow-pro/go-log) (2 months ago)
 - [cdnnow-pro/go-tracer](https://github.com/cdnnow-pro/go-tracer) (2 months ago)
@@ -48,7 +48,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 - [Add ability to pass \OneLogin\Saml2\Auth::login optional parameters](https://github.com/nbgrp/onelogin-saml-bundle/pull/75) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (2 months ago)
 - [Add compliance with the X-Forwarded-Prefix proxy header](https://github.com/nbgrp/onelogin-saml-bundle/pull/74) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (2 months ago)
-- [Batch update](https://github.com/nbgrp/onelogin-saml-bundle/pull/73) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (2 months ago)
+- [Batch update](https://github.com/nbgrp/onelogin-saml-bundle/pull/73) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (3 months ago)
 - [Make classes final and bump linters](https://github.com/nbgrp/onelogin-saml-bundle/pull/72) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (3 months ago)
 - [fix: logout supports other firewalls without configured AuthService](https://github.com/nbgrp/onelogin-saml-bundle/pull/71) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (3 months ago)
 - [Improve docs and examples](https://github.com/max-messenger/max-bot-api-client-go/pull/38) on [max-messenger/max-bot-api-client-go](https://github.com/max-messenger/max-bot-api-client-go) (3 months ago)
