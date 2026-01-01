@@ -34,8 +34,8 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [tinylib/msgp](https://github.com/tinylib/msgp) ([v1.6.2](https://github.com/tinylib/msgp/releases/tag/v1.6.2), 1 day ago) - A Go code generator for MessagePack / msgpack.org[Go]
-- [max-messenger/max-bot-api-client-go](https://github.com/max-messenger/max-bot-api-client-go) ([v1.4.0](https://github.com/max-messenger/max-bot-api-client-go/releases/tag/v1.4.0), 2 weeks ago)
+- [tinylib/msgp](https://github.com/tinylib/msgp) ([v1.6.2](https://github.com/tinylib/msgp/releases/tag/v1.6.2), 2 days ago) - A Go code generator for MessagePack / msgpack.org[Go]
+- [max-messenger/max-bot-api-client-go](https://github.com/max-messenger/max-bot-api-client-go) ([v1.4.0](https://github.com/max-messenger/max-bot-api-client-go/releases/tag/v1.4.0), 3 weeks ago)
 - [redis/go-redis](https://github.com/redis/go-redis) ([v9.18.0-beta.2](https://github.com/redis/go-redis/releases/tag/v9.18.0-beta.2), 3 weeks ago) - Redis Go client
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v3.0.0](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v3.0.0), 1 month ago) - OneLogin SAML Symfony Bundle
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.31.2](https://github.com/nbgrp/auditor/releases/tag/v0.31.2), 1 month ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
