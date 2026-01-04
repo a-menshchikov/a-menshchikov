@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (today)
+- [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (1 day ago)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 week ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (2 weeks ago)
 - [nbgrp/go-metrics](https://github.com/nbgrp/go-metrics) - Go helper module for Prometheus metrics (3 weeks ago)
@@ -34,7 +34,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [tinylib/msgp](https://github.com/tinylib/msgp) ([v1.6.3](https://github.com/tinylib/msgp/releases/tag/v1.6.3), 1 day ago) - A Go code generator for MessagePack / msgpack.org[Go]
+- [tinylib/msgp](https://github.com/tinylib/msgp) ([v1.6.3](https://github.com/tinylib/msgp/releases/tag/v1.6.3), 2 days ago) - A Go code generator for MessagePack / msgpack.org[Go]
 - [max-messenger/max-bot-api-client-go](https://github.com/max-messenger/max-bot-api-client-go) ([v1.4.0](https://github.com/max-messenger/max-bot-api-client-go/releases/tag/v1.4.0), 3 weeks ago)
 - [redis/go-redis](https://github.com/redis/go-redis) ([v9.18.0-beta.2](https://github.com/redis/go-redis/releases/tag/v9.18.0-beta.2), 3 weeks ago) - Redis Go client
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v3.0.0](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v3.0.0), 1 month ago) - OneLogin SAML Symfony Bundle
