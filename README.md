@@ -19,10 +19,10 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (today)
-- [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (4 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
+- [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (5 days ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (3 weeks ago)
-- [nbgrp/go-metrics](https://github.com/nbgrp/go-metrics) - Go helper module for Prometheus metrics (4 weeks ago)
+- [nbgrp/go-metrics](https://github.com/nbgrp/go-metrics) - Go helper module for Prometheus metrics (1 month ago)
 - [cdnnow-pro/go-log](https://github.com/cdnnow-pro/go-log) (3 months ago)
 - [cdnnow-pro/go-tracer](https://github.com/cdnnow-pro/go-tracer) (3 months ago)
 - [cdnnow-pro/go-metrics](https://github.com/cdnnow-pro/go-metrics) (3 months ago)
@@ -34,9 +34,9 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [tinylib/msgp](https://github.com/tinylib/msgp) ([v1.6.3](https://github.com/tinylib/msgp/releases/tag/v1.6.3), 5 days ago) - A Go code generator for MessagePack / msgpack.org[Go]
-- [max-messenger/max-bot-api-client-go](https://github.com/max-messenger/max-bot-api-client-go) ([v1.4.0](https://github.com/max-messenger/max-bot-api-client-go/releases/tag/v1.4.0), 3 weeks ago)
-- [redis/go-redis](https://github.com/redis/go-redis) ([v9.18.0-beta.2](https://github.com/redis/go-redis/releases/tag/v9.18.0-beta.2), 4 weeks ago) - Redis Go client
+- [tinylib/msgp](https://github.com/tinylib/msgp) ([v1.6.3](https://github.com/tinylib/msgp/releases/tag/v1.6.3), 6 days ago) - A Go code generator for MessagePack / msgpack.org[Go]
+- [max-messenger/max-bot-api-client-go](https://github.com/max-messenger/max-bot-api-client-go) ([v1.4.0](https://github.com/max-messenger/max-bot-api-client-go/releases/tag/v1.4.0), 4 weeks ago)
+- [redis/go-redis](https://github.com/redis/go-redis) ([v9.18.0-beta.2](https://github.com/redis/go-redis/releases/tag/v9.18.0-beta.2), 1 month ago) - Redis Go client
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v3.0.0](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v3.0.0), 1 month ago) - OneLogin SAML Symfony Bundle
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.31.2](https://github.com/nbgrp/auditor/releases/tag/v0.31.2), 1 month ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) ([v2.20.0](https://github.com/nochlezhka/mks/releases/tag/v2.20.0), 1 month ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
