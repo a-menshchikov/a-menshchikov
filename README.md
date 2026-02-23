@@ -34,7 +34,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [max-messenger/max-bot-api-client-go](https://github.com/max-messenger/max-bot-api-client-go) ([v1.5.1](https://github.com/max-messenger/max-bot-api-client-go/releases/tag/v1.5.1), 4 days ago)
+- [max-messenger/max-bot-api-client-go](https://github.com/max-messenger/max-bot-api-client-go) ([v1.6.2](https://github.com/max-messenger/max-bot-api-client-go/releases/tag/v1.6.2), today)
 - [redis/go-redis](https://github.com/redis/go-redis) ([v9.18.0](https://github.com/redis/go-redis/releases/tag/v9.18.0), 1 week ago) - Redis Go client
 - [tinylib/msgp](https://github.com/tinylib/msgp) ([v1.6.3](https://github.com/tinylib/msgp/releases/tag/v1.6.3), 1 month ago) - A Go code generator for MessagePack / msgpack.org[Go]
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v3.0.0](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v3.0.0), 2 months ago) - OneLogin SAML Symfony Bundle
