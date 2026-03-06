@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (today)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
 - [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (1 month ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (2 months ago)
 - [nbgrp/go-metrics](https://github.com/nbgrp/go-metrics) - Go helper module for Prometheus metrics (2 months ago)
@@ -28,13 +28,13 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [cdnnow-pro/go-metrics](https://github.com/cdnnow-pro/go-metrics) (4 months ago)
 - [max-messenger/max-bot-api-client-go](https://github.com/max-messenger/max-bot-api-client-go) (5 months ago)
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/ (6 months ago)
-- [tinylib/msgp](https://github.com/tinylib/msgp) - A Go code generator for MessagePack / msgpack.org[Go] (6 months ago)
+- [tinylib/msgp](https://github.com/tinylib/msgp) - A Go code generator for MessagePack / msgpack.org[Go] (7 months ago)
 
 ---
 
 ### 🔭 Latest releases I've contributed to
 
-- [max-messenger/max-bot-api-client-go](https://github.com/max-messenger/max-bot-api-client-go) ([v1.6.4](https://github.com/max-messenger/max-bot-api-client-go/releases/tag/v1.6.4), 2 days ago)
+- [max-messenger/max-bot-api-client-go](https://github.com/max-messenger/max-bot-api-client-go) ([v1.6.4](https://github.com/max-messenger/max-bot-api-client-go/releases/tag/v1.6.4), 3 days ago)
 - [redis/go-redis](https://github.com/redis/go-redis) ([v9.18.0](https://github.com/redis/go-redis/releases/tag/v9.18.0), 2 weeks ago) - Redis Go client
 - [tinylib/msgp](https://github.com/tinylib/msgp) ([v1.6.3](https://github.com/tinylib/msgp/releases/tag/v1.6.3), 2 months ago) - A Go code generator for MessagePack / msgpack.org[Go]
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v3.0.0](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v3.0.0), 3 months ago) - OneLogin SAML Symfony Bundle
