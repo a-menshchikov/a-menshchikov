@@ -45,6 +45,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
+- [Update config.sample.toml](https://github.com/pimalaya/himalaya/pull/678) on [pimalaya/himalaya](https://github.com/pimalaya/himalaya) (today)
 - [Add ability to pass \OneLogin\Saml2\Auth::login optional parameters](https://github.com/nbgrp/onelogin-saml-bundle/pull/75) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (7 months ago)
 - [Add compliance with the X-Forwarded-Prefix proxy header](https://github.com/nbgrp/onelogin-saml-bundle/pull/74) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (7 months ago)
 - [Batch update](https://github.com/nbgrp/onelogin-saml-bundle/pull/73) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (7 months ago)
@@ -54,7 +55,6 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [Generate code marker according golang docs](https://github.com/tinylib/msgp/pull/397) on [tinylib/msgp](https://github.com/tinylib/msgp) (10 months ago)
 - [ui fixes &#43; migrations fixes](https://github.com/nochlezhka/mks/pull/145) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (10 months ago)
 - [Update dependencies &#43; doctrine fixes](https://github.com/nochlezhka/mks/pull/141) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (10 months ago)
-- [Minor grumphp config improvement](https://github.com/nbgrp/env-bundle/pull/17) on [nbgrp/env-bundle](https://github.com/nbgrp/env-bundle) (11 months ago)
 
 ---
 
