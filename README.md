@@ -19,9 +19,9 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (6 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 week ago)
 - [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (4 months ago)
-- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (4 months ago)
+- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (5 months ago)
 - [nbgrp/go-metrics](https://github.com/nbgrp/go-metrics) - Go helper module for Prometheus metrics (5 months ago)
 - [cdnnow-pro/go-log](https://github.com/cdnnow-pro/go-log) (7 months ago)
 - [cdnnow-pro/go-tracer](https://github.com/cdnnow-pro/go-tracer) (7 months ago)
@@ -34,8 +34,8 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [max-messenger/max-bot-api-client-go](https://github.com/max-messenger/max-bot-api-client-go) ([v1.6.17](https://github.com/max-messenger/max-bot-api-client-go/releases/tag/v1.6.17), 6 days ago)
-- [tinylib/msgp](https://github.com/tinylib/msgp) ([v1.6.4](https://github.com/tinylib/msgp/releases/tag/v1.6.4), 4 weeks ago) - A Go code generator for MessagePack / msgpack.org[Go]
+- [max-messenger/max-bot-api-client-go](https://github.com/max-messenger/max-bot-api-client-go) ([v1.6.17](https://github.com/max-messenger/max-bot-api-client-go/releases/tag/v1.6.17), 1 week ago)
+- [tinylib/msgp](https://github.com/tinylib/msgp) ([v1.6.4](https://github.com/tinylib/msgp/releases/tag/v1.6.4), 1 month ago) - A Go code generator for MessagePack / msgpack.org[Go]
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v3.0.0](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v3.0.0), 5 months ago) - OneLogin SAML Symfony Bundle
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.31.2](https://github.com/nbgrp/auditor/releases/tag/v0.31.2), 5 months ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) ([v2.20.0](https://github.com/nochlezhka/mks/releases/tag/v2.20.0), 5 months ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
