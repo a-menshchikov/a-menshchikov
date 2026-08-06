@@ -19,11 +19,11 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (2 days ago)
 - [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (1 month ago)
 - [cdnnow-pro/go-metrics](https://github.com/cdnnow-pro/go-metrics) (2 months ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (7 months ago)
-- [nbgrp/go-metrics](https://github.com/nbgrp/go-metrics) - Go helper module for Prometheus metrics (7 months ago)
+- [nbgrp/go-metrics](https://github.com/nbgrp/go-metrics) - Go helper module for Prometheus metrics (8 months ago)
 - [cdnnow-pro/go-tracer](https://github.com/cdnnow-pro/go-tracer) (10 months ago)
 - [cdnnow-pro/go-log](https://github.com/cdnnow-pro/go-log) (10 months ago)
 - [max-messenger/max-bot-api-client-go](https://github.com/max-messenger/max-bot-api-client-go) (10 months ago)
