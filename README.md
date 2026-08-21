@@ -33,7 +33,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [max-messenger/max-bot-api-client-go](https://github.com/max-messenger/max-bot-api-client-go) ([v2.2.6](https://github.com/max-messenger/max-bot-api-client-go/releases/tag/v2.2.6), 6 days ago)
+- [max-messenger/max-bot-api-client-go](https://github.com/max-messenger/max-bot-api-client-go) ([v2.2.6](https://github.com/max-messenger/max-bot-api-client-go/releases/tag/v2.2.6), 1 week ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v3.0.0](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v3.0.0), 8 months ago) - OneLogin SAML Symfony Bundle
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.31.2](https://github.com/nbgrp/auditor/releases/tag/v0.31.2), 8 months ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) ([v2.20.0](https://github.com/nochlezhka/mks/releases/tag/v2.20.0), 8 months ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
