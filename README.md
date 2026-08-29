@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (today)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
 - [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (1 month ago)
 - [cdnnow-pro/go-metrics](https://github.com/cdnnow-pro/go-metrics) (3 months ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (8 months ago)
@@ -33,7 +33,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔭 Latest releases I've contributed to
 
-- [max-messenger/max-bot-api-client-go](https://github.com/max-messenger/max-bot-api-client-go) ([v2.3.5](https://github.com/max-messenger/max-bot-api-client-go/releases/tag/v2.3.5), 4 days ago)
+- [max-messenger/max-bot-api-client-go](https://github.com/max-messenger/max-bot-api-client-go) ([v2.3.5](https://github.com/max-messenger/max-bot-api-client-go/releases/tag/v2.3.5), 5 days ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v3.0.0](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v3.0.0), 9 months ago) - OneLogin SAML Symfony Bundle
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.31.2](https://github.com/nbgrp/auditor/releases/tag/v0.31.2), 9 months ago) - Simple and useful dockerized GrumPHP-based php code analyzer.
 
