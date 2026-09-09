@@ -23,7 +23,6 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (2 months ago)
 - [cdnnow-pro/go-metrics](https://github.com/cdnnow-pro/go-metrics) (3 months ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (8 months ago)
-- [nbgrp/go-metrics](https://github.com/nbgrp/go-metrics) - Go helper module for Prometheus metrics (9 months ago)
 - [cdnnow-pro/go-tracer](https://github.com/cdnnow-pro/go-tracer) (11 months ago)
 - [cdnnow-pro/go-log](https://github.com/cdnnow-pro/go-log) (11 months ago)
 - [max-messenger/max-bot-api-client-go](https://github.com/max-messenger/max-bot-api-client-go) (1 year ago)
