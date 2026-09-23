@@ -11,15 +11,15 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 📈 My GitHub Statistics
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=a-menshchikov&theme=calm&hide_title=true&include_all_commits=true&show_icons=true)
+![My GitHub stats](https://github-stats-extended.vercel.app/api?username=a-menshchikov&theme=calm&hide_title=true&include_all_commits=true&show_icons=true)
 
-[comment]: &lt;> (![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=a-menshchikov&theme=calm&hide_title=true&layout=compact&count_private=true&include_all_commits=true&langs_count=6&#41;)
+[comment]: &lt;> (![Top Langs]&#40;https://github-stats-extended.vercel.app/api/top-langs/?username=a-menshchikov&theme=calm&hide_title=true&layout=compact&count_private=true&include_all_commits=true&langs_count=6&#41;)
 
 ---
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (4 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (today)
 - [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (2 months ago)
 - [cdnnow-pro/go-metrics](https://github.com/cdnnow-pro/go-metrics) (4 months ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (9 months ago)
