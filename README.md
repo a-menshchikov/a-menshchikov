@@ -13,7 +13,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ![My GitHub stats](https://github-stats-extended.vercel.app/api?username=a-menshchikov&theme=calm&hide_title=true&include_all_commits=true&show_icons=true)
 
-[comment]: &lt;> (![Top Langs]&#40;https://github-stats-extended.vercel.app/api/top-langs/?username=a-menshchikov&theme=calm&hide_title=true&layout=compact&count_private=true&include_all_commits=true&langs_count=6&#41;)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=a-menshchikov&theme=calm&hide_title=true&layout=compact&count_private=true&include_all_commits=true&langs_count=6)
 
 ---
 
