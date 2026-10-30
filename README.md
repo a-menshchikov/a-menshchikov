@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (1 day ago)
+- [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (today)
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (2 days ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (10 months ago)
 
@@ -34,6 +34,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
+- [Module readmes](https://github.com/nbgrp/pkg/pull/2) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (today)
 - [chore/golangci-configs](https://github.com/nbgrp/pkg/pull/1) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (1 day ago)
 - [Update config.sample.toml](https://github.com/pimalaya/himalaya/pull/678) on [pimalaya/himalaya](https://github.com/pimalaya/himalaya) (5 months ago)
 - [Add ability to pass \OneLogin\Saml2\Auth::login optional parameters](https://github.com/nbgrp/onelogin-saml-bundle/pull/75) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (1 year ago)
@@ -43,7 +44,6 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [fix: logout supports other firewalls without configured AuthService](https://github.com/nbgrp/onelogin-saml-bundle/pull/71) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (1 year ago)
 - [Improve docs and examples](https://github.com/max-messenger/max-bot-api-client-go/pull/38) on [max-messenger/max-bot-api-client-go](https://github.com/max-messenger/max-bot-api-client-go) (1 year ago)
 - [Generate code marker according golang docs](https://github.com/tinylib/msgp/pull/397) on [tinylib/msgp](https://github.com/tinylib/msgp) (1 year ago)
-- [ui fixes &#43; migrations fixes](https://github.com/nochlezhka/mks/pull/145) on [nochlezhka/mks](https://github.com/nochlezhka/mks) (1 year ago)
 
 ---
 
