@@ -34,6 +34,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
+- [Add the grpcslog package](https://github.com/nbgrp/pkg/pull/6) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (today)
 - [Add the prommetrics package](https://github.com/nbgrp/pkg/pull/5) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (today)
 - [Add the ctxlog package](https://github.com/nbgrp/pkg/pull/4) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (today)
 - [Add the slogger package](https://github.com/nbgrp/pkg/pull/3) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (1 day ago)
@@ -43,7 +44,6 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [Add ability to pass \OneLogin\Saml2\Auth::login optional parameters](https://github.com/nbgrp/onelogin-saml-bundle/pull/75) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (1 year ago)
 - [Add compliance with the X-Forwarded-Prefix proxy header](https://github.com/nbgrp/onelogin-saml-bundle/pull/74) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (1 year ago)
 - [Batch update](https://github.com/nbgrp/onelogin-saml-bundle/pull/73) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (1 year ago)
-- [Make classes final and bump linters](https://github.com/nbgrp/onelogin-saml-bundle/pull/72) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (1 year ago)
 
 ---
 
