@@ -19,8 +19,8 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (today)
-- [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (2 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
+- [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (3 days ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (10 months ago)
 
 ---
@@ -34,10 +34,10 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
-- [Add the grpcslog package](https://github.com/nbgrp/pkg/pull/6) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (2 days ago)
-- [Add the prommetrics package](https://github.com/nbgrp/pkg/pull/5) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (2 days ago)
-- [Add the ctxlog package](https://github.com/nbgrp/pkg/pull/4) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (2 days ago)
-- [Add the slogger package](https://github.com/nbgrp/pkg/pull/3) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (3 days ago)
+- [Add the grpcslog package](https://github.com/nbgrp/pkg/pull/6) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (3 days ago)
+- [Add the prommetrics package](https://github.com/nbgrp/pkg/pull/5) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (3 days ago)
+- [Add the ctxlog package](https://github.com/nbgrp/pkg/pull/4) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (3 days ago)
+- [Add the slogger package](https://github.com/nbgrp/pkg/pull/3) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (4 days ago)
 - [Module readmes](https://github.com/nbgrp/pkg/pull/2) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (1 week ago)
 - [chore/golangci-configs](https://github.com/nbgrp/pkg/pull/1) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (1 week ago)
 - [Update config.sample.toml](https://github.com/pimalaya/himalaya/pull/678) on [pimalaya/himalaya](https://github.com/pimalaya/himalaya) (6 months ago)
