@@ -19,8 +19,8 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (1 day ago)
-- [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (3 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer. (today)
+- [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (today)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (10 months ago)
 
 ---
@@ -34,16 +34,16 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
+- [Fall back to the default logger when the context carries a nil logger](https://github.com/nbgrp/pkg/pull/11) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (today)
+- [Add the source code position and the attribute rewriting options](https://github.com/nbgrp/pkg/pull/10) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (today)
+- [Add the exemplar module and the example application](https://github.com/nbgrp/pkg/pull/8) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (today)
+- [BC Break: Add the prommetrics registry and rewrite ctxprom](https://github.com/nbgrp/pkg/pull/7) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (today)
 - [Add the grpcslog package](https://github.com/nbgrp/pkg/pull/6) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (3 days ago)
 - [Add the prommetrics package](https://github.com/nbgrp/pkg/pull/5) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (3 days ago)
 - [Add the ctxlog package](https://github.com/nbgrp/pkg/pull/4) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (3 days ago)
 - [Add the slogger package](https://github.com/nbgrp/pkg/pull/3) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (4 days ago)
 - [Module readmes](https://github.com/nbgrp/pkg/pull/2) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (1 week ago)
 - [chore/golangci-configs](https://github.com/nbgrp/pkg/pull/1) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (1 week ago)
-- [Update config.sample.toml](https://github.com/pimalaya/himalaya/pull/678) on [pimalaya/himalaya](https://github.com/pimalaya/himalaya) (6 months ago)
-- [Add ability to pass \OneLogin\Saml2\Auth::login optional parameters](https://github.com/nbgrp/onelogin-saml-bundle/pull/75) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (1 year ago)
-- [Add compliance with the X-Forwarded-Prefix proxy header](https://github.com/nbgrp/onelogin-saml-bundle/pull/74) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (1 year ago)
-- [Batch update](https://github.com/nbgrp/onelogin-saml-bundle/pull/73) on [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) (1 year ago)
 
 ---
 
