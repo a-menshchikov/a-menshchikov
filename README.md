@@ -19,8 +19,8 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer (1 day ago)
-- [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (1 day ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer (2 days ago)
+- [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (2 days ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (11 months ago)
 
 ---
@@ -34,16 +34,16 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
-- [Unified golangci config &#43; closer minimal refactoring](https://github.com/nbgrp/pkg/pull/14) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (3 days ago)
+- [Unified golangci config &#43; closer minimal refactoring](https://github.com/nbgrp/pkg/pull/14) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (4 days ago)
 - [Keep the leading and the trailing separators as they are](https://github.com/nbgrp/pkg/pull/13) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (1 week ago)
 - [Add the context-aware log level](https://github.com/nbgrp/pkg/pull/12) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (1 week ago)
 - [Fall back to the default logger when the context carries a nil logger](https://github.com/nbgrp/pkg/pull/11) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (1 week ago)
 - [Add the source code position and the attribute rewriting options](https://github.com/nbgrp/pkg/pull/10) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (1 week ago)
 - [Add the exemplar module and the example application](https://github.com/nbgrp/pkg/pull/8) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (1 week ago)
 - [BC Break: Add the prommetrics registry and rewrite ctxprom](https://github.com/nbgrp/pkg/pull/7) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (1 week ago)
-- [Add the grpcslog package](https://github.com/nbgrp/pkg/pull/6) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (1 week ago)
-- [Add the prommetrics package](https://github.com/nbgrp/pkg/pull/5) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (1 week ago)
-- [Add the ctxlog package](https://github.com/nbgrp/pkg/pull/4) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (1 week ago)
+- [Add the grpcslog package](https://github.com/nbgrp/pkg/pull/6) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (2 weeks ago)
+- [Add the prommetrics package](https://github.com/nbgrp/pkg/pull/5) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (2 weeks ago)
+- [Add the ctxlog package](https://github.com/nbgrp/pkg/pull/4) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (2 weeks ago)
 
 ---
 
