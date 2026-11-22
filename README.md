@@ -19,8 +19,8 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer (1 day ago)
-- [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (3 days ago)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer (2 days ago)
+- [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (4 days ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (11 months ago)
 
 ---
@@ -28,13 +28,13 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 ### 🔭 Latest releases I've contributed to
 
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) ([v0.33.0](https://github.com/nbgrp/auditor/releases/tag/v0.33.0), 1 week ago) - Simple and useful dockerized GrumPHP-based php code analyzer
-- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v3.0.0](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v3.0.0), 11 months ago) - OneLogin SAML Symfony Bundle
+- [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) ([v3.0.0](https://github.com/nbgrp/onelogin-saml-bundle/releases/tag/v3.0.0), 1 year ago) - OneLogin SAML Symfony Bundle
 
 ---
 
 ### 🔨 My recent Pull Requests
 
-- [Unified golangci config &#43; closer minimal refactoring](https://github.com/nbgrp/pkg/pull/14) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (5 days ago)
+- [Unified golangci config &#43; closer minimal refactoring](https://github.com/nbgrp/pkg/pull/14) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (6 days ago)
 - [Keep the leading and the trailing separators as they are](https://github.com/nbgrp/pkg/pull/13) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (1 week ago)
 - [Add the context-aware log level](https://github.com/nbgrp/pkg/pull/12) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (1 week ago)
 - [Fall back to the default logger when the context carries a nil logger](https://github.com/nbgrp/pkg/pull/11) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (1 week ago)
