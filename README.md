@@ -19,7 +19,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 👷 Check out what I'm currently working on
 
-- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer (today)
+- [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer (1 day ago)
 - [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (1 week ago)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (11 months ago)
 
@@ -35,7 +35,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 ### 🔨 My recent Pull Requests
 
 - [Unified golangci config &#43; closer minimal refactoring](https://github.com/nbgrp/pkg/pull/14) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (1 week ago)
-- [Keep the leading and the trailing separators as they are](https://github.com/nbgrp/pkg/pull/13) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (1 week ago)
+- [Keep the leading and the trailing separators as they are](https://github.com/nbgrp/pkg/pull/13) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (2 weeks ago)
 - [Add the context-aware log level](https://github.com/nbgrp/pkg/pull/12) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (2 weeks ago)
 - [Fall back to the default logger when the context carries a nil logger](https://github.com/nbgrp/pkg/pull/11) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (2 weeks ago)
 - [Add the source code position and the attribute rewriting options](https://github.com/nbgrp/pkg/pull/10) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (2 weeks ago)
