@@ -20,7 +20,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 ### 👷 Check out what I'm currently working on
 
 - [nbgrp/auditor](https://github.com/nbgrp/auditor) - Simple and useful dockerized GrumPHP-based php code analyzer (today)
-- [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (1 week ago)
+- [nbgrp/pkg](https://github.com/nbgrp/pkg) - Useful go modules (today)
 - [nbgrp/onelogin-saml-bundle](https://github.com/nbgrp/onelogin-saml-bundle) - OneLogin SAML Symfony Bundle (11 months ago)
 
 ---
@@ -34,6 +34,7 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 
 ### 🔨 My recent Pull Requests
 
+- [Synchronize the access to the trie](https://github.com/nbgrp/pkg/pull/15) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (today)
 - [Unified golangci config &#43; closer minimal refactoring](https://github.com/nbgrp/pkg/pull/14) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (1 week ago)
 - [Keep the leading and the trailing separators as they are](https://github.com/nbgrp/pkg/pull/13) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (2 weeks ago)
 - [Add the context-aware log level](https://github.com/nbgrp/pkg/pull/12) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (2 weeks ago)
@@ -43,7 +44,6 @@ My name is Alexander. I'm a software engineer, architect and FOSS enthusiast.
 - [BC Break: Add the prommetrics registry and rewrite ctxprom](https://github.com/nbgrp/pkg/pull/7) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (2 weeks ago)
 - [Add the grpcslog package](https://github.com/nbgrp/pkg/pull/6) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (3 weeks ago)
 - [Add the prommetrics package](https://github.com/nbgrp/pkg/pull/5) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (3 weeks ago)
-- [Add the ctxlog package](https://github.com/nbgrp/pkg/pull/4) on [nbgrp/pkg](https://github.com/nbgrp/pkg) (3 weeks ago)
 
 ---
 
